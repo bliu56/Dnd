@@ -5,7 +5,7 @@
 - **Age:** Late 40s–50s (Present Phase)
 **Background**
 - One of the Church's greatest warriors, chosen to accompany Arthur on his journey to defeat the Demon King
-- Fought alongside Arthur through the entirety of that campaign, forging a deep bond of brotherhood and mutual respect
+- Fought alongside [[Arthur]] through the entirety of that campaign, forging a deep bond of brotherhood and mutual respect
 - After Arthur's retirement, Adonis remained in the Church's service and rose to become its strongest Paladin
 - When the Pope issued the decree to eliminate the Demon King's offspring, Adonis was chosen to lead the holy inquisition
 - He tracked Arthur to the Evergreen Forest and led the raid that killed him — following his orders with conviction but not without cost

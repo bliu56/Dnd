@@ -1,7 +1,7 @@
 
 
 - **Role:** Child, Demon King's Offspring
-- **Affiliation:** None (lives with Arthur in the Evergreen Forest)
+- **Affiliation:** None (lives with [[Arthur]] in the Evergreen Forest)
 - **True Name:** Baal
 - **Age:** 12 (Past Phase)
 **Background**

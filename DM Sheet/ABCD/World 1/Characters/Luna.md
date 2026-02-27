@@ -1,12 +1,11 @@
 
-
 - **Role:** Priest, Healer, Michael's Student
 - **Affiliation:** The Church
 - **Status:** Alive
 - **Age:** 17 (Present Phase)
 **Background**
-- A young Priest of the Church currently under Michael's tutelage
-- Traveling with Michael and John on the mission to find the next Hero Candidate
+- A young Priest of the Church currently under [[Michael]]'s tutelage
+- Traveling with [[Michael]] and [[John]] on the mission to find the next Hero Candidate
 - Still early in her career but capable and devoted
 **Personality**
 - Happy-go-lucky and upbeat — rarely rattled, finds the bright side of most situations

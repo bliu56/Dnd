@@ -7,7 +7,7 @@
 - Born to a noble family that fled their house and renounced their title to live a quiet common life
 - His parents' noble family never accepted their departure and has been hunting them ever since
 - Grew up in a small village, living simply and far from his noble origins
-- The village was destroyed by the Demon King's forces — Tristan, now fully awakened as Baal
+- The village was destroyed by the Demon King's forces — [[Tristan]], now fully awakened as Baal
 - Raphael survived and disappeared into the chaos, adopting the name John and joining the Church as a low-ranking member
 - The Church asks few questions, offers training, and puts him on a path toward the Demon King — the perfect cover
 - His true goal is revenge for his village. He may also be hunting a specific demon responsible for the attack
@@ -17,11 +17,11 @@
 - Driven by a quiet, burning need for revenge that he rarely speaks about
 - Not unfriendly, but not warm either — he tolerates people more than he welcomes them
 - Beneath the walls, there is someone worth knowing — but he hasn't let anyone in yet
-**Relationship with Michael**
+**Relationship with [[Michael]]**
 - Genuinely respects Michael even if he doesn't show it much
 - Michael's encouragement to try the box quietly irritates him — he doesn't see himself as anything special
 - Deep down, Michael's belief in him is something he doesn't know what to do with
-**Relationship with Luna**
+**Relationship with [[Luna]]**
 - They bicker regularly — she gets under his skin more than most
 - He would never admit it but her energy is something he finds grounding even when it annoys him
 **Secret**

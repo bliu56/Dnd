@@ -5,14 +5,14 @@
 - **Will Stage:** III — Realization (Light → Speed & Cutting Power)
 **Background**
 - Chosen by the Goddess to defeat the Demon King
-- Traveled with a Church-assembled party including Sir Adonis
+- Traveled with a Church-assembled party including [[Sir Adonis]]
 - Successfully defeated the Demon King
 **The Promise**
 - The dying Demon King asked Arthur to raise his offspring (Baal) in peace, away from the cycle of revenge
 - Arthur agreed and took in the child
 **Life After**
-- Renamed Baal to **Tristan** to hide his identity; told others he was an orphan he adopted
-- Retired to the **Evergreen Forest** (between Stonewood and Lowfield)
+- Renamed Baal to **[[Tristan]]** to hide his identity; told others he was an orphan he adopted
+- Retired to the **[[Evergreen Forest]]** (between [[Stonewood]] and [[Lowfield]])
 - Spent his days teaching Tristan to control his powers and to be a good person
 
 ## Statblock
