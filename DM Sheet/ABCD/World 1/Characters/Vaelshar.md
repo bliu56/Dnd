@@ -1,5 +1,4 @@
 
-
 _True Name: Vael'shar_ (VAY-el-shar)*
 _Title: The Hollow_
 _Classification: Demon General — Infiltration & Assassination_
