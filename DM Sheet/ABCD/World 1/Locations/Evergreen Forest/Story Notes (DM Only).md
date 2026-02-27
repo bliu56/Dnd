@@ -3,4 +3,3 @@
 - If players reach the house in the Present phase, the undisturbed state of Arthur's belongings is a potential emotional moment — Tristan has not removed them, has not been able to
 - The clearing's enforced safety is a hook: players who are being pursued through the Twilight Forest might stumble into it and find themselves inexplicably protected — and then have to reckon with why
 - In the Past phase, the house is a place players may spend time in — it should feel like a real home, not a set piece
-

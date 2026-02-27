@@ -4,4 +4,3 @@
 - Edna's sketch of Tristan — unchanged after twenty years — is a potential story moment if players notice it
 - Renwick's quiet theory about the village's protection could seed Tristan's identity before players have figured it out themselves
 - Tristan halting his own growth is an early sign of how powerful his magic truly is — he changed something fundamental about himself half by accident as a child
-
