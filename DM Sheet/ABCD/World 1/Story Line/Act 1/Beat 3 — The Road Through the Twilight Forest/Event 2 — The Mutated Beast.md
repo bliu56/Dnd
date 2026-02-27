@@ -24,6 +24,7 @@ _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spel
 - _**Slam.** +8 to hit, 5 ft._ Hit: 2d10+5 bludgeoning. On a hit, the target makes a DC 15 Con save or is stunned until the end of their next turn.
 - _**Plated Charge.**_ Once per encounter: the Ashcrawler charges up to 40 ft. in a line. Each creature in its path makes a DC 15 Dex save, taking 4d8 bludgeoning damage on a fail or half on a success.
 - _**Chitin Armor.**_ The first time the Ashcrawler would take more than 15 damage from a single hit, reduce that damage by 10.
+  
 **Duskwing** _(formerly a large owl)_
 A massive owl, wingspan stretching twelve feet, its feathers now the deep black-violet of the forest at its worst. The feathers at the wingtips have hardened into something resembling blades. It flies without disturbing the air — no downwash, no sound. Its call, when it makes one, is not a screech but a low resonant tone that rattles in the chest. It hunts from above and prefers to separate its prey from the group before striking.
 _Behavior:_ Methodical and patient. It circles above the fog line and waits for a target to fall behind or be isolated. It will break off if it takes significant damage, retreat into the fog, and may return once — players should feel like it's watching even after it withdraws.
