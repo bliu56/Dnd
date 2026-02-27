@@ -122,9 +122,9 @@ You can summon a nature spirit that assumes an animal form to aid you. As a Magi
 When you cast the spell in this way, the familiar is Fey and disappears when you finish a Long Rest.
 ## Level 3
 ### Subclass
-You gain a subclass of your choice. [[dnd/Player Resource (ABCD)/Druid|Druid]]
+You gain a subclass of your choice. [[dnd/docs/Druid|Druid]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Wild Resurgence
 Once on each of your turns, if you have no uses of Wild Shape left, you can give yourself one use by expending a spell slot (no action required).
@@ -139,12 +139,12 @@ The might of the elements flows through you. You gain one of the following optio
 |Divine Strike|Add your Wisdom modifier to the damage you deal with any Druid cantrip.|
 |Primal Strike|Once on each of your turns when you hit a creature with an attack roll using a weapon or a Beast form’s attack in Wild Shape, you can cause the target to take an extra 1d8 Cold, Fire, Lightning, or Thunder damage (choose when you hit).|
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ## Level 10
 ## Level 11
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ## Level 14
 ## Level 15
@@ -155,7 +155,7 @@ The option you chose for Elemental Fury grows more powerful, as detailed below.
 |Potent Spellcasting|When you cast a Druid cantrip with a range of 10 feet or greater, the spell’s range increases by 300 feet.|
 |Primal Strike|The extra damage of your Primal Strike increases to 2d8.|
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ## Level 19

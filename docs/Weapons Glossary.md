@@ -4,8 +4,8 @@
 - [[#Improvised Weapons]]
 # Weapons
 ---
-[[dnd/Player Resource (ABCD)/Weapons Glossary/Weapons|Weapons]]
-[[dnd/Player Resource (ABCD)/Weapons Glossary/Ammunition|Ammunition]]
+[[dnd/docs/Weapons Glossary/Weapons|Weapons]]
+[[dnd/docs/Weapons Glossary/Ammunition|Ammunition]]
 # Weapon Property
 ---
 - Property Table

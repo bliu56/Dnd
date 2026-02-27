@@ -94,9 +94,9 @@ You can use only one Metamagic option on a spell when you cast it unless otherwi
 Whenever you gain a Sorcerer level, you can replace one of your [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) options with one you don’t know. You gain two more options at Sorcerer level 10 and two more at Sorcerer level 17.
 ## Level 3
 ### Subclass
-You gain a subclass of your choice. [[dnd/Player Resource (ABCD)/Sorcerer|Sorcerer]]
+You gain a subclass of your choice. [[dnd/docs/Sorcerer|Sorcerer]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Sorcerous Restoration
 When you finish a Short Rest, you can regain expended Sorcery Points, but no more than a number equal to half your Sorcerer level (round down). Once you use this feature, you can’t do so again until you finish a Long Rest.
@@ -107,18 +107,18 @@ Check Subclass
 If you have no uses of Innate Sorcery left, you can use it if you spend 2 Sorcery Points when you take the Bonus Action to activate it.
 In addition, while your Innate Sorcery feature is active, you can use up to two of your [Metamagic](http://dnd2024.wikidot.com/sorcerer:metamagic) options on each spell you cast.
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ## Level 10
   
 ## Level 11
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ## Level 14
 ## Level 15
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ## Level 19

@@ -107,9 +107,9 @@ If a Channel Divinity effect requires a saving throw, the DC equals the spell sa
 |Turn Undead|As a Magic action, you present your Holy Symbol and censure Undead creatures. Each Undead of your choice within 30 feet of you must make a Wisdom saving throw. If the creature fails its save, it has the Frightened and Incapacitated conditions for 1 minute. For that duration, it tries to move as far from you as it can on its turns. This effect ends early on the creature if it takes any damage, if you have the Incapacitated condition, or if you die.|
 ## Level 3
 ### Subclass
-You gain a subclass of your choice. [[dnd/Player Resource (ABCD)/Cleric|Cleric]]
+You gain a subclass of your choice. [[dnd/docs/Cleric|Cleric]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Sear Undead
 Whenever you use Turn Undead, you can roll a number of d8s equal to your Wisdom modifier (minimum of 1d8) and add the rolls together. Each Undead that fails its saving throw against that use of Turn Undead takes Radiant damage equal to the roll’s total. This damage doesn’t end the turn effect.
@@ -123,13 +123,13 @@ Divine power infuses you in battle. You gain one of the following options of you
 |Divine Strike|Once on each of your turns when you hit a creature with an attack roll using a weapon, you can cause the target to take an extra 1d8 Necrotic or Radiant damage (your choice).|
 |Potent Spellcasting|Add your Wisdom modifier to the damage you deal with any Cleric cantrip.|
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ## Level 10
 You can call on your deity or pantheon to intervene on your behalf. As a Magic action, choose any Cleric spell of level 5 or lower that doesn’t require a Reaction to cast. As part of the same action, you cast that spell without expending a spell slot or needing Material components. You can’t use this feature again until you finish a Long Rest.
 ## Level 11
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ## Level 14
 ### Improved Blessed Strikes
@@ -140,7 +140,7 @@ The option you chose for Blessed Strikes grows more powerful..
 |Potent Spellcasting|When you cast a Cleric cantrip and deal damage to a creature with it, you can give vitality to yourself or another creature within 60 feet of yourself, granting a number of Temporary Hit Points equal to twice your Wisdom modifier.|
 ## Level 15
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ## Level 19

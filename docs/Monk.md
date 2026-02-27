@@ -115,9 +115,9 @@ Once you use this feature, you can’t use it again until you finish a Long Rest
 When an attack roll hits you and its damage includes Bludgeoning, Piercing, or Slashing damage, you can take a Reaction to reduce the attack’s total damage against you. The reduction equals 1d10 plus your Dexterity modifier and Monk level.
 If you reduce the damage to 0, you can expend 1 Focus Point to redirect some of the attack’s force. If you do so, choose a creature you can see within 5 feet of yourself if the attack was a melee attack or a creature you can see within 60 feet of yourself that isn’t behind Total Cover if the attack was a ranged attack. That creature must succeed on a Dexterity saving throw or take damage equal to two rolls of your Martial Arts die plus your Dexterity modifier. The damage is the same type dealt by the attack.
 ### Subclass
-You gain a Barbarian subclass of your choice. [[dnd/Player Resource (ABCD)/Monk|Monk]]
+You gain a Barbarian subclass of your choice. [[dnd/docs/Monk|Monk]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ### Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 ## Level 5
@@ -135,7 +135,7 @@ You don’t benefit from this feature if you have the Incapacitated condition.
 ### Extra Attack
 When you reach 7th level in this class, you learn to capture your enemy’s ki as you strike, transferring its life force to revitalize your own. At the end of your turn, you gain temporary hit points equal to thrice the number of weapon attacks you made that hit a non-Construct creature that turn.
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ### Acrobatic Movement
 While you aren’t wearing armor or wielding a Shield, you gain the ability to move along vertical surfaces and across liquids on your turn without falling during the movement.
@@ -152,7 +152,7 @@ Through sheer force of will, you can remove one of the following conditions from
 In addition, forgoing food and drink doesn’t give you levels of Exhaustion.
 ## Level 11
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ### Deflect Energy
 You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
@@ -164,7 +164,7 @@ Additionally, whenever you make a saving throw and fail, you can expend 1 Focus 
 ### Perfect Focus
 When you roll Initiative and don’t use Uncanny Metabolism, you regain expended Focus Points until you have 4 if you have 3 or fewer.
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ### Superior Defense

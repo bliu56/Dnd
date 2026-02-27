@@ -84,9 +84,9 @@ Once you use this feature, you can't do so again until you finish a Long Rest.
 While studying magic, you also specialized in another field of study. Choose one of the following skills in which you have proficiency: Arcana, History, Investigation, Medicine, Nature, or Religion. You have Expertise in the chosen skill.
 ## Level 3
 ### Subclass
-You gain a subclass of your choice. [[dnd/Player Resource (ABCD)/Wizard|Wizard]]
+You gain a subclass of your choice. [[dnd/docs/Wizard|Wizard]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Memorize Spell
 Whenever you finish a Short Rest, you can study your spellbook and replace one of the level 1+ Wizard spells you have prepared for your Spellcasting feature with another level 1+ spell from the book.
@@ -94,18 +94,18 @@ Whenever you finish a Short Rest, you can study your spellbook and replace one o
 Check Subclass
 ## Level 7
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ## Level 10
   
 ## Level 11
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ## Level 14
 ## Level 15
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ### Spell Mastery

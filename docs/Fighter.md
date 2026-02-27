@@ -55,14 +55,14 @@ Fighters master various weapon techniques, and a well-equipped Fighter always ha
 ---
 ## Level 1
 ### Fighting Style
-You gain a [[dnd/Player Resource (ABCD)/Feats]] of your choice (see chapter 5). Defense is recommended.
+You gain a [[dnd/docs/Feats]] of your choice (see chapter 5). Defense is recommended.
 Whenever you gain a Fighter level, you can replace the feat you chose with a different Fighting Style feat.
 ### Second Wind
 You have a limited well of physical and mental stamina that you can draw on. As a Bonus Action, you can use it to regain Hit Points equal to 1d10 plus your Fighter level.
 You can use this feature twice. You regain one expended use when you finish a Short Rest, and you regain all expended uses when you finish a Long Rest.
 When you reach certain Fighter levels, you gain more uses of this feature, as shown in the Second Wind column of the Fighter Features table.
 ### Weapon Mastery
-Your training with weapons allows you to use the ==[[dnd/Player Resource (ABCD)/Weapons Glossary]]== of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
+Your training with weapons allows you to use the ==[[dnd/docs/Weapons Glossary]]== of two kinds of Simple or Martial Melee weapons of your choice, such as Greataxes and Handaxes. Whenever you finish a Long Rest, you can practice weapon drills and change one of those weapon choices.
 When you reach certain Barbarian levels, you gain the ability to use the mastery properties of more kinds of weapons, as shown in the Weapon Mastery column of the Barbarian Features table.
 ## Level 2
 ### Action Surge
@@ -72,9 +72,9 @@ Once you use this feature, you can’t do so again until you finish a Short or L
 You have a mind for tactics on and off the battlefield. When you fail an ability check, you can expend a use of your Second Wind to push yourself toward success. Rather than regaining Hit Points, you roll 1d10 and add the number rolled to the ability check, potentially turning it into a success. If the check still fails, this use of Second Wind isn’t expended.
 ## Level 3
 ### Subclass
-You gain a Barbarian subclass of your choice. [[dnd/Player Resource (ABCD)/Fighter|Fighter]]
+You gain a Barbarian subclass of your choice. [[dnd/docs/Fighter|Fighter]]
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
@@ -85,7 +85,7 @@ Check Subclass
 ## Level 7
 ### Extra Attack
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ### Indomitable
 If you fail a saving throw, you can reroll it with a bonus equal to your Fighter level. You must use the new roll, and you can’t use this feature again until you finish a Long Rest.
@@ -98,7 +98,7 @@ Check Subclass
 ### Two Extra Attacks
 You can attack three times instead of once whenever you take the Attack action on your turn.
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ### Studied Attacks
 You study your opponents and learn from each attack you make. If you make an attack roll against a creature and miss, you have Advantage on your next attack roll against that creature before the end of your next turn.
@@ -106,7 +106,7 @@ You study your opponents and learn from each attack you make. If you make an att
 Check Subclass
 ## Level 15
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ## Level 19
@@ -124,7 +124,7 @@ Battle Masters are students of the art of battle, learning martial techniques pa
 Your experience on the battlefield has refined your fighting techniques. You learn maneuvers that are fueled by special dice called Superiority Dice.
 |   |   |
 |---|---|
-|**Maneuvers**|You learn three maneuvers of your choice from the “[[dnd/Player Resource (ABCD)/Fighter\|Fighter]]” section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.  <br>  <br>You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.|
+|**Maneuvers**|You learn three maneuvers of your choice from the “[[dnd/docs/Fighter\|Fighter]]” section later in this subclass’s description. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.  <br>  <br>You learn two additional maneuvers of your choice when you reach Fighter levels 7, 10, and 15. Each time you learn new maneuvers, you can also replace one maneuver you know with a different one.|
 |**Superiority Dice**|You have four Superiority Dice, which are d8s. A Superiority Die is expended when you use it. You regain all expended Superiority Dice when you finish a Short or Long Rest.  <br>You gain an additional Superiority Die when you reach Fighter levels 7 (five dice total) and 15 (six dice total).|
 |**Saving Throws**|If a maneuver requires a saving throw, the DC equals 8 plus your Strength or Dexterity modifier (your choice) and Proficiency Bonus.|
 ### Level 3: Student of War
@@ -170,7 +170,7 @@ Your attack rolls with weapons and Unarmed Strikes can score a Critical Hit on a
 Thanks to your athleticism, you have Advantage on Initiative rolls and Strength (Athletics) checks.
 In addition, immediately after you score a Critical Hit, you can move up to half your Speed without provoking Opportunity Attacks.
 ### Level 7: Additional Fighting Style
-You gain another [[dnd/Player Resource (ABCD)/Feats]] of your choice.
+You gain another [[dnd/docs/Feats]] of your choice.
 ### Level 10: Heroic Warrior
 The thrill of battle drives you toward victory. During combat, you can give yourself Heroic Inspiration whenever you start your turn without it.
 ### Level 15: Superior Critical

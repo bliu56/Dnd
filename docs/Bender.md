@@ -94,11 +94,11 @@ Your strikes manifest elemental energy, which you can unleash at the peak of you
 This attack's damage increases by 1d4 when you reach 6th level (2d4), 10th level (3d4), and 14th level (4d4) in this class.
 ## Level 3
 ### Subclass
-You gain a Bender subclass of your choice. [[dnd/Player Resource (ABCD)/Bender|Bender]]
+You gain a Bender subclass of your choice. [[dnd/docs/Bender|Bender]]
 ### Bender Discipline
 You choose an aspect of how nature manifests, which you embody in your manipulation of the elements. Your discipline choice grants you features at 3rd level and again at 7th, 15th, and 20th level.
 ## Level 4
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
@@ -114,7 +114,7 @@ As part of the Bonus Action you take to enter your Rage, you can move up to half
 ### Extra Attack
 The fury of your attacks can knock a foe to the ground. When you take the Attack action and make an attack roll against a creature with advantage, if both of the d20 rolls would hit the target, you can force the target to make a Strength saving throw (DC equals 8 + your proficiency bonus + your attacking ability modifier). On a failure, you can choose to knock the target prone or push it up to 5 feet away from you. Creatures more than one size larger than you automatically succeed on this saving throw. You can use this feature once per turn.
 ## Level 8
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ### Brutal Strike
 If you use Reckless Attack, you can forgo any Advantage on one Strength-based attack roll of your choice on your turn. The chosen attack roll mustn't have Disadvantage. If the chosen attack roll hits, the target takes an extra 1d10 damage of the same type dealt by the weapon or Unarmed Strike, and you can cause one Brutal Strike effect of your choice.
@@ -130,7 +130,7 @@ Check Subclass
 Your Rage can keep you fighting despite grievous wounds. If you drop to 0 Hit Points while your Rage is active and don't die outright, you can make a DC 10 Constitution saving throw. If you succeed, your Hit Points instead change to a number equal to twice your Barbarian level.
 Each time you use this feature after the first, the DC increases by 5. When you finish a Short or Long Rest, the DC resets to 10.
 ## Level 12
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ### Improved Brutal Strike
 You have honed new ways to attack furiously. The following effects are now among your Brutal Strike options.
@@ -145,7 +145,7 @@ Check Subclass
 When you roll Initiative, you can regain all expended uses of Rage. After you regain uses of Rage in this way, you can’t do so again until you finish a Long Rest.
 In addition, your Rage is so fierce that it now lasts for 10 minutes without you needing to do anything to extend it from round to round. Your Rage ends early if you have the Unconscious condition (not just the Incapacitated condition) or don Heavy armor.
 ## Level 16
-You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ### Improved Brutal Strike
 The extra damage of your Brutal Strike increases to 2d10. In addition, you can use two different Brutal Strike effects whenever you use your Brutal Strike feature.
