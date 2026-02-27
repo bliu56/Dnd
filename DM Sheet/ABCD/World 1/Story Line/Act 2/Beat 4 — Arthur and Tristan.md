@@ -1,10 +1,10 @@
-_Location: The Evergreen Forest / Arthur's House_
+_Location: The [[Evergreen Forest]] / [[Arthur]]'s House_
 Getting to Arthur requires either following him from Lowfield back toward the forest or finding a reason to go into the forest directly.
-Arthur is immediately warm with strangers. He invites people in without much prompting — it is simply his nature. The house is exactly what it looked like in the Present phase, but lived-in and full of light. Tristan moves around it quietly, doing whatever needs doing, watching the party with the careful assessment of a child who has learned to read people.
+Arthur is immediately warm with strangers. He invites people in without much prompting — it is simply his nature. The house is exactly what it looked like in the Present phase, but lived-in and full of light. [[Tristan]] moves around it quietly, doing whatever needs doing, watching the party with the careful assessment of a child who has learned to read people.
 
 ## Arthur in conversation
 
-- Talks easily about the forest, about Tristan, about Lowfield
+- Talks easily about the forest, about [[Tristan|Tristan,]] about Lowfield
 - Deflects anything about his past with practiced warmth — he has done this many times and is good at it
 - If pushed seriously: _"I did something important a long time ago. I'd rather not be important anymore."_
 - He does not know about the decree. He will not know until the inquisition is close.
