@@ -13,10 +13,10 @@
 
 # Pity Tracker
 
-|Result|Samuel|Tristyn|Justin|Rodrigo|Jessie|Edward|
-|---|---|---|---|---|---|---|
-|Miss||4|||2||
-|Hit||||||3|
+| Result | Samuel | Tristyn | Justin | Rodrigo | Jessie | Edward |
+| ------ | ------ | ------- | ------ | ------- | ------ | ------ |
+| Miss   |        | 4       |        |         | 2      |        |
+| Hit    |        |         |        |         |        | 3      |
 
 Wannabe Evil God
 Upright Lover + Reverse Magician
