@@ -11,7 +11,7 @@
 - Suspects he is not fully human given Arthur is, but has never asked and doesn't particularly care
 **Personality**
 - Quiet and reserved — a child of few words
-- Deeply loyal to Arthur, whom he considers his father in every way that matters
+- Deeply loyal to [[Arthur]], whom he considers his father in every way that matters
 - Obedient and diligent in his training
 - Content with his simple life; unbothered by questions of identity or origin
 **Demonic Traits**
