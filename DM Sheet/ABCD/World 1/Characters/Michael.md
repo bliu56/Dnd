@@ -1,5 +1,4 @@
 
-
 - **Role:** Archbishop, Mentor, Bearer of the Hero's Box
 - **Affiliation:** The Church
 - **Status:** Alive
