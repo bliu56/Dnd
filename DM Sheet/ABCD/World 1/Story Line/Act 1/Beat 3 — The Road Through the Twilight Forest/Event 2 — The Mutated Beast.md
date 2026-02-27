@@ -13,6 +13,7 @@ _Behavior:_ Territorial. It wants the group out of its range, not necessarily de
 - _**Gore.** +7 to hit, 5 ft._ Hit: 2d8+5 piercing. On a hit, the target is pushed 10 ft. and must make a DC 14 Str save or be knocked prone.
 - _**Mana Pulse (Recharge 5–6).**_ The antlers release a burst of corrupted mana in a 20 ft. cone. Each creature in the area makes a DC 14 Con save, taking 3d10 necrotic damage on a fail or half on a success.
 - _**Territorial Charge.**_ If the Veilstag moves at least 20 ft. in a straight line before hitting, the Gore attack deals an additional 2d8 damage.
+
 **Ashcrawler** _(formerly a bear)_
 A bear, or what was one. Its body has bloated and hardened, the fur replaced in places by a thick chitinous plating the color of charcoal. Its eyes are gone — replaced by six small glowing points of violet light arranged across its face. It navigates entirely by sensing mana, which means it is blind to creatures who aren't using magic and acutely aware of those who are. It moves on all fours but can rear up to a terrifying height.
 _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spellcasters or anyone actively using magic above others. Cannot be easily driven off — it commits once it engages.
