@@ -1,0 +1,26 @@
+# Magic
+
+Magic is the manipulation of mana — an energy that exists throughout the world in different forms depending on its source. How a being accesses mana defines the nature of their magic entirely. Humans and demons draw on mana in fundamentally different ways, and neither can replicate the other's method.
+**How Humans Use Magic**
+Humans are conductors. They do not generate mana themselves — instead they draw it from external sources and channel it through their bodies to produce magical effects. The three sources humans can draw from are nature, spirits, and gods.
+- **Nature** is the most common source — the ambient mana that flows through living things, water, earth, and air. Most human spellcasters use this without thinking about it, the way a person breathes without thinking about their lungs.
+- **Spirits** are entities that exist alongside the natural world. A human who has formed a relationship with spirits can draw on their mana directly, often producing magic with a distinctly different character — older, stranger, more unpredictable.
+- **Gods** grant mana to those who serve them through faith and devotion. Divine magic is the most structured and the most powerful at its ceiling, but it is also the most conditional — it flows through the relationship between the caster and their god, and that relationship can be strained.
+Most humans draw from only one source. A rare few can draw from two, and drawing from all three simultaneously is essentially unheard of. Those who can access multiple sources tend to have magic that is unusually versatile but harder to master.
+**Running Out of Mana**
+Because humans draw from external sources rather than generating their own, their available mana at any given moment depends on their connection to that source and how much they have already channeled. Sustained spellcasting, high-intensity magic, or being cut off from one's source can deplete a human's ability to draw further.
+Reaching empty is exhausting but survivable. Pushing past empty is not. A human who forces magic through a depleted channel is drawing on something they don't have — burning through the connection itself rather than what flows through it. The consequences range from physical collapse and lasting injury to permanent damage to their ability to use magic at all. In extreme cases it is fatal. This is not a theoretical risk. It happens, and practitioners know it.
+**Environments Where Human Magic Fails**
+Human magic requires a connection to its source. Sever that connection and the magic stops.
+Places that are cut off from nature — deeply corrupted land, sealed vaults, areas of concentrated antimagic — can weaken or entirely block a nature-drawing caster. The Twilight Forest is a particular case: Tristan's awakening so thoroughly altered the environment that the natural mana flow within it is distorted and unreliable. Human spellcasters who enter the Twilight Forest often find their magic sluggish, inconsistent, or failing at the worst moments.
+Divine magic is similarly affected by places of corrupted or opposing spiritual presence. A priest of the Goddess casting inside a site consecrated to something else may find their connection muffled.
+**How Demons Use Magic**
+Demons generate and store their own mana internally. They are self-contained — their magic does not depend on their environment, cannot be blocked by cutting off an external source, and does not fluctuate based on where they are. A demon casts the same in a dead wasteland as in a lush forest.
+The tradeoff is that what a demon has is what they have. Their mana regenerates over time but it is finite in a way that human mana, drawn from an essentially boundless external source, is not. A demon in a prolonged fight is spending from a reserve. A human in the same fight is drawing from a well that refills on its own — provided the well is accessible.
+Demon mana has a different character to human mana. It is denser, more self-directed, and carries an intrinsic quality tied to the demon's nature. This is why antimagic effects that suppress external mana sources do not work on demons — there is no external source to cut off.
+**The Barrier Between Systems**
+Humans cannot generate internal mana. No amount of training, ritual, or augmentation allows a human to produce mana from within themselves the way a demon does. Likewise, demons do not naturally form the kind of open external channels that allow a human to draw from nature or gods — their magic is by definition closed and internal.
+This means the two systems are entirely separate in practice. A demon cannot receive divine magic. A human cannot use innate demon-style casting. There is no overlap, no hybrid, no exception that has been reliably documented.
+**Visible Effects**
+Magic has a visible component when cast. The appearance varies by source and caster — nature magic tends toward greens and golds, divine magic toward white and pale light, spirit magic toward silver or shifting iridescence. Demon magic is typically darker in hue, often red, black, or deep violet, and has a denser, more physical quality to its visual presence. Experienced observers can identify a caster's source and sometimes their affiliation from the look of their magic alone.
+

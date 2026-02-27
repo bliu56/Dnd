@@ -1,0 +1,22 @@
+# World 1
+
+- [[Original Plotline]]
+- [[Deviations]]
+- Story Line
+    - [[Act 1]]
+    - [[Act 2]]
+- Characters
+    - [[Arthur]]
+    - [[Tristan]]
+    - [[Michael]]
+    - [[Luna]]
+    - [[John]]
+    - [[Sir Adonis]]
+    - [[Vaelshar]]
+- Locations
+    - [[Stonewood]]
+    - [[Lowfield]]
+    - [[Evergreen Forest]]
+- [[Will]]
+- [[Magic]]
+- [[Gods & Spirits]]
