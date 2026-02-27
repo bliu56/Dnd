@@ -1,11 +1,11 @@
-_Location: Stonewood South Gate, just before departure_
-Just as the group is about to set off, a young man pushes through the small crowd near the gate and calls out to them. This is **Emmet Ashford** _(EM-et ASH-ford)_, mid-twenties, a textile merchant's son from Stonewood. He is visibly nervous, clutching his coat, and has clearly rehearsed what he is about to say.
+_Location: [[Stonewood]] South Gate, just before departure_
+Just as the group is about to set off, a young man pushes through the small crowd near the gate and calls out to them. This is **[[Emmet]] Ashford** _(EM-et ASH-ford)_, mid-twenties, a textile merchant's son from Stonewood. He is visibly nervous, clutching his coat, and has clearly rehearsed what he is about to say.
 
 ## Who he is
 
 - Works at his family's textile stall in Stonewood's market district
 - Cheerful, earnest, a little bumbling — but genuinely kind
-- Met a girl named **Sera Voss** _(SEH-rah VOSS)_ at Lowfield's pasture market months ago. She was on a supply run from Caldenveil; he was visiting Renwick, an old family contact. They spent an afternoon talking. He hasn't stopped thinking about her since.
+- Met a girl named **[[Sera]] Voss** _(SEH-rah VOSS)_ at Lowfield's pasture market months ago. She was on a supply run from Caldenveil; he was visiting Renwick, an old family contact. They spent an afternoon talking. He hasn't stopped thinking about her since.
 - Has been too nervous to make the journey alone — the Twilight Forest makes the road dangerous and he has no combat ability whatsoever
 
 ## His request
