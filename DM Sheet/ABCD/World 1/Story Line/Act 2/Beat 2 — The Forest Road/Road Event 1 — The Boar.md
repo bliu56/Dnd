@@ -6,19 +6,7 @@ This is the kind of animal that experienced travelers know to respect. It is not
 
 ## The Boar — Statblock
 
-_Large Beast, Unaligned_
-- **AC:** 11 (natural hide) | **HP:** 42 (5d10 + 15) | **Speed:** 40 ft. | **CR:** 2
-- **STR** 17 (+3) | **DEX** 10 (+0) | **CON** 16 (+3) | **INT** 2 (−4) | **WIS** 7 (−2) | **CHA** 5 (−3)
-- **Senses:** Passive Perception 8
 
-### Traits
-
-- _**Charge.**_ If the boar moves at least 20 ft. straight toward a target and hits with a Tusk attack on the same turn, the target takes an extra 2d6 slashing damage and must succeed on a DC 13 Str save or be knocked prone.
-- _**Relentless (Recharges after a Short or Long Rest).**_ If the boar takes 10 damage or fewer that would reduce it to 0 HP, it is reduced to 1 HP instead.
-
-### Actions
-
-- _**Tusk.** +5 to hit, 5 ft._ Hit: 2d6+3 slashing.
 
 ## How to run it
 
