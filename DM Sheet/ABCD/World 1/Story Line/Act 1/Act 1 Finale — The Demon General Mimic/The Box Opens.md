@@ -10,17 +10,21 @@ It looks at John for a long moment.
 Then it leaves. No words. No threat. It simply turns and is gone, folding back into shadow and road and the ordinary-looking forest, and the silence it leaves behind is the most unsettling thing about the whole encounter. A creature like that does not retreat to regroup. It retreats because it has learned something. And it will act on what it learned.
 John stares at the mark on his hand for a long moment. The box is empty now — whatever was inside it is part of him. He closes his hand slowly.
 Nobody says anything. There is nothing to say yet.
-**What the mark is:**
+
+## What the mark is
+
 The mark is John's Hero Candidate seal — the Goddess's acknowledgment that this person has the potential to become a Hero. It is not a power grant. It is a recognition. The power that came from it was John's own, expressed through the seal for the first time, raw and uncontrolled and enough.
 
-**Achievements available:**
+## Achievements available
+
 - _Against the Odds_ — Arrive at Caldenveil with all living party members and escort targets intact
 - _We Don't Leave People_ — Stay to fight despite everything, even briefly, before retreating
 - _Fast Hands_ — Stabilize Emmet before he dies _(Version A only)_
 - _Something Was Wrong_ — Flag the inconsistency before Luna acts _(Version B only)_
-**Point Moments (DM Only):**
+
+## Point Moments (DM Only)
+
 - A player's immediate reaction to the Mimic reveal — fear, rage, a terrible joke, complete silence — is genuinely memorable
 - A player says something to Michael before running — anything at all
 - A player looks back while running
 - Someone reaches Caldenveil and just sits down on the ground without saying a word
-

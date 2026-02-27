@@ -1,6 +1,8 @@
 _Type: Combat_
 Something in the Twilight Forest finds the group. Pick one of the three beasts below based on what fits the session — or roll randomly. Each was once a common forest animal. Twenty years inside the Twilight Forest has done the rest.
-**The Beasts:**
+
+## The Beasts
+
 **Veilstag** _(formerly a stag)_
 A stag the size of a draft horse, its antlers fused into a single twisted crown of black bone that pulses faintly violet at the tips. Its coat has gone translucent in patches, revealing the mana running through it like veins of light beneath the skin. It moves without sound — not quietly, but silently, as if the sound has simply been removed from its footsteps. It does not charge immediately. It watches first.
 _Behavior:_ Territorial. It wants the group out of its range, not necessarily dead. It will charge if approached or if the group lingers too long. Can be driven off without being killed if players make enough noise, light, or force it to take significant damage.
@@ -30,24 +32,31 @@ _Behavior:_ Methodical and patient. It circles above the fog line and waits for 
 - _**Talon Rake.** +6 to hit, 5 ft._ Hit: 2d6+4 slashing. On a hit, the target's movement speed is reduced by 10 ft. until the end of their next turn (blade-feather cuts).
 - _**Resonance Call (1/Day).**_ The Duskwing emits its deep tone. Each creature within 30 ft. makes a DC 13 Con save or is incapacitated until the end of their next turn as the sound disrupts their focus.
 - _**Fade and Return.**_ If the Duskwing takes 20 or more damage in a single turn, it retreats into the fog. It may return at the start of the next round on a roll of 4–6 (d6), arriving from a different direction.
-**How to run the encounter:**
+
+## How to run the encounter
+
 - Give the party a moment of warning — a sound, a shadow, a feeling — before the beast fully reveals itself
 - Michael will engage if necessary but defers to the players — this is their job
 - Luna will heal and support, staying behind cover
 - John will fight — efficiently, without flourish, and noticeably well for someone of his stated rank
 - Emmet will find the nearest large tree and stay behind it. He will not be useful. He will be apologetic about this afterward.
 - After the fight, if John performed well, Michael will quietly note it to whoever is nearest — "he always does that"
-**How performance affects camp:**
+
+## How performance affects camp
+
 - _Strong performance_ (the party handled it cleanly, protected the escort targets, made smart decisions): The training request happens at camp
 - _Acceptable performance_ (they won but it was messy): Michael considers it — the request may happen but with less certainty, or only if a specific player stood out
 - _Poor performance_ (escort targets were endangered, players made reckless decisions): No training request. Michael and Luna are quieter at camp. John says nothing.
-**Achievements available:**
+
+## Achievements available
+
 - _Beast Slayer_ — Defeat the mutated beast
 - _Not a Scratch_ — Complete the encounter with no escort target taking damage
 - _Identify the Hunt_ — Correctly identify the creature's behavior pattern and exploit it
-**Point Moments (DM Only):**
+
+## Point Moments (DM Only)
+
 - A player uses a creative or unexpected solution rather than straight damage
 - A player specifically positions themselves to protect Emmet without being asked
 - A player notices John fighting and comments on it in character
 - Someone makes a decision that's genuinely funny or genuinely daring mid-combat
-

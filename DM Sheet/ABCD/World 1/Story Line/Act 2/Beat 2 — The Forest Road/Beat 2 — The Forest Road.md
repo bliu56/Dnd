@@ -10,4 +10,3 @@ There are three things that happen on this road. Let the journey breathe between
 - [[Road Event 2 — The Ironway Company]]
 - [[Ironway Company — Statblocks]]
 - [[Road Event 3 — The Cartographer]]
-

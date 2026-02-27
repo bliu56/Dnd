@@ -8,4 +8,3 @@ After leaving Lowfield the road changes. The Twilight Forest is behind them. The
 - [[Version B — Emmet is not with the party]]
 - [[Fight or Flight]]
 - [[The Box Opens]]
-

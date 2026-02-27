@@ -17,13 +17,16 @@ Wing the specifics. The point is not to kill players, it is to make the correct 
 ### Option 3 — Run
 
 The party can run in two directions: toward Caldenveil, or back toward Lowfield. Both paths lead to the same outcome — Michael is killed — but they play out differently.
-**Running toward Caldenveil:**
+
+## Running toward Caldenveil
+
 The party moves fast. The sounds of the fight behind them are enormous and then, at a point they can't precisely identify, stop. Not a conclusion. Just silence.
 Vael'shar is not immediately behind them — but it will be. It finishes what it came for first. The party has a window: keep running, or hide.
 - _Keep running:_ They may reach Caldenveil's gates before Vael'shar catches up. The gates, the guards, the city — these change the calculation for Vael'shar. It is not gone, but it chooses not to follow into a populated, defensible location. For now.
 - _Hide:_ DC 18 Stealth as a group. On a success, Vael'shar passes by — they can hear it moving, feel the wrongness of its presence in the air, and then it is gone. On a failure, it finds them.
-**Running toward Lowfield:**
+
+## Running toward Lowfield
+
 Vael'shar does not follow toward Lowfield. The party does not know why. It kills Michael, and then it simply does not pursue in that direction. The forest road back to the village is clear.
 _DM Note: Vael'shar knows what Lowfield is. It knows who protects it. It will not go there._
 In either direction, if Vael'shar catches up before the party reaches safety, it is not immediately lethal — it wants the Hero's Box, which it now suspects one of them may be carrying or may be connected to. It will hurt them. It will demand it. And then John opens the box.
-

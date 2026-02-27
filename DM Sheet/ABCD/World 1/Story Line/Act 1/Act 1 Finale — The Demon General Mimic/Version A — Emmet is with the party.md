@@ -8,8 +8,9 @@ A pitch black blade erupts from his chest.
 It came from directly behind him. From a shadow that was not there a moment ago. The Demon General Mimic has been there the entire time — patient, still, waiting for exactly this: a turned back, a moment of joy, a split second of absolute inattention.
 Emmet looks down at the blade. He is still holding the flowers. He does not drop them.
 The Mimic withdraws the blade and steps back. Emmet falls.
-**Saving Emmet:**
+
+## Saving Emmet
+
 He is alive but will not be for long without help. A player must reach him, stabilize him, and get him moving — at minimum one action to stabilize and someone to support his weight. Luna can assist if players are moving rather than fighting.
 - Stabilized and carried within 3 rounds: Emmet survives, gravely wounded, unconscious — still holding the flowers when they pry them from his hand
 - Not reached in time: Emmet dies in the road with the complete bundle in his hands
-
