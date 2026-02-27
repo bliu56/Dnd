@@ -1,4 +1,3 @@
-
 - [[#Original Plotline]]
 - [[#Deviations]]
 - [[#Story Line]]
@@ -20,33 +19,39 @@
 - [[#Gods & Spirits]]
     - [[#Gods]]
     - [[#Spirits]]
-  
+
 ## Original Plotline
 ---
+
 ### Past
+
 Arthur, former Hero, defeated the Demon King and then found egg. Egg is to be the next Demon King. The Last Demon King requested that the Hero taken them in and raise them like a normal human and to live a normal life.
-  
+
 Some time later, Arthur and Kid now lives in the Twilight Forest between the Stonewood and the Lowfield.
-  
+
 The Pope had a revelation. He claims that the seed of the Demon King lives and decreed that it must be eliminated else danger greater than any they face will ravage the world.
 There was a holy inquisition sent and they located the area it could be. The Church’s strongest went to lead it.
-  
+
 Eventually, they found the former Hero and Kid together. After a long fight, they bested the Hero and while the Hero used the last of his energy to teleport the Kid to safety. Arthur died and the Kid through his grief awaken his powers which resulted in the Forest turning into another color.
 
 ### Present
+
 The Demon King has risen once more and has waged war agaisnt the world. Under new leadership, the Demons grew stronger and more united than before.
-  
+
 Michael, Luna, and John are on a journey to find the next Hero using an ancient Hero’s relic that is sealed inside a box that only a Hero can open. When someone with the potential to be a Hero tries to open the box, the box will start to glow with holy energy. They won’t be able to open the box but the church believes that it means that they just need training. At that point they get taken in to train at the Church as a hero candidate. While journeying from Stonewood to Lowfield, they encounter traces of attacks and eventually run into a Mimic Archdemon. John in a moment of crisis opens and was able to get them out of the situation.
 
 ## Deviations
 ---
-  
+
 ## Story Line
+
 ### Act 1 — The Road to Lowfield (Present)
+
 **Overview**
 The players begin outside Stonewood's gates, freshly assigned as E-rank licensed escorts. Their job is simple on paper: bring Michael, Luna, and John safely from Stonewood to Lowfield, and then onward to Caldenveil _(KAL-den-vale)_. What starts as a routine escort becomes their first real encounter with the world — its warmth, its danger, and the weight of what the Twilight Forest used to be.
----
+
 ### Beat 1 — Arrival at the Gate
+
 _Location: Stonewood South Gate_
 The players spawn just outside Stonewood and make their way to the city gate where their escort assignment begins. They each carry an E-rank Guide License — the lowest tier, freshly issued, clearly magical in origin. At the gate they find Michael, Luna, and John already waiting.
 **How to run it:**
@@ -62,8 +67,9 @@ The players spawn just outside Stonewood and make their way to the city gate whe
 - A player does something memorable during introductions — an unexpected greeting, immediately trying to size up John, making Michael laugh
 - A player asks one of the three something personal and actually listens to the answer
 - The group organically establishes a dynamic among themselves before even leaving the gate
----
+
 ### Beat 2 — Emmet Ashford
+
 _Location: Stonewood South Gate, just before departure_
 Just as the group is about to set off, a young man pushes through the small crowd near the gate and calls out to them. This is **Emmet Ashford** _(EM-et ASH-ford)_, mid-twenties, a textile merchant's son from Stonewood. He is visibly nervous, clutching his coat, and has clearly rehearsed what he is about to say.
 **Who he is:**
@@ -89,8 +95,9 @@ He wants to stop in the Twilight Forest — not deep, just inside the treeline. 
 - A player asks Emmet to describe Sera and he gets flustered — reward whoever pushed that button
 - A player takes Emmet's side against skeptical party members in a way that feels warm rather than transactional
 - Someone makes a joke at Emmet's expense that lands well at the table — reward the read
----
+
 ### Beat 3 — The Road Through the Twilight Forest
+
 _Location: The Twilight Forest road_
 The group sets out. The transition from open land to forest is gradual, but once they're inside the shift in atmosphere is immediate. The colors are wrong. The light is wrong. Things move in the treeline.
 **How to run it:**
@@ -119,14 +126,14 @@ The group sets out. The transition from open land to forest is gradual, but once
 - A player makes a genuinely funny or daring call about leaving the road — reward the commitment either way
 - John quietly steps up during the beast encounter without being asked — if a player noticed and acknowledges it in character, reward that
 - A player does something clever to avoid or handle the named beast rather than just swinging at it
----
 **Coming next in Act 1:**
 - Arrival in Lowfield — meeting Edna, Benno, and Renwick for the first time
 - Emmet's growing attachment to the party
 - The onward journey to Caldenveil
 - Emmet and Sera
----
+
 ### Event 1 — The Fog and the Forest
+
 _Type: Atmosphere / Navigation_
 Not long after the group enters the Twilight Forest, the violet fog rolls in. It doesn't arrive like weather — it arrives like a decision, thickening between the trees until visibility drops to thirty feet in every direction. The forest is still visible through it: glimmering purples and deep violets, the strange bioluminescent quality of the corrupted bark and undergrowth catching the fog's light and throwing it back in shifting patterns. If not for what lurks here, it would be genuinely beautiful. Several players may find themselves saying so despite themselves.
 The road is still underfoot but harder to trust. Sounds are muffled and directionless. Something moves in the treeline — or multiple somethings — but nothing approaches.
@@ -146,12 +153,13 @@ The road is still underfoot but harder to trust. Sounds are muffled and directio
 - A player comments on the forest's beauty despite the danger — genuine, not sarcastic
 - A player notices John has moved to the rear and says nothing, just adjusts their own position accordingly
 - Someone checks on Emmet without being prompted
----
+
 ### Event 2 — The Mutated Beast
+
 _Type: Combat_
 Something in the Twilight Forest finds the group. Pick one of the three beasts below based on what fits the session — or roll randomly. Each was once a common forest animal. Twenty years inside the Twilight Forest has done the rest.
 **The Beasts:**
-**Veilstag** _(formerly a stag)_ {toggle="true"}
+**Veilstag** _(formerly a stag)_
 A stag the size of a draft horse, its antlers fused into a single twisted crown of black bone that pulses faintly violet at the tips. Its coat has gone translucent in patches, revealing the mana running through it like veins of light beneath the skin. It moves without sound — not quietly, but silently, as if the sound has simply been removed from its footsteps. It does not charge immediately. It watches first.
 _Behavior:_ Territorial. It wants the group out of its range, not necessarily dead. It will charge if approached or if the group lingers too long. Can be driven off without being killed if players make enough noise, light, or force it to take significant damage.
 - **AC:** 15 | **HP:** 95 | **Speed:** 50 ft.
@@ -160,7 +168,7 @@ _Behavior:_ Territorial. It wants the group out of its range, not necessarily de
 - _**Gore.** +7 to hit, 5 ft._ Hit: 2d8+5 piercing. On a hit, the target is pushed 10 ft. and must make a DC 14 Str save or be knocked prone.
 - _**Mana Pulse (Recharge 5–6).**_ The antlers release a burst of corrupted mana in a 20 ft. cone. Each creature in the area makes a DC 14 Con save, taking 3d10 necrotic damage on a fail or half on a success.
 - _**Territorial Charge.**_ If the Veilstag moves at least 20 ft. in a straight line before hitting, the Gore attack deals an additional 2d8 damage.
-**Ashcrawler** _(formerly a bear)_ {toggle="true"}
+**Ashcrawler** _(formerly a bear)_
 A bear, or what was one. Its body has bloated and hardened, the fur replaced in places by a thick chitinous plating the color of charcoal. Its eyes are gone — replaced by six small glowing points of violet light arranged across its face. It navigates entirely by sensing mana, which means it is blind to creatures who aren't using magic and acutely aware of those who are. It moves on all fours but can rear up to a terrifying height.
 _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spellcasters or anyone actively using magic above others. Cannot be easily driven off — it commits once it engages.
 - **AC:** 16 (natural armor) | **HP:** 120 | **Speed:** 40 ft.
@@ -170,7 +178,7 @@ _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spel
 - _**Slam.** +8 to hit, 5 ft._ Hit: 2d10+5 bludgeoning. On a hit, the target makes a DC 15 Con save or is stunned until the end of their next turn.
 - _**Plated Charge.**_ Once per encounter: the Ashcrawler charges up to 40 ft. in a line. Each creature in its path makes a DC 15 Dex save, taking 4d8 bludgeoning damage on a fail or half on a success.
 - _**Chitin Armor.**_ The first time the Ashcrawler would take more than 15 damage from a single hit, reduce that damage by 10.
-**Duskwing** _(formerly a large owl)_ {toggle="true"}
+**Duskwing** _(formerly a large owl)_
 A massive owl, wingspan stretching twelve feet, its feathers now the deep black-violet of the forest at its worst. The feathers at the wingtips have hardened into something resembling blades. It flies without disturbing the air — no downwash, no sound. Its call, when it makes one, is not a screech but a low resonant tone that rattles in the chest. It hunts from above and prefers to separate its prey from the group before striking.
 _Behavior:_ Methodical and patient. It circles above the fog line and waits for a target to fall behind or be isolated. It will break off if it takes significant damage, retreat into the fog, and may return once — players should feel like it's watching even after it withdraws.
 - **AC:** 14 | **HP:** 78 | **Speed:** 10 ft. / fly 60 ft.
@@ -200,8 +208,9 @@ _Behavior:_ Methodical and patient. It circles above the fog line and waits for 
 - A player specifically positions themselves to protect Emmet without being asked
 - A player notices John fighting and comments on it in character
 - Someone makes a decision that's genuinely funny or genuinely daring mid-combat
----
+
 ### Event 3 — Camp in the Twilight Forest
+
 _Type: Rest / Roleplay_
 The group stops to make camp just off the road — not far, just enough to get clear of the immediate sightlines. The fog has thinned slightly but not gone. The forest glimmers around them in the dark, violet light pulsing faintly from the bark and undergrowth. It is, objectively, a beautiful place to sleep in. Nobody is fully comfortable.
 A fire is made. Watches are assigned. Food is shared — Emmet has brought more than expected and insists on contributing, which is the most useful he has been all day.
@@ -234,8 +243,9 @@ Regardless of how camp goes, sometime in the deep of the night — during a watc
 - A player follows John into the forest and just — trains with him, without making it a scene
 - A player comforts Emmet about the day in a way that feels earned
 - Someone asks Michael about Arthur — he'll deflect warmly, but reward the instinct
----
+
 ### Event 4 — Something Off the Road
+
 _Type: Exploration / Atmosphere (Chance — triggers only if players leave the road or investigate)_
 This event does not happen automatically. It requires the players to make a choice — to leave the road or follow something into the trees. Pick one of the triggers below based on what fits the session, or let player curiosity do the work naturally.
 **Possible triggers:**
@@ -260,8 +270,9 @@ Nobody lives there. Or — nobody is there right now.
 **DM note:** Do not name the house. Do not explain it. Let players speculate. If Michael sees it, he goes very still and says nothing. If pressed, he says quietly: _"We should keep moving."_ He doesn't look back.
 **Achievements available:**
 - _Off the Beaten Path_ — Leave the road and discover the clearing
----
+
 ### The Feeling That Follows
+
 _Triggered after the clearing, lasts until Lowfield_
 Whether or not the players found the cabin, something changes in the forest after Event 4. The party begins to notice — gradually, then unmistakably — that something is behind them.
 It is not subtle. Branches shift in their wake in a pattern that doesn't match the wind. The fog moves around something that isn't visible. Perception checks confirm it: something large, something aware, something that is keeping exact pace with the group without closing the distance.
@@ -280,14 +291,16 @@ Nobody says anything about it. Nobody needs to.
 - A player tries something genuinely creative to identify or confront the presence
 - A player notices John's reaction and comments on it in character
 - A player is the last one to step out of the forest and pauses at the tree line to look back — reward that instinct
----
+
 ### Lowfield — Rest Stop
+
 _Type: Rest / Character / Atmosphere_
 Lowfield hits differently after the Twilight Forest. The lane is unpaved and quiet, the houses are small, chickens wander freely, and somewhere nearby someone is baking bread. It is aggressively, almost stubbornly normal. After what the party just walked through, normal is disorienting in the best possible way.
 Michael exhales when they arrive — genuinely, visibly. Luna immediately starts talking at full volume again, like someone who has been holding it in. John looks at the village for a long moment, something unreadable crossing his face, and then says nothing. Emmet starts smiling and doesn't stop.
 The party has time. Let them use it however they want. The moments below can happen in any order, or not at all — follow where players go.
----
+
 ### Moment — Edna's Cafe
+
 Edna knows they're coming before they arrive. Word travels fast in Lowfield and a group of six escorts plus an Archbishop is not something that goes unnoticed on the lane. By the time the party reaches the cafe, there is already food on the counter.
 She feeds them first and asks questions second — that is simply how she operates. The food is good. Better than good. After two days in the Twilight Forest it is almost aggressively comforting.
 Edna will talk to anyone who lets her. She is warm, sharp, and completely unintimidated by anyone at the table. If players ask about the village she answers easily — the farms, the families, the weather, who is feuding with whom over a fence line. She does not bring up the war. She does not bring up demons. If players bring it up themselves she pauses, then says simply: _"Nothing bad comes here. Never has, even now. We don't ask why. We just count ourselves lucky."_ Then she moves on.
@@ -297,36 +310,41 @@ Edna does not point it out. She does not mention it unless asked. If a player no
 - A player notices the sketch on their own without being prompted
 - A player asks Edna about the village's safety and genuinely listens to her non-answer
 - A player just sits quietly and eats without doing anything — reward the rest
----
+
 ### Moment — The Millstone
+
 Benno has rooms ready. He always has rooms ready — it is simply what he does. He doesn't make a fuss about the party's arrival, just checks them in efficiently and shows them where things are. The rooms are clean. The beds are real beds. After the forest floor this is remarkable.
 If players linger in the common room, Benno will be there — not hovering, just present. He keeps busy. He is not a gossip and does not ask questions about where they've been or where they're going. But he pays attention. If a player looks worn down he will quietly set something warm in front of them without comment.
 At some point during the stay, if any player is up late or wanders downstairs, they may notice: one of the three rooms upstairs has its door slightly ajar, and inside it is clearly not being used for storage or guests. The bed is made with particular care. There is nothing in the room except furniture — no personal effects, no decoration — but it is maintained like it matters. If a player asks Benno about it he pauses in what he's doing and says: _"That room's taken."_ He does not explain. He does not seem to think further explanation is required.
 **Point Moments (DM Only):**
 - A player notices the reserved room and follows up with Benno
 - A player thanks Benno genuinely — not just in passing — and he actually looks up from what he's doing
----
+
 ### Moment — The Lane
+
 The village lane is exactly what it looks like: a quiet unpaved road, gardens on either side, neighbors occasionally calling to each other across it. There is nothing suspicious here. There is nothing wrong. It is just a village that is fine, in a world where villages are not supposed to be fine anymore.
 If players walk the lane they may notice, without being told to look: there are no abandoned houses. Every building is occupied, every garden is tended. In the broader world, villages this size have lost a third of their population to raids or evacuation. This one hasn't lost anyone. The community stockpile in the old barn at the edge of the pasture — visible through the open doors if players pass it — is quietly enormous for a village this size, neatly organized, and clearly added to regularly. Nobody seems to be in charge of it. It simply exists.
 An older farmer — Renwick, if players encounter him — will answer questions about the village in the fewest possible words. He is not evasive, just economical. If players ask directly why Lowfield has been untouched by the war, he looks at them for a long moment and says: _"Don't know. Thought about it. Don't know."_ Then, after a pause: _"There was a man used to come through here. Him and his boy. Good man. Real quiet. Forest type."_ He does not continue unless asked. If asked: _"Haven't seen him in a long time. Boy neither."_ He picks up whatever he was doing. The conversation is over unless players reopen it.
 **Point Moments (DM Only):**
 - A player puts the stockpile, the intact houses, and Renwick's comment together and says something about it out loud
 - A player asks Renwick a follow-up question about the man and his boy and actually sits down to hear the answer
----
+
 ### Moment — Emmet in Lowfield
+
 Emmet is having the best day he has had in months. He knows this village — he has been here before, that one afternoon with Sera — and being back in it makes him happy in a slightly overwhelming way. He keeps stopping to look at things. The bench outside Edna's cafe. The spot at the pasture market where Sera's cart was parked. The lane itself.
 If any player walks with him, he will talk. Not about Sera specifically — he is trying to play it cool and failing — but about the afternoon they met. The way she explained the pricing of preserved goods to him like it was fascinating rather than commercial. The fact that she laughed at something he said and he still isn't sure if it was at him or with him but he chooses to believe with him. The way she looked when she was packing up her cart to leave.
 He stops at one point and looks at the pasture market and says, half to himself: _"I've never done anything brave before. In my whole life. Yesterday was the first time."_ He clearly means the forest, the flowers, the asking. He does not seem to realize he has said this out loud until a beat later, when he looks slightly embarrassed. _"Anyway."_
 **Point Moments (DM Only):**
 - A player walks the lane with Emmet without being asked to
 - A player responds to Emmet's accidental admission in a way that is kind without being condescending
----
+
 ### Act 1 Finale — The Demon General Mimic
+
 _Type: Ambush / Forced Retreat — End of Act 1_
 After leaving Lowfield the road changes. The Twilight Forest is behind them. The unnamed forest between here and Caldenveil is ordinary — quiet, green, light behaving as light should. The mood lifts. The worst of the journey is over. Caldenveil is ahead. Let this breathe for a moment. The party needs to feel safe before it stops being safe.
----
+
 ### Version A — Emmet is with the party
+
 The road is easy and the conversation is good. Emmet has been walking with more confidence than he has shown all trip — there's an energy to him that wasn't there in the Twilight Forest, something lighter. He keeps touching the inside of his coat where the Duskbloom are wrapped.
 Then he sees it. Just off the path, close enough to reach in under a minute — one final Duskbloom, growing alone at the base of a tree. The last one he needs to complete the bundle.
 He looks at the party. He looks at the flower. He looks at the party again.
@@ -341,8 +359,9 @@ The Mimic withdraws the blade and steps back. Emmet falls.
 He is alive but will not be for long without help. A player must reach him, stabilize him, and get him moving — at minimum one action to stabilize and someone to support his weight. Luna can assist if players are moving rather than fighting.
 - Stabilized and carried within 3 rounds: Emmet survives, gravely wounded, unconscious — still holding the flowers when they pry them from his hand
 - Not reached in time: Emmet dies in the road with the complete bundle in his hands
----
+
 ### Version B — Emmet is not with the party
+
 The road is quiet. Ordinary forest on both sides. Then a girl emerges from the trees ahead — young, maybe fifteen, clearly injured, clutching her arm and moving unevenly. She looks at the party like someone who has been running for a very long time.
 She points — not forward, but behind the party. Back the way they came.
 _"There are monsters. Back there. In the trees. They're coming."_
@@ -355,23 +374,27 @@ Luna makes no sound. She just — stops. And then lists sideways.
 **Luna's condition:**
 Incapacitated. Breathing, but cannot cast, cannot move under her own power, will not stabilize without immediate healing from another source. She needs to be carried. Every round she goes without healing, her condition worsens.
 The Mimic drops the disguise. What stands up is vast and wrong and has been patient for a long time
----
+
 ### Fight or Flight
+
 _The moment after Vael'shar reveals itself and Michael steps forward_
 The party has three options: rescue the wounded, stay and fight, or run. Michael's order is to run. What the party does is up to them — but every path eventually leads to the same place: cornered, outmatched, and John holding a box that has never opened for anyone.
----
+
 ### Option 1 — Rescue
+
 The party's priority is getting to Emmet or Luna before worrying about anything else. This is largely player-driven — how they move, who covers who, whether they succeed in time. Wing this based on the table.
 The key tension: every round spent on rescue is a round not running. Vael'shar is occupied with Michael, but Michael will not hold indefinitely. The rescue window is real but it is closing.
 Once the wounded are stabilized and moving, the party is still in the same situation — they need to run, and Vael'shar will eventually be behind them.
----
+
 ### Option 2 — Stay and Fight
+
 They can try. Vael'shar will let them try for exactly long enough to make the point.
 The first player to attack gets a response — one strike, precise and contemptuous, that deals enough damage to make the gap in capability undeniable. Vael'shar does not follow up. It returns its attention to Michael as if the player has already been accounted for.
 If the party persists: Michael will not say it again. He said run. Whether they listened is on them. Eventually, when Michael goes down or the damage becomes untenable, the party will run anyway — just worse off than if they had gone immediately.
 Wing the specifics. The point is not to kill players, it is to make the correct decision obvious in hindsight.
----
+
 ### Option 3 — Run
+
 The party can run in two directions: toward Caldenveil, or back toward Lowfield. Both paths lead to the same outcome — Michael is killed — but they play out differently.
 **Running toward Caldenveil:**
 The party moves fast. The sounds of the fight behind them are enormous and then, at a point they can't precisely identify, stop. Not a conclusion. Just silence.
@@ -382,8 +405,9 @@ Vael'shar is not immediately behind them — but it will be. It finishes what it
 Vael'shar does not follow toward Lowfield. The party does not know why. It kills Michael, and then it simply does not pursue in that direction. The forest road back to the village is clear.
 _DM Note: Vael'shar knows what Lowfield is. It knows who protects it. It will not go there._
 In either direction, if Vael'shar catches up before the party reaches safety, it is not immediately lethal — it wants the Hero's Box, which it now suspects one of them may be carrying or may be connected to. It will hurt them. It will demand it. And then John opens the box.
----
+
 ### The Box Opens
+
 This triggers when a player tells John to try the box — in a moment of desperation, as a last idea, because there is nothing else left to try.
 John has been told before. Michael told him, more than once, in the way Michael tells people things — gently, with patience, without pressure. John always said no. He didn't see himself as anything the box would respond to.
 He picks it up now because someone asked and because there is nothing else.
@@ -398,7 +422,7 @@ John stares at the mark on his hand for a long moment. The box is empty now — 
 Nobody says anything. There is nothing to say yet.
 **What the mark is:**
 The mark is John's Hero Candidate seal — the Goddess's acknowledgment that this person has the potential to become a Hero. It is not a power grant. It is a recognition. The power that came from it was John's own, expressed through the seal for the first time, raw and uncontrolled and enough.
-  
+
 **Achievements available:**
 - _Against the Odds_ — Arrive at Caldenveil with all living party members and escort targets intact
 - _We Don't Leave People_ — Stay to fight despite everything, even briefly, before retreating
@@ -409,13 +433,15 @@ The mark is John's Hero Candidate seal — the Goddess's acknowledgment that thi
 - A player says something to Michael before running — anything at all
 - A player looks back while running
 - Someone reaches Caldenveil and just sits down on the ground without saying a word
-  
+
 ### Act 2 — Before the Fall
+
 **Overview**
 The party arrives in the Past. The world is unrecognizable — warm, whole, nothing like the one they survived. Caldenveil is peaceful. The Evergreen Forest is green. The people they met as worn-down survivors are here young and unhurt. The party knows exactly how it ends. Nobody else does.
 The decree has just been issued. The inquisition is being assembled. They have been hired to clear beasts along the raid path — officially, to help apprehend a fugitive. They know who the fugitive is. They know what apprehend means. What they do with that knowledge is entirely up to them.
----
+
 ### Beat 1 — The Posting
+
 _Location: Caldenveil, Past_
 The party arrives in Caldenveil to find it mid-preparation. Not visibly — the city looks normal, peaceful, the kind of warm and unhurried that Stonewood used to be before the war. But if they know where to look, the signs are there: Church officials moving with purpose, closed-door meetings in the upper quarters, a subtle increase in armed escorts accompanying robed figures through the streets.
 The posting finds them quickly — or they find it. A Church logistics officer named **Brennan Holt** is recruiting licensed guides and cleared escorts for what he describes as a sensitive Church security operation into the Evergreen Forest. The work is straightforward: clear the major beasts along a designated corridor so that Church personnel can move through safely. The pay is good. The paperwork is minimal. Questions about the operation's purpose are met with a pleasant, practiced non-answer.
@@ -440,14 +466,16 @@ All of these are valid. The job is a tool. What they build with it is theirs.
 - A player's reaction when Brennan says "former resident of the forest" — the moment they realize they know exactly who he means
 - A player asks about the child and watches Brennan move past it
 - The party's first conversation among themselves after Brennan leaves — what do they decide to do
----
+
 ### Beat 2 — The Forest Road
+
 _Location: The road from Caldenveil toward Lowfield_
 The road from Caldenveil toward Lowfield is well-traveled and in good repair — this is peacetime, and it shows. Merchants use it regularly. The verges are clear. Waystones mark every few miles with distances carved in legible hands. The first stretch out of Caldenveil is open farmland and low hills, and after that the road enters a stretch of ordinary woodland — tall oaks, dappled light, birdsong. Nothing unusual about it. It is simply a forest road in a world that is, right now, fine.
 The party has been hired to clear the route. "Clear" in this context means beasts — the woodland has the usual population of territorial animals, and the Church wants its personnel to move through without incident. It is routine work. The forest is not dangerous so much as it is occasionally inconvenient.
 There are three things that happen on this road. Let the journey breathe between them.
----
+
 ### Road Event 1 — The Boar
+
 _Type: Combat — Fun & Manageable_
 _Location: A wide bend in the road where an old oak has fallen across a drainage ditch, creating a natural blind_
 They hear it before they see it — a heavy, irregular rustling in the undergrowth to the left, then the wet crack of something rooting through dead wood. A moment later a large boar shoulders out of the brush and stops in the middle of the road, blocking the path entirely.
@@ -481,8 +509,9 @@ If the party drove it off rather than killing it, he nods once and says nothing 
 - Someone gets knocked prone by the charge and their reaction to it is genuinely funny or genuinely committed
 - A player tries to scare it off and it works — reward the instinct
 - Luna's injury observation comes up again later and turns out to be relevant
----
+
 ### Road Event 2 — The Ironway Company
+
 _Type: Social / Betrayal — Slow Burn_
 _Location: A waystation about two hours into the woodland — a stone outbuilding with a cleared flat area in front, maintained by Caldenveil for traveling merchants_
 Late afternoon. The waystation is already occupied when the party arrives — six people, a fire going, gear stacked neatly. One of them spots the party from fifty feet away, stands up, and waves them over with the easy confidence of someone who has already decided the situation is fine.
@@ -531,11 +560,11 @@ If the logistics man gets what he needs: the Ironway Company is gone before firs
 - A player notices Calla's tells and treats her differently before the plan surfaces
 - Someone confronts Davo and he immediately starts negotiating — funnier and stranger than a fight
 - A player lets the whole thing play out and arrives at Lowfield to find Davo already there, cheerfully charming Brennan's contact
----
+
 ### Ironway Company — Statblocks (If Combat Starts)
+
 _DM Note: The Ironway crew are not killers. If a fight breaks out it is because things went badly wrong — escalating tension, a player who pushed too hard, Davo miscalculating. They will fight to protect themselves but they are not willing to die over a contract dispute. Any crew member reduced to half HP or below will disengage and attempt to flee or surrender. Davo will call it off entirely if two or more of his crew are down._
 _Combat CR target: The full crew together should be a Medium-to-Hard encounter for a standard party. Running them in subgroups (Holt and Brek engage while Nessa covers, logistics man bolts, Davo stalls) makes for a more dynamic fight than a straight brawl._
----
 **Davo Irne** — _Leader_
 _Medium Humanoid (Human), Neutral_
 - **AC:** 13 (leather armor) | **HP:** 38 (7d8 + 7) | **Speed:** 30 ft. | **CR:** 1
@@ -553,7 +582,6 @@ _Medium Humanoid (Human), Neutral_
 **Reactions**
 - _**Tactical Withdrawal.**_ When a creature moves to within 5 ft. of Davo, he can move up to 10 ft. away without provoking an opportunity attack.
 _Combat behavior: Davo does not want to be in this fight. He will use Keep Talking every round, stay mobile, and look for an exit. If he gets one, he takes it. He will not sacrifice himself for his crew — but he will not abandon them immediately either. He's calculating the whole time._
----
 **Holt** — _Sword-and-Shield Fighter_
 _Medium Humanoid (Human), Neutral_
 - **AC:** 16 (chain shirt + shield) | **HP:** 45 (6d10 + 12) | **Speed:** 30 ft. | **CR:** 2
@@ -570,7 +598,6 @@ _Medium Humanoid (Human), Neutral_
 **Reactions**
 - _**Brace.**_ When a creature moves toward Holt, he can set his shield and gain +2 AC against that creature's first attack this turn.
 _Combat behavior: Holt is straightforward — he gets between threats and holds ground. He fights alongside Brek and isn't creative about it. He'll surrender before dying; he's been in enough scrapes to know when a fight is lost._
----
 **Brek** — _Sword-and-Shield Fighter_
 _Medium Humanoid (Human), Neutral_
 - **AC:** 15 (chain shirt + shield) | **HP:** 40 (5d10 + 10) | **Speed:** 30 ft. | **CR:** 1
@@ -586,7 +613,6 @@ _Medium Humanoid (Human), Neutral_
 **Reactions**
 - _**Cover Holt.**_ When Holt is hit by a melee attack while within 5 ft. of Brek, Brek can use his reaction to impose disadvantage on the attack roll (declared before the roll is made).
 _Combat behavior: Brek is slightly less confident than Holt but follows his lead without question. He fights defensively, uses Second Wind the moment he's below half HP, and watches Holt's back. He'll tap out when Holt does._
----
 **Nessa** — _Archer_
 _Medium Humanoid (Human), Neutral_
 - **AC:** 14 (leather armor + Dex) | **HP:** 32 (5d8 + 10) | **Speed:** 30 ft. | **CR:** 2
@@ -603,7 +629,6 @@ _Medium Humanoid (Human), Neutral_
 **Bonus Actions**
 - _**Disengage.**_ Nessa can Disengage as a bonus action.
 _Combat behavior: Nessa starts at maximum range and stays there. She targets spellcasters or whoever looks most dangerous first. She will not engage in melee willingly — if someone closes with her she disengages and repositions. She's the most dangerous member of the crew in a straight fight and knows it. She's also the most likely to slip away cleanly if things go badly._
----
 **The Logistics Man** — _Unnamed_
 _Medium Humanoid (Human), Neutral_
 - **AC:** 13 (leather armor) | **HP:** 22 (4d8 + 4) | **Speed:** 35 ft. | **CR:** 1/2
@@ -617,7 +642,6 @@ _Medium Humanoid (Human), Neutral_
 - _**Shortsword.** +4 to hit, 5 ft._ Hit: 1d6+2 piercing.
 - _**Dirty Trick.**_ The logistics man throws dirt, a flask of oil, or whatever is at hand at one creature within 5 ft. Target makes DC 12 Dex save or is blinded until the end of their next turn.
 _Combat behavior: He runs. The moment a fight breaks out he is looking for an exit and will take it the first chance he gets. He only attacks if cornered, and if cornered he uses Dirty Trick immediately to buy himself room. He has never been anyone's idea of a fighter and he is at peace with this._
----
 **Calla** — _Short Sword Fighter_
 _Medium Humanoid (Human), Neutral Good_
 - **AC:** 13 (leather armor) | **HP:** 28 (5d8 + 5) | **Speed:** 30 ft. | **CR:** 1
@@ -633,8 +657,9 @@ _Medium Humanoid (Human), Neutral Good_
 **Reactions**
 - _**Not Today.**_ If a creature within 5 ft. of Calla would be reduced to 0 HP by an attack, she can use her reaction to push that creature 5 ft. out of the way, potentially causing the attack to miss. She can use this to protect a player or a crewmate — her call.
 _Combat behavior: Calla does not want to be in this fight and will make that clear. If the party treated her well during the evening, she will either sit out entirely or use Not Today to protect a player if an opportunity arises. If the party was cold or dismissive, she fights defensively alongside her crew but disengages the moment Davo calls a retreat. She is the one member of the Ironway Company who a player could realistically convince to stop mid-fight._
----
+
 ### Road Event 3 — The Cartographer
+
 _Type: Strange Traveler_
 _Location: The road, an hour or so from Lowfield — late afternoon, long shadows through the trees_
 A figure comes around a bend walking toward them. Not quickly, not slowly — at the pace of someone who has been walking for a long time and stopped counting the miles. An older woman, sixties at least, dressed in practical layered wool. She carries an overstuffed canvas pack with several rolled map tubes protruding at different angles, and she is writing in a small bound journal as she walks, pausing occasionally to glance at the treeline, make a mark, and continue.
@@ -668,9 +693,9 @@ She continues without looking back, stops twice more in the distance to make not
 - A player tries to tell her something about the forest interior and she immediately opens her journal
 - Someone asks if she gets lonely out here, and she thinks about it genuinely before answering
 - Michael's comment about knowing her — a player follows up, he deflects warmly, the player notices the deflection
----
----
+
 ### Beat 3 — Lowfield, Again?
+
 _Location: Lowfield, Past_
 Lowfield is everything it was in the Present. Edna's cafe has a line out the door. Renwick is younger and moves faster and argues cheerfully with a neighbor about whose fence is whose. The Millstone is full. The pasture market is a social event as much as a commercial one.
 Benno has both rooms available. The one that will eventually be kept empty and made up with particular care is currently occupied by a traveling merchant who leaves in the morning. Nothing about it is significant yet.
@@ -682,8 +707,9 @@ Let the party have this moment without interrupting it. They know. Nobody else d
 **Point Moments (DM Only):**
 - A player's face when they first see Arthur alive
 - Someone who talked to Edna in Act 1 now watching her interact with Tristan — knowing what she will eventually keep on her wall
----
+
 ### Beat 4 — Arthur and Tristan
+
 _Location: The Evergreen Forest / Arthur's House_
 Getting to Arthur requires either following him from Lowfield back toward the forest or finding a reason to go into the forest directly.
 Arthur is immediately warm with strangers. He invites people in without much prompting — it is simply his nature. The house is exactly what it looked like in the Present phase, but lived-in and full of light. Tristan moves around it quietly, doing whatever needs doing, watching the party with the careful assessment of a child who has learned to read people.
@@ -704,8 +730,9 @@ Arthur trains in the cleared area outside the house every morning. If a player e
 - The moment a player realizes Arthur genuinely does not know what's coming — and chooses what to do with that
 - A player who sits with Tristan without trying to get anything from him
 - A player who tells Arthur the truth, or part of it, and watches him process it
----
+
 ### Beat 5 — The Inquisition Assembles
+
 _Location: Caldenveil / en route_
 The party becomes aware — through Brennan, through Church rumor, through their own observation — that the inquisition is fully assembled and moving. Adonis has received his order. The corridor is being finalized. The operation has a date.
 **Adonis — first encounter:**
@@ -723,8 +750,9 @@ The party now knows when the raid happens and the route it takes. They have a sp
 **Point Moments (DM Only):**
 - A player who looks at Adonis and knows he is the man who kills Arthur — and has to decide how to feel about that given that he is, right now, not a villain
 - The party's planning conversation — whatever they decide to do with the window they have
----
+
 ### Beat 6 — The Raid
+
 _Location: The Evergreen Forest_
 What happens here depends entirely on what the party did in Beats 1 through 5. This beat has no fixed script — only fixed endpoints.
 **What is always true:**
@@ -753,8 +781,9 @@ The forest begins to change the moment Tristan is gone. Not immediately — grad
 - Whatever the party tries in the moment — reward the attempt regardless of outcome
 - Adonis after, if Arthur dies — he does not celebrate. He does not speak. He leaves.
 - A player who stays in the forest after it's over and watches the color begin to change
----
+
 ### Beat 7 — Tristan's Awakening
+
 _Location: Somewhere safe, far away — and the Evergreen Forest_
 Tristan lands somewhere safe. Far from the forest, far from the Church, far from anyone who knows what he is. He does not know what has happened yet. He knows he was sent away. He knows his father sent him.
 He waits. And then, at some point — the connection he has to Arthur, whatever a child has to the only person who raised them — something tells him. Not in words. Just in the way that certainty arrives sometimes, without evidence, without announcement.
@@ -778,12 +807,14 @@ Let the last image be the forest. Give it a moment. Then Act 2 is over.
 - Any player who carries the weight of knowing through the whole act — who plays their character as someone who knows how it ends and chooses anyway
 - The party's conversation after the forest changes — what they say to each other when it's over
 - Anyone who looks back at the house before leaving the forest for the last time
----
+
 ### Church Mission Contract
-  
+
 ## Character
 ---
+
 ### Arthur
+
 - **Role:** Former Hero, Adoptive Father
 - **Affiliation:** Formerly the Church / Goddess's Chosen
 - **Status:** Deceased
@@ -799,13 +830,17 @@ Let the last image be the forest. Give it a moment. Then Act 2 is over.
 - Renamed Baal to **Tristan** to hide his identity; told others he was an orphan he adopted
 - Retired to the **Evergreen Forest** (between Stonewood and Lowfield)
 - Spent his days teaching Tristan to control his powers and to be a good person
+
 ### Statblock
+
 _Medium Humanoid (Human), Lawful Good_
 - **AC:** 20 (summoned holy plate) | **HP:** 210 (28d8 + 84) | **Speed:** 30 ft.
 - **CR:** 17 (18,000 XP)
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |20 (+5)|16 (+3)|16 (+3)|12 (+1)|16 (+3)|18 (+4)|
+
 - **Saving Throws:** Str +9, Dex +7, Con +7, Wis +7
 - **Skills:** Athletics +9, Acrobatics +7, Insight +7, Perception +7, Persuasion +8
 - **Damage Resistances:** Necrotic, Radiant
@@ -834,7 +869,9 @@ _Medium Humanoid (Human), Lawful Good_
 **Reactions**
 - _**Heroic Interception.**_ When a creature within 5 ft. is hit, Arthur takes the damage instead.
 - _**Will Parry (1 WP).**_ When hit by a melee attack, reduce the damage by 2d10 + 5.
+
 ### Sword Art: Radiant Edge (5 WP)
+
 Arthur performs his signature ten-strike sequence — a continuous, flowing technique that begins with pure swordsmanship and ascends into light itself. Each strike flows naturally into the next and must be performed in order. All attacks use +9 to hit.
 _— Phase 1: The Foundation (Strikes 1–5) —_
 **Strike 1 — Overhead Cut:** Arthur opens with a powerful downward strike from high guard, driving his blade straight down onto the target with his full weight behind it. Hit: 1d8+5 slashing. On a hit, the target has disadvantage on their next attack roll as they are forced to absorb or deflect the blow.
@@ -848,8 +885,9 @@ _— Will ignites. The blade begins to glow. —_
 **Strike 8 — Piercing Ray:** The thrust, now condensed into a focused beam of light that erupts from the tip of the blade upon impact, punching through anything in its path. This attack hits all creatures in a 30 ft. line behind the target. Each creature in the line makes a DC 18 Dex save, taking 4d10 radiant on a fail or half on a success. Ignores resistances.
 **Strike 9 — Concussive Flash:** Arthur steps inside the guard once more, releasing a point-blank explosion of light on impact. Hit: 1d6+5 bludgeoning + 3d10 radiant. On a hit, the target must make a DC 18 Con save or be blinded and stunned until the end of their next turn.
 **Strike 10 — Void Slash:** The final strike. Arthur vanishes — becoming light itself — and reappears at any point within 60 ft., delivering the finishing blow as a pure photon edge. This attack automatically hits, ignores all damage resistances and immunities, and deals 6d10 slashing + 6d10 radiant. If the target is below half HP, they must make a DC 20 Con save or drop to 0 HP.
-  
+
 ### Tristan / Baal
+
 - **Role:** Child, Demon King's Offspring
 - **Affiliation:** None (lives with Arthur in the Evergreen Forest)
 - **True Name:** Baal
@@ -874,13 +912,17 @@ _— Will ignites. The blade begins to glow. —_
 - Partially trained under Arthur's guidance — has meaningful control but is far from his true potential
 - His magic is innate and self-produced, making it fundamentally different from human spellcasting
 - The full scope of his power is unknown, even to himself
+
 ### Statblock
+
 _Medium Humanoid (Demon), Neutral Good_
 - **AC:** 14 (natural resilience) | **HP:** 78 (12d8 + 24) | **Speed:** 35 ft.
 - **CR:** 5
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |16 (+3)|14 (+2)|14 (+2)|10 (+0)|12 (+1)|8 (-1)|
+
 - **Saving Throws:** Str +5, Con +4
 - **Skills:** Athletics +5, Perception +3, Survival +3
 - **Damage Resistances:** Fire, Necrotic
@@ -902,8 +944,9 @@ _Medium Humanoid (Demon), Neutral Good_
 - Tristan's true power as Baal is sealed behind grief and loss — it awakens fully upon Arthur's death, the canonical trigger described in the Original Plotline
 - Upon Awakening, his transformation becomes permanent and overwhelming, and the Evergreen Forest changes color around him — a sign of the Demon King's power returning to the world
 - Players in the Past phase may witness or even attempt to prevent this moment
-  
+
 ### Michael
+
 - **Role:** Archbishop, Mentor, Bearer of the Hero's Box
 - **Affiliation:** The Church
 - **Status:** Alive
@@ -930,13 +973,17 @@ _Medium Humanoid (Demon), Neutral Good_
 - Glows with holy energy when a Hero Candidate touches it — they can feel it but cannot open it
 - Only a true Hero Candidate can open it, revealing a weapon perfectly suited to them inside
 - A Hero Candidate is not guaranteed to become a Hero — they have the potential but must still grow and prove themselves
+
 ### Statblock
+
 _Medium Humanoid (Human), Lawful Good_
 - **AC:** 14 (blessed robes) | **HP:** 130 (20d8 + 40) | **Speed:** 30 ft.
 - **CR:** 10
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |12 (+1)|12 (+1)|14 (+2)|16 (+3)|20 (+5)|16 (+3)|
+
 - **Saving Throws:** Int +7, Wis +9, Cha +7
 - **Skills:** Insight +9, Medicine +9, Persuasion +7, Religion +7
 - **Damage Resistances:** Radiant
@@ -947,23 +994,23 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Goddess's Faithful.**_ Michael has advantage on saving throws against spells and magical effects from non-divine sources.
 - _**Inspiring Presence.**_ Allies within 30 ft. have advantage on saving throws against being frightened and gain 5 temporary HP at the start of each of their turns while Michael is conscious.
 - _**Spellcasting.**_ Michael is a 14th level divine spellcaster. His spellcasting ability is Wisdom (spell save DC 17, +9 to hit). He always has the following spells prepared:
-    
+
     - _Cantrips:_ Sacred Flame, Guidance, Light
-    
+
     - _1st (4 slots):_ Healing Word, Bless, Shield of Faith
-    
+
     - _2nd (3 slots):_ Spiritual Weapon, Lesser Restoration, Hold Person
-    
+
     - _3rd (3 slots):_ Mass Healing Word, Dispel Magic, Spirit Guardians
-    
+
     - _4th (3 slots):_ Banishment, Guardian of Faith
-    
+
     - _5th (2 slots):_ Mass Cure Wounds, Flame Strike
-    
+
     - _6th (1 slot):_ Heal
-    
+
     - _7th (1 slot):_ Divine Word
-    
+
 **Actions**
 - _**Multiattack.**_ Michael makes two attacks with his Holy Staff.
 - _**Holy Staff.** +5 to hit, 5 ft._ Hit: 1d6+1 bludgeoning + 2d6 radiant. Any spell Michael casts can optionally be delivered through it at melee range.
@@ -973,8 +1020,9 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Lay on Hands.**_ Michael touches a creature and restores 25 HP. Can be used 3 times per long rest.
 **Reactions**
 - _**Divine Intercession.**_ When an ally within 30 ft. would be reduced to 0 HP, Michael can expend a spell slot to instead leave them at 1 HP and grant them temporary HP equal to 5 times the slot level used.
-  
+
 ### Luna
+
 - **Role:** Priest, Healer, Michael's Student
 - **Affiliation:** The Church
 - **Status:** Alive
@@ -1000,9 +1048,11 @@ _Medium Humanoid (Human), Lawful Good_
 _Medium Humanoid (Human), Lawful Good_
 - **AC:** 13 (blessed robes) | **HP:** 78 (12d8 + 24) | **Speed:** 30 ft.
 - **CR:** 4
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |10 (+0)|12 (+1)|14 (+2)|12 (+1)|16 (+3)|14 (+2)|
+
 - **Saving Throws:** Wis +5, Cha +4
 - **Skills:** Insight +5, Medicine +7, Persuasion +4, Religion +3
 - **Damage Resistances:** Radiant
@@ -1012,15 +1062,15 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Goddess's Faithful.**_ Luna has advantage on saving throws against spells and magical effects from non-divine sources.
 - _**Empowered Healing.**_ When Luna restores HP to a creature, they regain an additional 1d6 HP.
 - _**Spellcasting.**_ Luna is a 6th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit). She always has the following spells prepared:
-    
+
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying
-    
+
     - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Protection from Evil and Good
-    
+
     - _2nd (3 slots):_ Lesser Restoration, Prayer of Healing, Aid
-    
+
     - _3rd (2 slots):_ Mass Healing Word, Revivify
-    
+
 **Actions**
 - _**Holy Staff.** +2 to hit, 5 ft._ Hit: 1d6 bludgeoning + 1d6 radiant.
 - _**Radiant Burst (Recharge 5–6).**_ Luna releases a flash of holy light in a 15 ft. radius. Allies in the area regain 2d8+3 HP. Hostile creatures make a DC 13 Con save or are blinded until the end of their next turn.
@@ -1028,8 +1078,9 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Healing Word (3/Day).**_ Luna calls out to an ally within 60 ft., restoring 1d4+3 HP as a bonus action.
 **Reactions**
 - _**Protective Light.**_ When an ally within 30 ft. is hit by an attack, Luna can impose disadvantage on the attack roll as she channels a brief flash of divine light to shield them.
-  
+
 ### John / Raphael
+
 - **Role:** Low-ranking Church Member, Unaware Hero Candidate
 - **Affiliation:** The Church
 - **True Name:** Raphael
@@ -1059,13 +1110,17 @@ _Medium Humanoid (Human), Lawful Good_
 - His true name is Raphael, son of a noble family
 - Someone from his noble bloodline is actively hunting him
 - He joined the Church not out of faith but out of convenience and proximity to the fight against the Demon King
+
 ### Statblock
+
 _Medium Humanoid (Human), Neutral_
 - **AC:** 13 (leather armor) | **HP:** 58 (9d10 + 9) | **Speed:** 30 ft.
 - **CR:** 2
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |14 (+2)|13 (+1)|12 (+1)|11 (+0)|11 (+0)|10 (+0)|
+
 - **Saving Throws:** Str +4, Con +3
 - **Skills:** Athletics +4, Perception +2, Survival +2
 - **Senses:** Passive Perception 12
@@ -1085,8 +1140,9 @@ _Medium Humanoid (Human), Neutral_
 - John opening the Hero's Box is the key turning point of the Present phase — the weapon inside should feel meaningful and personal to the player
 - His noble bloodline hunting him is a potential side arc or future complication
 - His revenge goal puts him on a collision course with Tristan/Baal — a deeply layered confrontation given what the players will know from the Past phase
-  
+
 ### Sir Adonis
+
 - **Role:** Paladin, Church Champion, Former Hero's Companion
 - **Affiliation:** The Church
 - **Age:** Late 40s–50s (Present Phase)
@@ -1112,14 +1168,17 @@ _Medium Humanoid (Human), Neutral_
 - **Manifestation:** Raw physical force — his strikes hit harder than any man his size should
 - **Awakening:** His Will is not mere strength but divine wrath — the Goddess's judgment made flesh, a force that grows more dangerous the longer a fight continues
 - **Realization:** Adonis becomes the instrument of divine destruction itself — his body transcends its limits, pain and fear cease to exist, and every strike carries the weight of holy sentence
-  
+
 ### Statblock
+
 _Medium Humanoid (Human), Lawful Good_
 - **AC:** 21 (plate + shield) | **HP:** 210 (20d10 + 80) | **Speed:** 30 ft.
 - **CR:** 16
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |22 (+6)|12 (+1)|18 (+4)|12 (+1)|14 (+2)|16 (+3)|
+
 - **Saving Throws:** Str +10, Con +8, Wis +6, Cha +7
 - **Skills:** Athletics +10, Insight +6, Intimidation +7, Religion +5, Perception +6
 - **Damage Resistances:** Radiant, Necrotic
@@ -1153,19 +1212,24 @@ _Medium Humanoid (Human), Lawful Good_
 - In the Present phase he is a potential ally against the Demon King, creating a deeply uncomfortable dynamic for players who lived through the Past phase
 - His Divine Wrath Will is a thematic contrast to Arthur's Light Will — wrath vs. grace, endurance vs. precision, the soldier vs. the chosen hero
 - Whether Adonis ever fully reckons with what he did to Arthur is a story thread worth pulling
-  
+
 ### The Demon General Mimic — Vael'shar, the Hollow
+
 _True Name: Vael'shar_ (VAY-el-shar)*
 _Title: The Hollow_
 _Classification: Demon General — Infiltration & Assassination_
 In its true form Vael'shar stands roughly eight feet, its body a shifting compression of shadow that never quite resolves into solid edges. It is not dramatically monstrous. It is wrong in a quieter way — proportions that drift slightly, a face that suggests features without having them, the impression of a figure observed through dark water. It moves without sound. It does not telegraph. When it decides to end something, that thing ends.
+
 ### Statblock
+
 _Large Fiend (Demon), Neutral Evil_
 - **AC:** 18 (shadow-dense form) | **HP:** 245 (28d10 + 84) | **Speed:** 50 ft.
 - **CR:** 18
+
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
 |22 (+6)|24 (+7)|16 (+3)|18 (+4)|20 (+5)|16 (+3)|
+
 - **Saving Throws:** Dex +13, Int +10, Wis +11
 - **Skills:** Deception +15, Insight +11, Perception +11, Stealth +19
 - **Damage Immunities:** Poison, Psychic
@@ -1173,7 +1237,6 @@ _Large Fiend (Demon), Neutral Evil_
 - **Condition Immunities:** Charmed, Exhaustion, Frightened, Poisoned
 - **Senses:** Truesight 120 ft., Darkvision 120 ft., Passive Perception 21
 - **Languages:** All languages (does not speak unless choosing to deceive)
----
 **Traits**
 _**Shadow Form.**_ Vael'shar can move through any space as narrow as one inch without squeezing. It does not trigger pressure plates, motion sensors, or tripwires.
 _**Flawless Mimicry.**_ Vael'shar can perfectly replicate the appearance, voice, scent, and surface-level mannerisms of any creature it has observed for at least 1 minute. Detecting the disguise requires a DC 28 Insight check. Truesight bypasses this automatically. Magical detection (such as _detect evil_) functions normally.
@@ -1181,44 +1244,49 @@ _**Premeditated.**_ Vael'shar always acts on the first round of combat, regardle
 _**Hollow Presence.**_ Creatures within 30 ft. of Vael'shar in its true form must make a DC 19 Wisdom saving throw at the start of each of their turns or become rattled — they have disadvantage on attacks against Vael'shar and cannot take reactions until the start of their next turn. Creatures that succeed are immune to this effect for 24 hours.
 _**Shadow Anchor.**_ Vael'shar's shadow exists independently of light sources. It is always present and always correct — even in magical darkness, in full shadow, in featureless rooms. Creatures that observe this closely and succeed on a DC 16 Perception check notice something is wrong.
 _**Legendary Resistance (3/Day).**_ If Vael'shar fails a saving throw, it can choose to succeed instead.
----
 **Actions**
 _**Multiattack.**_ Vael'shar makes three Void Blade attacks. It can replace one with Hollow Touch.
 _**Void Blade.** +13 to hit, reach 10 ft._ Hit: 2d10+7 slashing + 3d8 necrotic. On a hit, the target's maximum HP is reduced by the necrotic damage dealt until they complete a long rest.
 _**Hollow Touch (Recharge 5–6).**_ Vael'shar reaches into a creature within 5 ft. and touches something they are afraid of losing. The target makes a DC 19 Wisdom save. On a failure: 6d10 psychic damage and the target is stunned until the end of their next turn as their worst fear plays out behind their eyes in perfect, silent detail. On a success: half damage, not stunned.
 _**Unmaking Strike (1/Day).**_ One attack that is declared before the roll. On a hit: 4d12+7 piercing + 4d12 necrotic, and the target must make a DC 21 Constitution save or be reduced to 0 HP. On a miss: Vael'shar still deals 2d12+7 damage as the blade grazes.
----
 **Bonus Actions**
 _**Blink Step.**_ Vael'shar teleports up to 60 ft. to an unoccupied space it can see. It does not need line of sight — only awareness that the space exists. This does not provoke opportunity attacks.
 _**Read the Room.**_ Vael'shar studies one creature within 60 ft. Until the end of its next turn, it has advantage on all attack rolls and saving throws against that creature, and that creature has disadvantage on saving throws against Vael'shar's abilities.
----
 **Reactions**
 _**Counterstrike.**_ When a creature within 10 ft. misses Vael'shar with a melee attack, Vael'shar makes one Void Blade attack against them as a reaction.
 _**Phase.**_ When Vael'shar would take damage, it can use its reaction to halve that damage and teleport up to 20 ft. in any direction. It cannot Phase and Counterstrike in the same round.
----
 **Legendary Actions** _(3/round, taken at the end of another creature's turn)_
 - **Shift (1 action):** Vael'shar moves up to half its speed without provoking opportunity attacks.
 - **Shadow Lash (1 action):** One creature within 30 ft. makes a DC 19 Dexterity save or takes 2d8+7 necrotic damage and is knocked prone.
 - **Wear Their Face (2 actions):** Vael'shar immediately assumes the appearance of one creature it can see within 60 ft. Until it uses this ability again or takes a bonus action to drop the form, it is indistinguishable from that creature to anyone without Truesight. Attacks against Vael'shar from creatures that cannot identify it as a disguise have disadvantage.
 - **Full Presence (3 actions):** Vael'shar drops all pretense. Every creature within 30 ft. that can see it must make a DC 21 Wisdom save or be frightened of Vael'shar for 1 minute. Frightened creatures must use their movement to move away from Vael'shar on their turn. Creatures that succeed are immune for 24 hours.
----
 **DM Notes (Act 1 Context)**
 Vael'shar at full capacity is CR 18 — a creature that should not be fought by E-rank players. In the Act 1 encounter it is not at full engagement; it is executing a specific assignment (neutralize Michael, retrieve the Hero's Box) and treating the party as noise rather than opponents. When it strikes Emmet or Luna it is not being thorough — it is being efficient. It wants Michael's attention, not theirs.
 Michael fighting it is not a fair fight. It is Michael buying time through experience, divine power, and the willingness to take damage he cannot fully absorb. The party running is the correct call. If they stay and fight, Vael'shar will demonstrate exactly why they shouldn't — precisely, without malice, the way a person swats something that landed on their arm.
 Whether Vael'shar is eventually encountered again — in a different face, in a different city, wearing a form the party trusts — is entirely up to you.
+
 ## Locations
 ---
+
 ## Stonewood
+
 A walled trade city situated at the edge of the Evergreen Forest, serving as the main hub between the surrounding towns and villages. Large enough to have a permanent Church presence, a busy market, and a professional city guard, but small enough that most long-time residents know each other by face if not by name.
+
 ### 🕯️ PRESENT
+
 _20 years after the Demon King's return_
 Stonewood's walls still stand. Its market still runs. The Church bells still ring on schedule. To a traveler passing through, it might seem like a city carrying on — resilient, even admirable. But spend a night here and something else becomes clear. The laughter is too quiet. The market stalls close earlier than they used to. People don't linger in the streets after dark. The Church is full not because of faith but because people have nowhere else to put their fear.
 The war with the Demon King has not touched Stonewood's walls directly, but it has touched everything inside them. Refugees from smaller destroyed villages have swelled the population. Food is rationed quietly — not by law yet, but by the invisible hand of scarcity. The city guard has tripled in size but halved in morale. Crime has risen in the alleys the guard doesn't bother to patrol anymore. The Church preaches hope but the pews feel more like a shelter than a sanctuary. Stonewood is a city holding its breath.
+
 ### 🌄 PAST
+
 _The era of peace following the Demon King's defeat_
 Stonewood is a city that feels like a deep breath. The war is over, the Hero won, and the world is rebuilding. Trade flows freely through Stonewood's gates — merchants from distant towns, traveling craftsmen, pilgrims visiting the Church to give thanks. The market is loud and colorful. Children run between stalls. The guard is bored in the best possible way. The Church is well-attended out of genuine gratitude rather than desperation. The walls exist more as tradition than necessity — the gates are rarely fully closed. The city feels open, warm, and unhurried.
+
 ### Key Locations
+
 ### The Gate & Walls
+
 _==Present==:_ The walls are a patchwork of old and new stonework — the newer sections darker, rougher, clearly added in haste during the early years of the war. Watchtowers have been installed at regular intervals along the battlements. The gatehouse is staffed by six guards at minimum with a sergeant present at all times. Travelers are questioned and bags are checked. Refugees are funneled to a separate processing area outside the eastern gate where they can wait days for entry. A notice board at the gate lists contraband items — the list has grown long.
 _==Past==:_ The city walls are old but well-maintained — a point of civic pride. The gatehouse is staffed by two guards at most, and familiar faces are waved through with a nod. Merchants shout greetings as they pass. The gates close at sundown more out of habit than necessity. The whole structure feels more like a landmark than a fortification.
 ==**Captain Aldric — The Guard**==
@@ -1235,13 +1303,19 @@ _==Past== — Aldric, age 28, Sergeant_
 - Believes in law and protecting people — idealistic but not naive
 - Has a wife named Elara and a newborn son named Cael. Talks about them constantly.
 - _Personality at the table:_ Friendly and approachable. Will chat with travelers, ask where they're headed, and share a local tip or two.
+
 ### The Church of the Goddess
+
 _==Present==:_ The largest building in the city, built from pale stone that glows faintly in the morning light. Inside, the pews are packed at all hours — families sleeping in the aisles, refugees huddled in side chapels. The Bishop delivers loud, urgent sermons about divine protection and endurance. The Church has become the city's de facto refugee processing center, food distribution point, and grief counseling office all at once. The staff is stretched thin and exhausted. The doors never close because there are always people who have nowhere else to go. The atmosphere is heavy — desperate prayers, quiet weeping, the smell of too many people in too small a space.
 _==Past==:_ The largest building in the city, built from pale stone that catches the morning light beautifully. The interior is open and airy with tall windows and wooden pews worn smooth from decades of use. Services are joyful community events — singing, shared meals afterward, a genuine sense of gratitude for the peace the world has won. The resident Priest, Father Cedric, knows every family in the city by name. The doors are open from dawn to dusk and the atmosphere inside is warm, quiet, and welcoming.
+
 ### The Market District
+
 _==Present==:_ A wide cobblestone square lined with stalls and surrounded by shop fronts. Half the original vendors have been replaced by refugees selling whatever they managed to carry out of their destroyed homes — secondhand tools, worn clothing, small personal items. Exotic goods are nearly gone. What remains is practical: food, basic supplies, cheap medicine. Prices have crept up on everything and nobody pretends otherwise. The atmosphere is transactional and tense. Vendors watch their stock carefully. Pickpocketing is common enough that most people keep a hand on their coin purse. The market closes an hour before sunset and the square empties fast — nobody wants to be caught outside after dark.
 _==Past==:_ A wide cobblestone square that is the beating heart of the city. Loud, colorful, and fragrant — spices from the south, bolts of cloth from the east, fresh produce from surrounding farms piled high on wooden carts. Street performers work the crowd. Vendors argue cheerfully with each other over shared corners. Children chase each other between the legs of adults. The smell of roasting meat drifts from a corner stall that always has a line. The market runs from sunrise to an hour before sunset and the square stays lively long after it officially closes.
+
 ### Gareth's Smithy
+
 _Location:_ A squat stone building near the city's northern gate, identifiable by the permanent haze of smoke above it and the rhythmic clang of hammer on anvil that starts before dawn. A wooden sign above the door reads "Gareth & Son."
 _==Present==:_ The smithy runs day and night. The forge never fully cools. The interior is cluttered with weapon racks, half-finished orders, and scraps of metal covering every surface. The air is thick with heat and the smell of iron. Gareth himself is usually at the anvil, sleeves rolled up, face set in concentration. He speaks only when spoken to and even then keeps it short. The wait list for orders is pinned to the door — currently three weeks out.
 - Longswords — 15gp
@@ -1273,7 +1347,9 @@ _==Past== — Gareth, age 30_
 - Spends his evenings at the Hearthstone. Laughs loudly. Tips well.
 - Has never made a weapon more serious than a hunting sword and is quietly proud of that
 - _Personality at the table:_ Warm and unhurried. Happy to chat. Will throw in a free sharpening if he likes you.
+
 ### Mara's Stall
+
 _Location:_ A corner stall in the market square, one of the few with a permanent wooden canopy. In the Present the canopy is weathered and patched with a handwritten price board at the front and a locked strongbox under the counter.
 _==Present==:_ The stall is smaller than it looks like it used to be — the edges of the canopy show old attachment points where extensions once hung. Stock is practical and sparse: root vegetables, preserved meats, dried medicinal herbs. Mara stands behind the counter with the posture of someone who has been on her feet for twenty years and intends to stay there. She watches the square constantly — old habit, new purpose.
 - Basic root vegetables and grain — 3cp per item
@@ -1299,7 +1375,9 @@ _==Past== — Mara, age 25_
 - Knows everyone's business and shares most of it freely and cheerfully
 - Genuinely happy. Believes the world is good and says so often.
 - _Personality at the table:_ Will call out to players as they pass, offer a free sample, and already know something interesting about wherever they came from.
+
 ### The Gatehouse
+
 _Location:_ A two-story stone structure built into the city walls flanking the southern gate.
 _==Present==:_ The interior has been converted into a full operations room. A large map of the surrounding region covers one wall, marked with pins indicating known demon activity and raided settlements. Guard rosters are posted beside it. The warm fire and casual atmosphere are long gone — this is a working command post. Captain Aldric is usually here when not on patrol, standing over the map with the expression of a man doing math he doesn't like the answer to.
 _==Past==:_ The gatehouse interior is simple and comfortable — a guard post that doubles as a welcome point. There's usually a pot of something warm on the fire, a deck of cards on the table, and at least one guard asleep in a chair. Sergeant Aldric runs a tight enough ship but sees no reason to make his men miserable about it.
@@ -1317,7 +1395,9 @@ _==Past== — Aldric, age 28, Sergeant_
 - Believes in law and protecting people — idealistic but not naive
 - Has a wife named Elara and a newborn son named Cael. Talks about them constantly.
 - _Personality at the table:_ Friendly and approachable. Will chat with travelers, ask where they're headed, and share a local tip or two.
+
 ### Thornside Alley
+
 _Location:_ A maze of narrow streets and cramped courtyards behind the market district, sandwiched between the backs of merchant buildings and the city's inner wall.
 _==Present==:_ Thornside is now a dense, self-contained district that the city guard has quietly abandoned. Refugees have built lean-tos and partition walls between existing buildings, turning alleyways into corridors and courtyards into common rooms. Unlicensed vendors operate openly. There are at least two underground fighting rings, an unlicensed apothecary rumored to sell Church-banned substances, and an information brokering network operating out of a former cooperage at the far end of the main lane. It is not openly dangerous if you carry yourself right, but it is not safe either.
 - Black market goods — negotiated
@@ -1339,7 +1419,9 @@ _==Past== — Silas, age 22_
 - Has a loose network of street contacts and knows where things can be found for the right price
 - Found at the back tables of the Hearthstone or near the market's east entrance
 - _Personality at the table:_ Friendly and slippery. Will pretend to be something he isn't until pushed. Responds well to directness and coin. Has a good sense of humor about being caught out.
+
 ### The Hearth Inn
+
 _Location:_ A two-story timber-framed building on the western edge of the market square. The ground floor is the common room and kitchen, the upper floor has eight rooms. A painted hearthstone above the door is said to have been blessed by a traveling priest decades ago.
 _==Present==:_ The Hearthstone is overcrowded and showing its age. Rooms have been subdivided — what were private quarters now sleep three or four. The common room is full every night but not with celebration; it is the low murmur of people with nowhere else to go, nursing cheap ale and avoiding eye contact. The kitchen serves one hot meal a day and it runs out fast. The painted hearthstone above the door has become an impromptu shrine — small offerings of coins and flowers left at its base by guests who need something to believe in.
 - Shared room (3–4 per room) — 4sp per night
@@ -1356,20 +1438,30 @@ _==Past==:_ The Hearthstone is lively and welcoming, the natural endpoint of any
 - Ale — 2cp per pint
 - Wine (local) — 5cp per cup
 - Stabling — 2sp per night
-  
+
 ## Lowfield
+
 A small, quiet farming village at the other end of the Evergreen Forest from Stonewood. The village sustains itself through farming, animal husbandry, and rural trade. Residents barter freely and sell surplus goods to passing merchants or make occasional trips to Stonewood. There are no walls, no guard. A few cafes and eateries serve as the social heart of the village.
 Arthur and Tristan are regular visitors, coming to sell hunted game and pick up goods. They are warmly regarded — a sweet, quiet family everyone has a soft spot for. The village aunties have adopted Tristan as a collective source of joy. He never speaks to anyone in the village — he listens, nods, shakes his head, and accepts whatever is put in front of him with quiet contentment.
 It was the aunties' offhand comments — _"I wish he'd stay this cute forever"_ — that Tristan took literally. Somewhere between intention and instinct, he used his demon magic to halt his own growth. He still looks twelve. He may always look twelve.
+
 ### 🕯️ PRESENT
+
 Lowfield should not exist in its current state. Villages like it have been raided or abandoned. But Lowfield stands — farms tended, cafes open, smoke rising from chimneys. No demon has come within a mile of it. No soldier has ridden through demanding grain. The kingdom's army has tried twice and been turned back both times by things that can't quite be explained. The villagers count their blessings and keep farming. The older residents who remember Arthur and Tristan have their suspicions. They don't say them out loud.
+
 ### 🌄 PAST
+
 Lowfield is unhurried, warm, and deeply communal. Market days are social events as much as commercial ones. Edna's cafe has the best bread within fifty miles and she knows it. Farmers argue about weather and soil. Children chase livestock through the lanes. Arthur and Tristan's visits are minor local events — word spreads fast and by the time they reach the main lane, aunties are already emerging from doorways with something warm to press into Tristan's hands.
+
 ### Key Locations
+
 ### The Village Lane
+
 _Present:_ The main unpaved road through the heart of Lowfield, lined with farmhouses, small gardens, and handmade signs advertising eggs or wool for trade. Quieter than it used to be — a few houses sit empty. But the lane is swept, the gardens are tended, and smoke comes from most chimneys.
 _Past:_ Busy and sociable. Neighbors call out across the lane. Chickens wander freely. The smell of baking bread drifts from Edna's cafe at all hours. Children use the lane as a race track. A cart is almost always parked somewhere it shouldn't be.
+
 ### Edna's Cafe
+
 _Location:_ A low, wide building near the center of the village lane with a hand-painted sign that reads "Edna's" and a bench out front almost always occupied by someone with nowhere pressing to be. Four tables, a long wooden counter, and a kitchen that takes up more than half the space.
 _Present:_ Edna is still there. Still baking. The menu hasn't changed in twenty years and she considers this a point of pride. The cafe has become an anchor for the village — people come not just for the food but because it feels like proof that things are still normal. She refuses to raise prices even as ingredients cost more, making up the difference by growing what she can and accepting barter.
 - Fresh bread (loaf) — 3cp or barter
@@ -1395,7 +1487,9 @@ _Past — Edna, age 48_
 - The one who first said _"I wish he'd stay this cute forever"_ — she has no idea what she started
 - Knows Arthur is not quite a normal retired farmer but has never asked and never intends to
 - _Personality at the table:_ Loudly cheerful, impossible to refuse, always three steps ahead of the conversation. Will have already heard why the players are in Lowfield before they tell her.
+
 ### The Millstone — Inn
+
 _Location:_ A sturdy two-story stone building at the edge of the village, named for the old millstone propped against its outer wall. Ground floor is a common room and small kitchen. Upper floor has three rooms.
 _Present:_ Runs at half capacity — fewer traveling merchants come through now that the roads are less safe. Benno keeps the place immaculate out of habit and quiet pride. He has converted one of the three rooms into village emergency supplies — food, medicine, blankets — organized and maintained without being asked.
 - Private room — 4sp per night
@@ -1419,7 +1513,9 @@ _Past — Benno, age 35_
 - Has a soft spot for Arthur and Tristan — always has their room ready, always has something extra on the tray
 - Never asks Arthur about his past. Has pieced together more than he lets on from small details over the years.
 - _Personality at the table:_ Friendly and accommodating without being effusive. Remembers how you take your tea after one visit.
+
 ### The Pasture & Farm Market
+
 _Location:_ An open field at the northern edge of the village that doubles as an informal market on certain days. No stalls, no fees, no rules — people spread things out on carts and blankets and sort it out among themselves.
 _Present:_ Still running, still informal. The variety is smaller but what's here is good. A few farmers have quietly started setting aside a portion of each harvest in the old barn at the edge of the pasture. Nobody organized this. It just happened. The village is preparing, in its quiet way, for something it doesn't want to name.
 - Seasonal produce — barter or 1–2cp per item
@@ -1440,44 +1536,59 @@ _Past — Renwick, age 52_
 - One of Arthur's few genuine peers in Lowfield — they don't talk much but there's a mutual recognition between them
 - Has let Tristan help on the farm a few times. Tristan works hard and silently and Renwick appreciates both enormously.
 - _Personality at the table:_ Gruff but fair. Generous with work and stingy with words. Warms up considerably after the second ale.
+
 ### Story Notes (DM Only)
+
 - Lowfield is Tristan's emotional anchor — the place that represents everything Arthur taught him about living among people, being known, being cared for
 - His protection of Lowfield in the Present is entirely personal and entirely silent — no demons know why they are not to go near it, they just know
 - Players in the Present phase may notice that Lowfield is inexplicably untouched and begin to ask why — a thread that leads directly to understanding who Tristan really is beneath the Demon King
 - Edna's sketch of Tristan — unchanged after twenty years — is a potential story moment if players notice it
 - Renwick's quiet theory about the village's protection could seed Tristan's identity before players have figured it out themselves
 - Tristan halting his own growth is an early sign of how powerful his magic truly is — he changed something fundamental about himself half by accident as a child
-  
+
 ## Evergreen Forest / Twilight Forest
+
 A dense forest that runs between Stonewood and Lowfield, bisected by a single road connecting the two. In the Past it is known as the Evergreen Forest. After Arthur's death, Tristan's grief and awakening power permanently altered the environment — the forest changed color, changed atmosphere, changed nature. It has been known as the Twilight Forest ever since. The road through it still exists but is no longer considered safe.
+
 ### 🕯️ PRESENT — The Twilight Forest
+
 The Twilight Forest is not simply dark. It is wrong in a way that is difficult to articulate. The trees still stand. Things still grow. But the colors are off — deep purples, bruised blues, blacks where there should be green. The light that filters through the canopy is dim and strange, like perpetual dusk regardless of the hour. Animals exist here but they are not the animals of the Evergreen Forest. What lives in the Twilight Forest has adapted to it, and most of it is hostile.
 Travelers who must cross between Stonewood and Lowfield do so quickly and in groups. The road is still passable but the forest presses close on either side and things move in the treeline. No one who has wandered off the road has returned with a full account of what they found. The Church has declared the forest cursed. Scholars call it a permanent magical anomaly. Neither explanation satisfies anyone who has actually been inside it.
 Demons do not patrol the forest but they do not need to. The forest does the work for them.
+
 ### 🌄 PAST — The Evergreen Forest
+
 The Evergreen Forest is beautiful, but not simply so. The trees are old and very tall, their canopy thick enough that the light reaches the forest floor in long, slanted beams. It is quiet in the way that deep places are quiet — not empty, but listening. Animals move through it freely. The undergrowth is dense but not threatening. The road through it is well-traveled and safe enough, though travelers who stray from it tend to find themselves turned around in ways that feel less like bad luck and more like the forest deciding.
 There is an undercurrent to it that most people register without naming. Something about the Evergreen Forest feels inhabited in a way that goes beyond its wildlife. It is not frightening. But it is aware.
 Arthur has lived here long enough to know every sound the forest makes. Tristan has grown up in it. To both of them it is simply home.
+
 ### Key Locations
+
 ### The Road
+
 _Present:_ The single unpaved road connecting Stonewood and Lowfield still cuts through the Twilight Forest, but it is no longer a comfortable journey. The road is intact but the forest crowds it from both sides, close enough that branches overhang the path. Travelers report sounds from the treeline — movement, breathing, something that stops when you stop walking. The journey that once took a relaxed half-day now feels much longer. Most people move fast and don't look into the trees.
 _Past:_ A well-maintained dirt road through pleasant woodland. Merchants use it regularly. Locals walk it without a second thought. Arthur and Tristan use it on their trips to Stonewood and Lowfield, usually with a cart of game. It passes close enough to their home that Arthur can cut through the forest from a familiar point rather than going all the way to the road's end.
+
 ### Arthur and Tristan's House
+
 _Location:_ Deep in the forest, well off the road and invisible from it. Arthur built it by hand when he first retired — a sturdy wooden structure, not large, but carefully made. A main room with a fireplace, two small bedrooms, a covered porch, and a cleared patch of ground outside that serves as both a practice area and a place to sit in the evenings. The surrounding trees were chosen deliberately — old growth, widely spaced, the kind that let in enough light to make the place feel open even deep in the forest.
 _Present:_ The forest around the house has been overtaken by the Twilight Forest's changes — the trees have darkened, strange vegetation has crept up the outer walls, and the clearing is rimmed with the same bruised, unnatural growth that defines the rest of the forest. But the house itself has been preserved. By order of Tristan, nothing in the immediate area of the house is to be harmed or intruded upon. Demons and creatures that roam the Twilight Forest give the clearing a wide berth — they do not know why, they simply do. The door is unlocked. Inside, the house is maintained. Not pristine, but cared for — the fireplace has been used recently, there are signs that someone has slept here, sat here, eaten here alone. Personal items remain exactly where they were left. Arthur's things have not been moved. A second set of belongings — sparse, practical — indicates Tristan returns. How often is unclear. The house feels less like a ruin and more like a wound that hasn't closed.
 _Past:_ Warm and lived-in. The main room smells of woodsmoke and whatever Arthur has been cooking. Training equipment is stacked near the door. Tristan's small collection of things he has found in the forest — smooth stones, interesting bark, a feather — sits on the windowsill. The porch is where Arthur tends to sit in the evenings. It is a genuinely happy place, in the quiet way of people who have made peace with a simple life and mean it.
+
 ### Story Notes (DM Only)
+
 - The transformation of the Evergreen Forest into the Twilight Forest is the most visible mark Tristan's grief left on the world — players in the Present phase who know what the forest used to be (from the Past phase) will feel the weight of it
 - The house is Tristan's one act of preservation in a world he has spent twenty years reshaping through war — finding it should tell players something important about who he still is underneath everything
 - If players reach the house in the Present phase, the undisturbed state of Arthur's belongings is a potential emotional moment — Tristan has not removed them, has not been able to
 - The clearing's enforced safety is a hook: players who are being pursued through the Twilight Forest might stumble into it and find themselves inexplicably protected — and then have to reckon with why
 - In the Past phase, the house is a place players may spend time in — it should feel like a real home, not a set piece
-  
-  
+
 ## Uniques
 ---
+
 ## Will
 ---
+
 Will is an internal energy that exists within living beings, drawn from one's conviction, identity, and understanding of self. Unlike magic, which is external and learned, Will is intrinsic — it cannot be taught, only awakened. It manifests differently in every individual and is shaped entirely by who that person is.
 **Stage I — Manifestation**
 - The user becomes aware of their Will and begins to express it outwardly
@@ -1497,8 +1608,10 @@ Will is an internal energy that exists within living beings, drawn from one's co
 - Will is a spectrum. Many fighters never reach Manifestation. Awakening is rare. Realization is near-mythical.
 - Will and magic are distinct systems and do not interfere with each other, though a user can theoretically possess both.
 - Will is unique to this world. Other worlds may have analogous systems (Qi, Aura, etc.) but the specific stages and expression of Will are native to this setting only.
+
 ## Magic
 ---
+
 Magic is the manipulation of mana — an energy that exists throughout the world in different forms depending on its source. How a being accesses mana defines the nature of their magic entirely. Humans and demons draw on mana in fundamentally different ways, and neither can replicate the other's method.
 **How Humans Use Magic**
 Humans are conductors. They do not generate mana themselves — instead they draw it from external sources and channel it through their bodies to produce magical effects. The three sources humans can draw from are nature, spirits, and gods.
@@ -1522,11 +1635,14 @@ Humans cannot generate internal mana. No amount of training, ritual, or augmenta
 This means the two systems are entirely separate in practice. A demon cannot receive divine magic. A human cannot use innate demon-style casting. There is no overlap, no hybrid, no exception that has been reliably documented.
 **Visible Effects**
 Magic has a visible component when cast. The appearance varies by source and caster — nature magic tends toward greens and golds, divine magic toward white and pale light, spirit magic toward silver or shifting iridescence. Demon magic is typically darker in hue, often red, black, or deep violet, and has a denser, more physical quality to its visual presence. Experienced observers can identify a caster's source and sometimes their affiliation from the look of their magic alone.
-  
+
 ## Gods & Spirits
 ---
+
 There are three powers that sit above the world without quite being part of it — the Goddess of Light, the God of Darkness, and the Spirit King. Each is vast enough that scholars argue about whether they are truly comparable, but in practice they occupy the same tier. None commands the others. None is known to have tried.
+
 ### Gods
+
 The gods are distant. They do not walk the world, do not speak plainly, and do not intervene in ways that are easy to point to. Their presence is felt through the people and institutions that serve them — through the blessings they grant, the magic that flows from devotion to them, and the rare chosen individuals who carry their mandate into the world. When a god acts, it is almost always through someone else.
 Whether this distance is a choice, a limitation, or something else entirely is a matter of ongoing theological debate that has never been resolved.
 **Aelura** _**(ay-LOO-rah)**_ **— The Goddess of Light**
@@ -1553,7 +1669,9 @@ Whether this distance is a choice, a limitation, or something else entirely is a
 - **Nara** _(NAH-rah)_ — Goddess of Grief & Memory. Not malevolent — she is the one who tends to the weight of loss. Mourners sometimes leave offerings at unmarked stones for her. She is considered the reason the dead are not forgotten.
 - **Ossyr** _(OS-sir)_ — God of Endings & Thresholds. He governs the crossing between death and what comes after, not death itself. Distinct from violence or destruction — Ossyr is invoked at the close of things: the end of a journey, the last day of a life, the moment a door shuts for the final time.
 - **Thessan** _(THES-an)_ — God of Ambition & Hunger. Patron of those who want more than they were given. Not inherently evil but his worship tends toward obsession. The Church considers him dangerous. His followers consider that the point.
+
 ### Spirits
+
 Spirits are a separate category of being entirely. They are not gods and do not think of themselves as such. They are older presences — entities that have existed alongside the natural world for as long as the natural world has existed, each one tied to a specific element, place, or force. They do not govern in the way gods do. They simply are.
 The Spirit King sits at the head of this hierarchy, roughly equal in scope and power to the major gods. He is not worshipped in the way gods are, but he is respected — by those who know enough to do so. His relationship with the Goddess and the God of Darkness is one of mutual recognition and apparent non-interference. There is no known conflict between the three powers, and no known alliance either.
 **The Spirit King**
@@ -1566,7 +1684,9 @@ The Spirit King sits at the head of this hierarchy, roughly equal in scope and p
 - They are not gods and do not grant divine magic — humans who draw from spirits are drawing ambient elemental mana, not receiving a blessing
 - Each Guardian has a distinct character tied to their element. They can be communicated with, bargained with, and in rare cases form genuine bonds with human practitioners — but they are not warm in the way gods are imagined to be. They are elemental in the truest sense.
 - There are four Major Spirit Guardians, each governing a primary element. They are ancient, distinct, and not easily categorized as benevolent or hostile — they are elemental in the truest sense, and interact with humans entirely on their own terms.
+
 ### Solrath — Guardian of Fire (SOL-rath)
+
 _Appearance:_ A towering figure of condensed flame, shifting between the shape of a man and something far older. His face is calm in the way a wildfire is calm — not still, but inevitable.
 _Personality:_ Proud, direct, and intensely present. Solrath does not waste words and does not tolerate timidity. He respects those who act with conviction, even if he disagrees with the action. He has a dry, sharp humor that surfaces unexpectedly. Of the four Guardians he is the most likely to engage with humans on something resembling equal footing — not because he thinks they are equals, but because he finds them interesting when they stop being afraid of him.
 _What he values:_ Courage, decisiveness, and honesty. No patience for hesitation or false modesty. Responds well to people who want something and say so plainly.
@@ -1575,7 +1695,9 @@ _Blessings he grants:_
 - Resistance to heat and fire damage
 - The ability to sense heat sources and emotional intensity in nearby creatures — Solrath's fire reads passion as well as temperature
 - At deeper bonds: the ability to call flame from nothing rather than needing an existing source, and to briefly transform strikes or touch into fire
+
 ### Nerathi — Guardian of Water (neh-RAH-thee)
+
 _Appearance:_ A fluid, shifting form that never fully settles — sometimes a woman made of still deep water, sometimes a current, sometimes barely visible at all. Her eyes are the only constant: dark and depthless.
 _Personality:_ Patient to a degree that humans often mistake for coldness. Nerathi observes before she speaks, speaks carefully when she does, and rarely repeats herself. She is not unkind but she is not warm — she is deep, and depth is not always comfortable. She holds a long memory and a long view. Of the four Guardians she is the hardest to form a bond with, not because she refuses but because she waits to see if the person is serious.
 _What she values:_ Patience, adaptability, and genuine emotional honesty. She distrusts people who perform more than they feel.
@@ -1584,7 +1706,9 @@ _Blessings she grants:_
 - The ability to breathe and move freely underwater
 - Heightened intuition about people's true emotional states — Nerathi's water reads depth
 - At deeper bonds: the ability to pull moisture from air or ground without a water source present, and to use water as a scrying medium to observe distant places she has touched before
+
 ### Vaelor — Guardian of Wind (VAY-lor)
+
 _Appearance:_ Rarely fully visible — most often a presence in moving air, a voice from no direction in particular, or a briefly glimpsed silhouette moving fast through the sky. When he fully manifests he appears as a lean, sharp-featured figure with hair and clothes in constant motion regardless of whether there is wind.
 _Personality:_ Restless, curious, and easily bored by anything that sits still too long. The most talkative of the four Guardians and the most unpredictable — he might answer a question with a question, disappear mid-conversation, or show up uninvited to offer an opinion nobody asked for. He is not malicious but he is capricious. He likes people who surprise him and loses interest in people who don't.
 _What he values:_ Curiosity, adaptability, and a willingness to change direction. No respect for rigidity and a deep instinctive dislike of anything that tries to contain things unnecessarily.
@@ -1593,7 +1717,9 @@ _Blessings he grants:_
 - Enhanced agility and reaction speed
 - The ability to muffle sound around oneself or project it across distances
 - At deeper bonds: the ability to briefly ride wind currents over short distances as if flying, and to sense anything carried on the wind — sound, scent, the movement of distant creatures
+
 ### Gorrath — Guardian of Earth (GOR-rath)
+
 _Appearance:_ Massive and still. A figure of stone and packed soil, slow-moving in the way that mountains are slow-moving — not incapable of speed, simply uninterested in it. Moss grows on his shoulders. His voice resonates in the chest more than the ears.
 _Personality:_ The quietest and most deliberate of the four. Gorrath does not rush, does not raise his voice, and does not change his mind easily — but when he does it is because he has thought about it fully and means it. The most straightforwardly reliable of the Guardians. He has a deep, slow affection for things that endure — old trees, old stone, old bonds. His humor surfaces rarely and lands like a boulder.
 _What he values:_ Steadfastness, honesty, and endurance. No interest in cleverness for its own sake. Responds to people who are where they say they will be and do what they say they will do.
@@ -1602,7 +1728,9 @@ _Blessings he grants:_
 - Significant physical resilience — harder to move, harder to wound
 - The ability to sense through ground contact — feeling vibrations, the movement of creatures, the structure of stone and soil nearby
 - At deeper bonds: the ability to reshape earth and stone directly without a spell framework, and to root oneself in place in a way that makes forced movement nearly impossible
+
 ### Spirits in General
+
 - Below the Major Guardians are countless lesser spirits — small presences tied to specific rivers, groves, mountains, weather patterns, or animals
 - These are the spirits most human mana-drawers are actually interfacing with, often without knowing it
 - A practitioner who cultivates a deliberate relationship with spirits — rather than simply drawing ambient mana — can access stronger and more stable flows, and may eventually come to the attention of a Major Guardian
