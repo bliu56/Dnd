@@ -1,4 +1,4 @@
-A dense forest that runs between Stonewood and Lowfield, bisected by a single road connecting the two. In the Past it is known as the Evergreen Forest. After Arthur's death, Tristan's grief and awakening power permanently altered the environment — the forest changed color, changed atmosphere, changed nature. It has been known as the Twilight Forest ever since. The road through it still exists but is no longer considered safe.
+A dense forest that runs between [[Stonewood]] and Lowfield, bisected by a single road connecting the two. In the Past it is known as the Evergreen Forest. After [[Arthur]]'s death, [[Tristan]]'s grief and awakening power permanently altered the environment — the forest changed color, changed atmosphere, changed nature. It has been known as the Twilight Forest ever since. The road through it still exists but is no longer considered safe.
 
 ## 🕯️ PRESENT — The Twilight Forest
 
@@ -20,3 +20,7 @@ Arthur has lived here long enough to know every sound the forest makes. Tristan 
 - [[Arthur and Tristan's House]]
 - [[Story Notes (DM Only)]]
 
+
+## Image
+
+![[lowfield.png]]
