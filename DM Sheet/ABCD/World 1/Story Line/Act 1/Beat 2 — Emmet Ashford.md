@@ -1,5 +1,5 @@
 _Location: [[Stonewood]] South Gate, just before departure_
-Just as the group is about to set off, a young man pushes through the small crowd near the gate and calls out to them. This is **[[Emmet]] Ashford** _(EM-et ASH-ford)_, mid-twenties, a textile merchant's son from Stonewood. He is visibly nervous, clutching his coat, and has clearly rehearsed what he is about to say.
+Just as the group is about to set off, a young man pushes through the small crowd near the gate and calls out to them. This is [[Emmet]] Ashford _(EM-et ASH-ford)_, mid-twenties, a textile merchant's son from Stonewood. He is visibly nervous, clutching his coat, and has clearly rehearsed what he is about to say.
 
 ## Who he is
 
