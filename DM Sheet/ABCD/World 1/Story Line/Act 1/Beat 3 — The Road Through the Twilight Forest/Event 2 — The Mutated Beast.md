@@ -6,7 +6,64 @@ Something in the Twilight Forest finds the group. Pick one of the three beasts b
 **Veilstag** _(formerly a stag)_
 A stag the size of a draft horse, its antlers fused into a single twisted crown of black bone that pulses faintly violet at the tips. Its coat has gone translucent in patches, revealing the mana running through it like veins of light beneath the skin. It moves without sound — not quietly, but silently, as if the sound has simply been removed from its footsteps. It does not charge immediately. It watches first.
 _Behavior:_ Territorial. It wants the group out of its range, not necessarily dead. It will charge if approached or if the group lingers too long. Can be driven off without being killed if players make enough noise, light, or force it to take significant damage.
-
+```statblock
+layout: Basic 5e Layout
+image: 
+name: 
+size: 
+type: 
+subtype: 
+alignment: 
+ac: Number
+hp: Number
+hit_dice: 
+speed: 
+stats: 
+fage_stats: 
+saves:
+  - dash: 
+  - potato: 
+  - stew: 
+skillsaves:
+  - fake-skill: 
+  - turtle: 
+damage_vulnerabilities: 
+damage_resistances: 
+damage_immunities: 
+condition_immunities: 
+senses: string
+languages: string
+cr: number
+spells:
+  - 
+  - 
+  -  
+traits:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+legendary_actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+bonus_actions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+reactions:
+  - name: 
+    desc: 
+  - name: 
+    desc: 
+```
 - **AC:** 15 | **HP:** 95 | **Speed:** 50 ft.
 - **CR:** 5
 - _**Silence Step.**_ The Veilstag makes no sound when it moves. It cannot be heard approaching and does not trigger sound-based reactions.
