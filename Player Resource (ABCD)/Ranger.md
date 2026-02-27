@@ -109,9 +109,9 @@ You gain a Fighting Style feat of your choice (see chapter 5). Instead of choosi
 |Druidic Warrior|You learn two Druid cantrips of your choice (See the Druid class's section for a list of Druid spells). Guidance and Starry Wisp are recommended. The chosen cantrips count as Ranger spells for you, and Wisdom is your spellcasting ability for them. Whenever you gain a Ranger level, you can replace one of these cantrips with another Druid cantrip.|
 ## Level 3
 ### Subclass
-You gain a Barbarian subclass of your choice. [[dnd/docs/Ranger|Ranger]]
+You gain a Barbarian subclass of your choice. [[dnd/Player Resource (ABCD)/Ranger|Ranger]]
 ## Level 4
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Extra Attack
 You can attack twice instead of once whenever you take the Attack action on your turn.
@@ -122,7 +122,7 @@ Your speed increases by 10 feet while you aren't wearing Heavy Armor. You also h
 ### Extra Attack
 When you reach 7th level in this class, the skill and precision of your attacks create and expose weaknesses in your foe’s guard. When you take the Attack action and hit a creature with an attack roll, the next attack roll you make against the target before the end of your next turn is made with advantage. You can use this feature once per turn.
 ## Level 8
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ### Expertise
 Choose two of your skill proficiencies with which you lack Expertise. You gain Expertise in those skills.
@@ -135,7 +135,7 @@ Primal forces no help fuel you on your journeys, granting you the following bene
 |Decrease Exhaustion|Whenever you finish a Short Rest, your Exhaustion level, if any, decreases by 1.|
 ## Level 11
 ## Level 12
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ### Relentless Hunter
 Taking damage can't break your Concentration on [Hunter's Mark](http://dnd2024.wikidot.com/spell:hunter-s-mark).
@@ -146,7 +146,7 @@ You can use this feature a number of times equal to your Wisdom modifier (minimu
 ## Level 15
   
 ## Level 16
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ### Precise Hunter
 You have Advantage on attack rolls against the creature currently marked by your Hunter's Mark.
@@ -165,7 +165,7 @@ The damage die of your [Hunter's Mark](http://dnd2024.wikidot.com/spell:hunter-
 _Master Sophisticated Battle Maneuvers_
 Battle Masters are students of the art of battle, learning martial techniques passed down through generations. The most accomplished Battle Masters are well-rounded figures who combine their carefully honed combat skills with academic study in the fields of history, theory, and the arts.
 ### Level 3: Primal Companion
-You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: **[[dnd/docs/Ranger|Ranger]]**[[dnd/docs/Ranger|Ranger]]**[[dnd/docs/Ranger|Ranger]]**[[dnd/docs/Ranger|Ranger]]**[[dnd/docs/Ranger|Ranger]]**. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
+You magically summon a primal beast, which draws strength from your bond with nature. Choose its stat block: **[[dnd/Player Resource (ABCD)/Ranger|Ranger]]**[[dnd/Player Resource (ABCD)/Ranger|Ranger]]**[[dnd/Player Resource (ABCD)/Ranger|Ranger]]**[[dnd/Player Resource (ABCD)/Ranger|Ranger]]**[[dnd/Player Resource (ABCD)/Ranger|Ranger]]**. You also determine the kind of animal it is, choosing a kind appropriate for the stat block. Whatever beast you choose, it bears primal markings indicating its supernatural origin.
 **The Beast in Combat.** In Combat, the beast acts during your turn. It can move and use its Reaction on its own, but the only action it takes is the Dodge action unless you take a Bonus Action to command it to take an action in its stat block or some other action. You can also sacrifice one of your attacks when you take the Attack action to command the beast to take the Beast's Strike action. If you have the Incapacitated condition, the beast acts on its own and isn't limited to the dodge action.
 **Restoring or Replacing the Beast.** If the beast has died within the last hour, you can take a Magic action to touch it and expend a spell slot. The beast returns to life after 1 minute with all its Hit Points restored.
 Whenever you finish a Long Rest, you can summon a different primal beast, which appears in an unoccupied space within 5 feet of you. You choose its stat block and appearance. If you already have a beast from this feature, the old one vanishes when the new one appears.

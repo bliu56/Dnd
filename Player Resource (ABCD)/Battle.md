@@ -45,7 +45,7 @@ If players roll higher than 18 → Group 1
 If between 18 and 12 → Group 2  
 If lower than 12 → Group 3
   
-To move Groups, take the [[dnd/docs/Battle|Battle]].
+To move Groups, take the [[dnd/Player Resource (ABCD)/Battle|Battle]].
   
 # Criticals
 ---

@@ -98,7 +98,7 @@ You have learned to cast spells through prayer and meditation. See chapter 7 for
 |Spellcasting Focus|You can use a Holy Symbol as a Spellcasting Focus for your Paladin spells.|
 ## Level 2
 ### Fighting Style
-You gain a [[dnd/docs/Feats]] of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
+You gain a [[dnd/Player Resource (ABCD)/Feats]] of your choice (see chapter 5). Instead of choosing one of those feats, you can choose the option below.
 |   |   |
 |---|---|
 |Blessed Warrior|You learn two Cleric cantrips of your choice (See the Cleric class's section for a list of Cleric spells). Guidance and Sacred Flame are recommended. The chosen cantrips count as Paladin spells for you, and Charisma is your spellcasting ability for them. Whenever you gain a Paladin level, you can replace one of these cantrips with another Cleric cantrip.|
@@ -118,9 +118,9 @@ A Paladin tries to hold to the highest standards of conduct, but even the most d
 A Paladin who has broken a vow typically seeks absolution, spending an all-night vigil as a sign of penitence or undertaking a fast. After a rite of forgiveness, the Paladin starts fresh.
 If your Paladin unrepentantly violates their oath, talk to your DM. Your Paladin should probably take a more appropriate subclass or even abandon the class and adopt another one.
 ### Subclass
-You gain a Barbarian subclass of your choice. [[dnd/docs/Paladin|Paladin]]
+You gain a Barbarian subclass of your choice. [[dnd/Player Resource (ABCD)/Paladin|Paladin]]
 ## Level 4
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ### Slow Fall
 You can take a Reaction when you fall to reduce any damage you take from the fall by an amount equal to five times your Monk level.
 ## Level 5
@@ -139,7 +139,7 @@ If another Paladin is present, a creature can benefit from only one Aura of Prot
 ### Extra Attack
 Your zealous righteousness can inspire or demoralize others. When you take the Attack action and hit with two attacks, you can use a bonus action to utter a battlecry, targeting one enemy or ally within 30 feet of you. If the target is a foe that can see or hear you, it must succeed on a Wisdom saving throw (DC equals 8 + your proficiency bonus + your Charisma modifier) or be frightened of you until the end of your next turn. If the target is an ally, the frightened condition ends on it. You can use this feature once per turn.
 ## Level 8
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
 ### Abjure Foes
 As a Magic action, you can expend one use of this class's Channel Divinity to overwhelm foes with awe. As you present your Holy Symbol or weapon, you can target a number of creatures equal to your Charisma modifier (minimum of one creature) that you can see within 60 feet of yourself. Each target must succeed on a Wisdom saving throw or have the Frightened condition for 1 minute or until it takes any damage. While Frightened in this way, a target can only do one of the following on its turns: move, take an action or take a Bonus Action.
@@ -150,7 +150,7 @@ You and your allies have Immunity to the Frightened condition while in your Aura
 ### Radiant Strikes
 Your strikes now carry supernatural power. When you hit a target with an attack roll using a Melee weapon or an Unarmed Strike, the target takes an extra 1d8 Radiant damage.
 ## Level 12
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ### Deflect Energy
 You can now use your Deflect Attacks feature against attacks that deal any damage type, not just Bludgeoning, Piercing, or Slashing.
@@ -159,7 +159,7 @@ You can now use your Deflect Attacks feature against attacks that deal any damag
 When you use Lay On Hands on a creature, you can also remove one or more of the following conditions from the creature: Blinded, Charmed, Deafened, Frightened, Paralyzed, or Stunned. You must expend 5 Hit Points from the healing pool of Lay On Hands for each of these conditions you remove; those points don't also restore Hit Points to the creature.
 ## Level 15
 ## Level 16
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ### Aura Expansion

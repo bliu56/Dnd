@@ -73,11 +73,11 @@ Whenever you finish a Long Rest, you can change the kinds of weapons you chose. 
 Your quick thinking and agility allow you to move and act quickly. On your turn, you can take one of the following actions as a Bonus Action: Dash, Disengage, or Hide.
 ## Level 3
 ### Subclass
-You gain a Barbarian subclass of your choice. [[dnd/docs/Rogue|Rogue]]
+You gain a Barbarian subclass of your choice. [[dnd/Player Resource (ABCD)/Rogue|Rogue]]
 ### Steady Aim
 As a Bonus Action, you give yourself Advantage on your next attack roll on your current turn. You can use this feature only if you haven't moved during this turn, and after you use it, your Speed is 0 until the end of the current turn.
 ## Level 4
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 5
 ### Cunning Strike
 You've developed cunning ways to use your Sneak Attack. When you deal Sneak Attack damage, you can add one of the following Cunning Strike effects. Each effect has a die cost, which is the number of Sneak Attack dice you must forgo to add the effect. You remove the die before rolling, and the effect occurs immediately after the attack's damage is dealt. For example, if you add the Poison effect, remove 1d6 from the Sneak Attack's damage before rolling.
@@ -97,7 +97,7 @@ You can nimbly dodge out of the way of certain dangers. When you're subjected to
 ### Reliable Talent
 Whenever you make an ability check that uses one of your skill or tool proficiencies, you can treat a d20 roll of 9 or lower as a 10.
 ## Level 8
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 9
   
 ## Level 10
@@ -106,7 +106,7 @@ Check Subclass
 ### Improved Cunning Strike
 You can use up to two Cunning Strike effects when you deal Sneak Attack damage, paying the die cost for each effect.
 ## Level 12
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 13
 ## Level 14
 ### Devious Strikes
@@ -120,7 +120,7 @@ You've practiced new ways to use your Sneak Attack deviously. The following effe
 ### Slippery Mind
 Your mind is exceptionally difficult to control. You gain proficiency in Wisdom and Charisma saving throws.
 ## Level 16
-You gain the [[dnd/docs/Feats]] or another [[dnd/docs/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
+You gain the [[dnd/Player Resource (ABCD)/Feats]] or another [[dnd/Player Resource (ABCD)/Feats]]of your choice for which you qualify. You gain this feature again at Barbarian levels 8, 12, and 16.
 ## Level 17
 ## Level 18
 ### Elusive
