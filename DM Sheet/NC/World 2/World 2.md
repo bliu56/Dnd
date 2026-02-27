@@ -3,13 +3,13 @@
     - [[Event 2 — The Merchant Ambush]]
     - [[Travel Events]]
     - Remote Villages
-        - [[Thornhaven]]
-        - [[Pilgrim's Rest]]
-        - [[Crosswind Camp]]
+- [[Thornhaven]]
+- [[Pilgrim's Rest]]
+- [[Crosswind Camp]]
     - Aurelion
-        - [[Aurelion]]
-        - [[Random Citizen Events]]
-        - [[Random Key Events]]
+- [[Aurelion]]
+- [[Random Citizen Events]]
+- [[Random Key Events]]
 - [[The Past]]
 - Kingdoms
     - [[Kingdom of Aurelion]]

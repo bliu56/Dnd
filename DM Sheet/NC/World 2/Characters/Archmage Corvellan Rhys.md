@@ -15,7 +15,7 @@ _(kor-VELL-an REES)_
     - **Kind but Detached:** He is pleasant and polite, rarely harsh, but emotionally distant—his focus is always on magical knowledge and personal growth of those willing to commit.
 
 
-### Skills & Abilities
+## Skills & Abilities
 
 - **Master of Arcane Magic:** Expert in offensive, defensive, and utility spells. Capable of battlefield-scale magical support and strategic spellcasting.
 
@@ -26,7 +26,7 @@ _(kor-VELL-an REES)_
 - **Mentorship Philosophy:** Trains only those who demonstrate passion and determination; tests dedication before imparting advanced knowledge.
 
 
-### Relationship to Others
+## Relationship to Others
 
 - **Hero:** Recognized the hero’s latent magical abilities. Guided them selectively and monitored their growth, always testing motivation and initiative.
 
