@@ -1,0 +1,143 @@
+{
+  "Source": "",
+  "Type": "Medium Humanoid (Human), Lawful Good",
+  "HP": {
+    "Value": 210,
+    "Notes": "(28d8+84)"
+  },
+  "AC": {
+    "Value": 20,
+    "Notes": "(summoned holy plate)"
+  },
+  "InitiativeModifier": 3,
+  "InitiativeAdvantage": false,
+  "Speed": [
+    "walk 30 feet"
+  ],
+  "Abilities": {
+    "Str": 20,
+    "Dex": 16,
+    "Con": 16,
+    "Int": 12,
+    "Wis": 16,
+    "Cha": 18
+  },
+  "DamageVulnerabilities": [],
+  "DamageResistances": ["Necrotic", "Radiant"],
+  "DamageImmunities": [],
+  "ConditionImmunities": ["Frightened"],
+  "Saves": [
+    { "Name": "Strength", "Modifier": 9 },
+    { "Name": "Dexterity", "Modifier": 7 },
+    { "Name": "Constitution", "Modifier": 7 },
+    { "Name": "Wisdom", "Modifier": 7 }
+  ],
+  "Skills": [
+    { "Name": "Athletics", "Modifier": 9 },
+    { "Name": "Acrobatics", "Modifier": 7 },
+    { "Name": "Insight", "Modifier": 7 },
+    { "Name": "Perception", "Modifier": 7 },
+    { "Name": "Persuasion", "Modifier": 8 }
+  ],
+  "Senses": [],
+  "Languages": ["Common", "Celestial"],
+  "Challenge": "17",
+  "Traits": [
+    {
+      "Name": "Holy Emblem — Arms of the Goddess",
+      "Content": "Arthur's armor, sword, and shield do not exist physically. As a bonus action, he can press his hand to his Holy Emblem to summon or dismiss them instantly. If disarmed or his equipment is destroyed, he can resummon it at the start of his next turn."
+    },
+    {
+      "Name": "Will — Stage III: Realization (Light)",
+      "Content": "Arthur has fully realized his Will as pure light, granting him godlike speed and a blade that cuts with the sharpness of a photon. He has a pool of 10 Will Points, regaining all after a long rest and 1 at the start of each of his turns."
+    },
+    {
+      "Name": "Goddess's Blessing",
+      "Content": "Arthur has advantage on saving throws against spells and magical effects."
+    },
+    {
+      "Name": "Legendary Resistance (2/Day)",
+      "Content": "If Arthur fails a saving throw, he can choose to succeed instead."
+    },
+    {
+      "Name": "Swordmaster",
+      "Content": "Arthur does not provoke opportunity attacks when he moves. He scores a critical hit on a roll of 19–20."
+    },
+    {
+      "Name": "Luminous Edge (1 WP)",
+      "Content": "His next attack deals an additional 3d10 radiant damage and ignores resistance to radiant and slashing damage."
+    },
+    {
+      "Name": "Light Step (1 WP)",
+      "Content": "Bonus action: move up to 60 ft. instantly without provoking opportunity attacks."
+    },
+    {
+      "Name": "Photon Strike (2 WP)",
+      "Content": "Make one attack with advantage. On a hit, the target cannot use reactions until the start of their next turn."
+    },
+    {
+      "Name": "Blinding Radiance (2 WP)",
+      "Content": "Creatures in a 15 ft. radius make a DC 17 Con save or are blinded until the end of their next turn."
+    },
+    {
+      "Name": "Ray of Severance (3 WP)",
+      "Content": "One target within 60 ft. makes a DC 18 Dex save, taking 10d10 radiant damage on a fail or half on a success. Ignores all damage resistances."
+    },
+    {
+      "Name": "Form of Light (4 WP)",
+      "Content": "Until the start of his next turn: AC +4, immune to non-magical damage, moves through occupied spaces, crits on 18–20, and makes one free attack against any creature within 60 ft."
+    }
+  ],
+  "Actions": [
+    {
+      "Name": "Multiattack",
+      "Content": "Arthur makes three attacks with his Holy Longsword."
+    },
+    {
+      "Name": "Holy Longsword",
+      "Content": "Melee Attack Roll: +9, reach 5 ft., one target. Hit: 1d8+5 slashing + 2d8 radiant damage."
+    },
+    {
+      "Name": "Blade of Judgment (Recharge 5–6)",
+      "Content": "One target within 5 ft. makes a DC 18 Con save. Fail: 8d10 radiant + 4d10 force damage and stunned until end of next turn. Success: half damage, not stunned."
+    },
+    {
+      "Name": "Smite of the Goddess (3/Day)",
+      "Content": "30 ft. cone, DC 17 Dex save. Fail: 6d10 radiant damage. Success: half. Undead and fiends have disadvantage on the save."
+    },
+    {
+      "Name": "Sword Art: Radiant Edge (5 WP)",
+      "Content": "Arthur performs his signature ten-strike sequence. All attacks use +9 to hit and must be performed in order.\n\nStrike 1 — Overhead Cut: Hit: 1d8+5 slashing. On a hit, the target has disadvantage on their next attack roll.\n\nStrike 2 — Cross Slash: Hit: 1d8+5 slashing. On a hit, the target's AC is reduced by 1 until the end of the round.\n\nStrike 3 — Thrust: Hit: 2d6+5 piercing. On a hit, the target cannot take reactions until the start of their next turn.\n\nStrike 4 — Pommel Strike: Hit: 1d6+5 bludgeoning. On a hit, the target must make a DC 17 Con save or be stunned until the end of their next turn.\n\nStrike 5 — Shadowstep Slash: Arthur moves to any unoccupied space within 10 ft. of the target. Hit: 2d8+5 slashing, made with advantage.\n\nStrike 6 — Luminous Overhead Cut: Hit: 1d8+5 slashing + 3d8 radiant. On a hit, the target cannot benefit from invisibility or cover until the end of Arthur's next turn.\n\nStrike 7 — Lightspeed Cross: Arthur makes this attack twice. Each hit: 1d8+5 slashing + 2d8 radiant.\n\nStrike 8 — Piercing Ray: Hits all creatures in a 30 ft. line behind the target. DC 18 Dex save, 4d10 radiant on a fail or half on a success. Ignores resistances.\n\nStrike 9 — Concussive Flash: Hit: 1d6+5 bludgeoning + 3d10 radiant. On a hit, DC 18 Con save or blinded and stunned until end of next turn.\n\nStrike 10 — Void Slash: Automatically hits, ignores all damage resistances and immunities. Deals 6d10 slashing + 6d10 radiant. If the target is below half HP, DC 20 Con save or drop to 0 HP."
+    }
+  ],
+  "BonusActions": [
+    {
+      "Name": "Holy Emblem — Arms of the Goddess",
+      "Content": "Arthur presses his hand to his Holy Emblem to summon or dismiss his armor, sword, and shield instantly."
+    },
+    {
+      "Name": "Divine Shield",
+      "Content": "Grant self or one ally within 30 ft. 15 temporary hit points."
+    },
+    {
+      "Name": "Light Step (1 WP)",
+      "Content": "Move up to 60 ft. instantly without provoking opportunity attacks."
+    }
+  ],
+  "Reactions": [
+    {
+      "Name": "Heroic Interception",
+      "Content": "When a creature within 5 ft. is hit by an attack, Arthur takes the damage instead."
+    },
+    {
+      "Name": "Will Parry (1 WP)",
+      "Content": "When hit by a melee attack, reduce the damage taken by 2d10+5."
+    }
+  ],
+  "LegendaryActions": [],
+  "MythicActions": [],
+  "Description": "A master swordsman whose Will has reached Stage III: Realization, manifesting as pure light. Arthur wields a holy longsword, armor, and shield summoned directly from his Holy Emblem — gifts of the Goddess — and fights with a flowing technique that transcends ordinary swordsmanship, culminating in the legendary Radiant Edge.",
+  "Player": "",
+  "Version": "3.15.2",
+  "ImageURL": ""
+}
