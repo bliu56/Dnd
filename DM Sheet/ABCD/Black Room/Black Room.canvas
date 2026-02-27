@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"9281d6ce4066b85b","x":-480,"y":-340,"width":889,"height":500,"type":"file","file":"dnd/Images/Rooms/Black Room_1772179747_986.png"}
+		{"id":"9281d6ce4066b85b","type":"file","file":"dnd/Images/Rooms/Black Room_1772179747_986.png","x":-480,"y":-340,"width":889,"height":500}
 	],
 	"edges":[]
 }
