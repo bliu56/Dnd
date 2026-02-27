@@ -1,5 +1,3 @@
-# Will
-
 Will is an internal energy that exists within living beings, drawn from one's conviction, identity, and understanding of self. Unlike magic, which is external and learned, Will is intrinsic — it cannot be taught, only awakened. It manifests differently in every individual and is shaped entirely by who that person is.
 **Stage I — Manifestation**
 - The user becomes aware of their Will and begins to express it outwardly

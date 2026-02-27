@@ -1,5 +1,3 @@
-# Gods & Spirits
-
 There are three powers that sit above the world without quite being part of it — the Goddess of Light, the God of Darkness, and the Spirit King. Each is vast enough that scholars argue about whether they are truly comparable, but in practice they occupy the same tier. None commands the others. None is known to have tried.
 
 ## Gods

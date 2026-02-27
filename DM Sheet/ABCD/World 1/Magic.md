@@ -1,5 +1,3 @@
-# Magic
-
 Magic is the manipulation of mana — an energy that exists throughout the world in different forms depending on its source. How a being accesses mana defines the nature of their magic entirely. Humans and demons draw on mana in fundamentally different ways, and neither can replicate the other's method.
 **How Humans Use Magic**
 Humans are conductors. They do not generate mana themselves — instead they draw it from external sources and channel it through their bodies to produce magical effects. The three sources humans can draw from are nature, spirits, and gods.
