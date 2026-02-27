@@ -36,6 +36,7 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Goddess's Blessing.**_ Arthur has advantage on saving throws against spells and magical effects.
 - _**Legendary Resistance (2/Day).**_ If Arthur fails a saving throw, he can choose to succeed instead.
 - _**Swordmaster.**_ Arthur does not provoke opportunity attacks when he moves. He scores a critical hit on a roll of 19–20.
+
 **Will Abilities**
 - _**Luminous Edge (1 WP).**_ His next attack deals an additional 3d10 radiant damage and ignores resistance to radiant and slashing damage.
 - _**Light Step (1 WP).**_ Bonus action: move up to 60 ft. instantly without provoking opportunity attacks.
@@ -43,14 +44,17 @@ _Medium Humanoid (Human), Lawful Good_
 - _**Blinding Radiance (2 WP).**_ Creatures in a 15 ft. radius make a DC 17 Con save or are blinded until the end of their next turn.
 - _**Ray of Severance (3 WP).**_ One target within 60 ft. makes a DC 18 Dex save, taking 10d10 radiant damage on a fail or half on a success. Ignores all damage resistances.
 - _**Form of Light (4 WP).**_ Until the start of his next turn: AC +4, immune to non-magical damage, moves through occupied spaces, crits on 18–20, and makes one free attack against any creature within 60 ft.
+  
 **Actions**
 - _**Multiattack.**_ Three attacks with his Holy Longsword.
 - _**Holy Longsword.** +9 to hit, 5 ft._ Hit: 1d8+5 slashing + 2d8 radiant.
 - _**Blade of Judgment (Recharge 5–6).**_ One target within 5 ft. makes a DC 18 Con save. Fail: 8d10 radiant + 4d10 force, stunned until end of next turn. Success: half damage, not stunned.
 - _**Smite of the Goddess (3/Day).**_ 30 ft. cone, DC 17 Dex save. Fail: 6d10 radiant. Success: half. Undead and fiends have disadvantage.
+  
 **Bonus Actions**
 - _**Divine Shield.**_ Grant self or ally within 30 ft. 15 temporary hit points.
 **Reactions**
+
 - _**Heroic Interception.**_ When a creature within 5 ft. is hit, Arthur takes the damage instead.
 - _**Will Parry (1 WP).**_ When hit by a melee attack, reduce the damage by 2d10 + 5.
 
