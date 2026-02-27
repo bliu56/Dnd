@@ -2,14 +2,16 @@
 - [[#Weapon Property]]
 - [[#Mastery Properties]]
 - [[#Improvised Weapons]]
+
 # Weapons
----
+
 [[dnd/Player Resource (ABCD)/Weapons Glossary/Weapons|Weapons]]
 [[dnd/Player Resource (ABCD)/Weapons Glossary/Ammunition|Ammunition]]
+
 # Weapon Property
----
+
 - Property Table
-    
+
     |Property|Description|
     |---|---|
     |Ammunition|You can use a weapon that has the Ammunition property to make a ranged attack only if you have ammunition to fire from it. The type of ammunition required is specified with the weapon's range. Each attack expends one piece of ammunition. Drawing the ammunition is part of the attack (you need a free hand to load a one-handed weapon). After a fight, you can spend 1 minute to recover half the ammunition (round down) you used in the fight; the rest is lost.|
@@ -22,12 +24,11 @@
     |Thrown|If a weapon has the Thrown property, you can throw the weapon to make a ranged attack, and you can draw that weapon as part of the attack. If the weapon is a Melee weapon, use the same ability modifier for the attack and damage rolls that you use for a melee attack with that weapon.|
     |Two-Handed|A Two-Handed weapon requires two hands when you attack with it.|
     |Versatile|A Versatile weapon can be used with one or two hands. A damage value in parentheses appears with the property. The weapon deals that damage when used with two hands to make a melee attack.|
-    
-  
+
 # Mastery Properties
----
+
 - Property Table
-    
+
     |Property|Description|
     |---|---|
     |Cleave|If you hit a creature with a melee attack roll using this weapon, you can make a melee attack roll with the weapon against a second creature within 5 feet of the first that is also within your reach. On a hit, the second creature takes the weapon’s damage, but don't add your ability modifier to that damage unless that modifier is negative. You can make this extra attack only once per turn.|
@@ -38,11 +39,11 @@
     |Slow|If you hit a creature with this weapon and deal damage to it, you can reduce its Speed by 10 feet until the start of your next turn. If the creature is hit more than once by weapons that have this property, the Speed reduction doesn’t exceed 10 feet.|
     |Topple|If you hit a creature with this weapon, you can force the creature to make a Constitution saving throw (DC 8 plus the ability modifier used to make the attack roll and your Proficiency Bonus). On a failed save, the creature has the Prone condition.|
     |Vex|If you hit a creature with this weapon and deal damage to the creature, you have Advantage on your next attack roll against that creature before the end of your next turn.|
-    
-  
+
 # Improvised Weapons
----
-An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.  
+
+An improvised weapon is an object wielded as a makeshift weapon, such as broken glass, a table leg, or a frying pan. A Simple or Martial weapon also counts as an improvised weapon if it's wielded in a way contrary to its design; if you use a Ranged weapon to make a melee attack or throw a Melee weapon that lacks the Thrown property, the weapon counts as an improvised weapon. An improvised weapon follows the rules below.
+
 |   |   |
 |---|---|
 |**Proficiency**|Don't add your Proficiency Bonus to attack rolls with an improvised weapon.|
