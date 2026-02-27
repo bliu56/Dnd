@@ -4,7 +4,7 @@ Arthur is immediately warm with strangers. He invites people in without much pro
 
 ## Arthur in conversation
 
-- Talks easily about the forest, about [[Tristan|Tristan,]] about Lowfield
+- Talks easily about the forest, about [[Tristan|Tristan,]] about Lowfieldasd
 - Deflects anything about his past with practiced warmth — he has done this many times and is good at it
 - If pushed seriously: _"I did something important a long time ago. I'd rather not be important anymore."_
 - He does not know about the decree. He will not know until the inquisition is close.
