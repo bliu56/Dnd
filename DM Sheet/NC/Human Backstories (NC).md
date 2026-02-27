@@ -1,0 +1,6 @@
+[[Tristyn - Dog Chased by Death]]
+[[Justin - Liar in Lit Pants]]
+[[Samuel - Stray Star]]
+[[Jessie - Aborted Ambition]]
+[[Rodrigo - Boy carrying Baggage]]
+[[Edward - Devoted Descendant]]

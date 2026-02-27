@@ -1,0 +1,12 @@
+---
+DCD gets called in by the boss. She meets the boss and two other people. One of which is the boss's old friend who runs his own gang. The other is a boy Damian who is his son. The boss tells DCD that the boy will be shadowing her today on her job for him to pick up on a few things. The boy is in awe and fear of DCD due to her reputation. DCD's job today was to collect a debt from a man who borrowed some money from them and lost it all in the casino. They tracked him down to a motel room but he isn't a push over. He use to be a pro boxer. During the job, Damian asks DCD some questions. The first being advise on how to make someone submit. The second is if she enjoys her work. The third being why she join "Greed" (the gang).
+DCD found herself in a dimly lit office, summoned by the boss for her next assignment. Seated behind the massive mahogany desk was the boss, flanked by two individuals. To his right was an old friend, a fellow gang leader, and to his left sat Damian, the boss's son. Damian was young, his eyes wide with a mix of awe and trepidation as he regarded DCD.
+"Today, you'll have a shadow," the boss announced, nodding toward Damian. "He needs to learn the ropes, see how things are handled."
+DCD nodded, acknowledging the boy's presence. The task was clear: collect a debt from a former pro boxer who had squandered borrowed money at the casino. The debtor was holed up in a rundown motel, far from the glitz of the city lights.
+As they approached the motel, Damian, unable to contain his curiosity, began to pepper DCD with questions. "How do you make someone submit?" he asked, his voice a blend of eagerness and apprehension.
+DCD glanced at him but left the question hanging in the air.
+As they reached the door of the motel room, Damian probed further, "Do you enjoy your work?"
+Again, DCD remained silent, her expression unreadable.
+The confrontation with the debtor was intense. Despite his past as a boxer, the man was no match for DCD's reputation and presence. Damian watched, absorbing every detail.
+As they wrapped up the job, Damian asked one final question, "Why did you join Greed?"
+DCD paused, her gaze distant, before turning back to Damian. She left the question unanswered, letting the silence speak volumes.

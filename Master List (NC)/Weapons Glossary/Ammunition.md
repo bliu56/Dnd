@@ -1,0 +1,7 @@
+|![](https://www.notion.so/icons/font_gray.svg)Name|![](https://www.notion.so/icons/hashtag_gray.svg)Amount|![](https://www.notion.so/icons/arrow-circle-down_gray.svg)Storage|![](https://www.notion.so/icons/description_gray.svg)Cost|![](https://www.notion.so/icons/hashtag_gray.svg)Weight (lb)|
+|---|---|---|---|---|
+|[[dnd/Master List (NC)/Weapons Glossary/Ammunition/Arrows]]|20|Quiver|1 GP|1|
+|[[dnd/Master List (NC)/Weapons Glossary/Ammunition/Bolts]]|20|Case|1 GP|1.5|
+|[[dnd/Master List (NC)/Weapons Glossary/Ammunition/Bullets (Firearm)]]|10|Pouch|3 GP|2|
+|[[dnd/Master List (NC)/Weapons Glossary/Ammunition/Bullets (Sling)]]|20|Pouch|4 CP|1.5|
+|[[dnd/Master List (NC)/Weapons Glossary/Ammunition/Needles]]|50|Pouch|1 GP|1|

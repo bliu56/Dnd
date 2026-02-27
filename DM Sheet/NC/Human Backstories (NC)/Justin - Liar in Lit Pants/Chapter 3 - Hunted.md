@@ -1,0 +1,1 @@
+Give option to live cautiously or dangerously
