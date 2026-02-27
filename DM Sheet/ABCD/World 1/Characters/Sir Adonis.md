@@ -1,4 +1,4 @@
-# Sir Adonis
+
 
 - **Role:** Paladin, Church Champion, Former Hero's Companion
 - **Affiliation:** The Church

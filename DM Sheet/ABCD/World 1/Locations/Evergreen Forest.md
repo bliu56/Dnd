@@ -14,7 +14,6 @@ The Evergreen Forest is beautiful, but not simply so. The trees are old and very
 There is an undercurrent to it that most people register without naming. Something about the Evergreen Forest feels inhabited in a way that goes beyond its wildlife. It is not frightening. But it is aware.
 Arthur has lived here long enough to know every sound the forest makes. Tristan has grown up in it. To both of them it is simply home.
 
-## Key Locations
 
 ## The Road
 

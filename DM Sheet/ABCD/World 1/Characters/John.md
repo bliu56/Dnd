@@ -1,4 +1,3 @@
-# John / Raphael
 
 - **Role:** Low-ranking Church Member, Unaware Hero Candidate
 - **Affiliation:** The Church

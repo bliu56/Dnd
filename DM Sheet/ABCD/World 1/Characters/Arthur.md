@@ -1,4 +1,3 @@
-# Arthur
 
 - **Role:** Former Hero, Adoptive Father
 - **Affiliation:** Formerly the Church / Goddess's Chosen

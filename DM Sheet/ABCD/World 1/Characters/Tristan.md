@@ -1,4 +1,4 @@
-# Tristan / Baal
+
 
 - **Role:** Child, Demon King's Offspring
 - **Affiliation:** None (lives with Arthur in the Evergreen Forest)

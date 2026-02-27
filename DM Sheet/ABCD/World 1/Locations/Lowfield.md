@@ -12,7 +12,6 @@ Lowfield should not exist in its current state. Villages like it have been raide
 
 Lowfield is unhurried, warm, and deeply communal. Market days are social events as much as commercial ones. Edna's cafe has the best bread within fifty miles and she knows it. Farmers argue about weather and soil. Children chase livestock through the lanes. Arthur and Tristan's visits are minor local events — word spreads fast and by the time they reach the main lane, aunties are already emerging from doorways with something warm to press into Tristan's hands.
 
-## Key Locations
 
 ## The Village Lane
 

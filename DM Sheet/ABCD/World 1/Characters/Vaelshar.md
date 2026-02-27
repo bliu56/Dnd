@@ -1,4 +1,4 @@
-# The Demon General Mimic — Vael'shar, the Hollow
+
 
 _True Name: Vael'shar_ (VAY-el-shar)*
 _Title: The Hollow_
