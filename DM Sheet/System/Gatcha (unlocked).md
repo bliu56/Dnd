@@ -1,4 +1,3 @@
-
 - [[#Pity Tracker]]
 - [[#Drawing]]
     - [[#Probabilities]]
@@ -11,20 +10,23 @@
 - [[#Meaning]]
     - [[#Dnd Meaning]]
     - [[#Original Meaning]]
-  
+
 # Pity Tracker
-||Samuel|Tristyn|Justin|Rodrigo|Jessie|Edward|
+
+|Result|Samuel|Tristyn|Justin|Rodrigo|Jessie|Edward|
 |---|---|---|---|---|---|---|
 |Miss||4|||2||
 |Hit||||||3|
+
 Wannabe Evil God
 Upright Lover + Reverse Magician
 ~~Wannabe Hero~~
 ~~The Fool + The Star~~
-  
+
 # Drawing
----
+
 ## Probabilities
+
 |k|P_hit(k) (exact)|P_hit(k) %|P_pick(k) %|P_glimpse_lock(k) %|
 |---|---|---|---|---|
 |2|1 / 924|0.1082%|2.38095%|0.21916%|
@@ -32,12 +34,16 @@ Upright Lover + Reverse Magician
 |4|1 / 154|0.64935%|7.14286%|0.88384%|
 |5|5 / 462|1.08225%|9.52381%|1.38464%|
 |6|5 / 308|1.62338%|11.90476%|1.99878%|
+
 ## Key
 ---
+
 - P_hit(k) = probability the player gets both required cards with required orientations among a k card pool.
 - P_pick(k) = probability to complete a Hit if the player guarantees one required oriented card before draw and draws a pool of total size k (so remaining random draws = k − 1).
 - P_glimpse_lock(k) = probability to get a Hit when the Glimpse reveals one required oriented card pre-draw and the player may lock that card if it appears in the initial k pool, then redraw a single replacement card for the pool.
+
 ## Price
+
 |Tier|Description|Price (points)|
 |---|---|---|
 |Base (k = 2)|Draw 2 cards|5,000|
@@ -48,19 +54,28 @@ Upright Lover + Reverse Magician
 |~~k = 6 total~~|~~Draw 6 cards~~|~~21,000~~|
 |~~Glimpse add-on~~|~~Reveal one required card and its orientation before draw (available only if k >= 4)~~|~~7,500 (1.5 × C)~~|
 |~~Pick add-on~~|~~Guarantee one exact card and orientation; remaining draws proceed normally~~|~~30,000 (6 × C)~~|
+
 ## Example
+
 - Base draw (k = 2, 5,000 points): "You will draw 2 cards. Orientations are random. Hit odds: 0.11%."
 - Extra card (k = 3, 9,000 points): "Add one extra card to the pool for +4,000. Pool k = 3. Hit odds: 0.32%."
 - Big spend + Pick (k = 2 + Pick, 35,000 points): "Guarantee one exact card and orientation for +30,000. Remaining draw Hit odds: 2.38%."
 - k = 4 + Glimpse (13,000 + 7,500 = 20,500 points): "Pool size 4 and glimpse one required card and its orientation before the draw. If the hinted card appears you may lock it and redraw one other slot. Hit odds about 0.88%."
+
 # Banners
----
-A banner is a themed collection of possible rewards. Each one tied to a story, a mood, or a legend. When you draw from a banner, your tarot reading is aligned to that theme, and the fates choose from within its offerings. Some banners appear only for a short time, others must be unlocked, and each holds treasures unique to its design.  
+
+A banner is a themed collection of possible rewards. Each one tied to a story, a mood, or a legend. When you draw from a banner, your tarot reading is aligned to that theme, and the fates choose from within its offerings. Some banners appear only for a short time, others must be unlocked, and each holds treasures unique to its design.
+
 ## Mechanics
+
 When you make a tarot draw, you pull **two cards** from the deck, each face-down. Every card may appear **upright** or **reversed**, and each orientation changes its meaning. A perfect pairing—two cards whose meanings resonate with the banner you’ve chosen—creates a _Hit_, granting you one of that banner’s treasures.
+
 ## Miss
+
 ### 3 Star Blue
+
 **Abilities**
+
 |Ability Name|Source / Creature|Description|Rarity|
 |---|---|---|---|
 |Pack Tactics|Goblin|Gain advantage on attack if ally is nearby|3 Star|
@@ -75,6 +90,7 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Darkvision|Kobold / Goblin|Can see in darkness|3 Star|
 
 **Items**
+
 |Item Name|Type|Rarity|
 |---|---|---|
 |Potion of Healing|Consumable|Common|
@@ -96,8 +112,11 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Sentinel Shield|Shield|Uncommon|
 |Uncommon Weapon with minor property|Weapon|Uncommon|
 |Uncommon Armor with minor property|Armor|Uncommon|
+
 ### 4 Star Purple
+
 **Abilities**
+
 |Ability Name|Source / Creature|Description|Rarity|
 |---|---|---|---|
 |Frightful Presence|Young Dragon|Causes creatures to make Wisdom save or be frightened|4 Star|
@@ -112,6 +131,7 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Enslave|Mind Flayer|Dominate a humanoid|4 Star|
 
 **Items**
+
 |Item Name|Type|Rarity|
 |---|---|---|
 |Potion of Superior Healing|Consumable|Rare|
@@ -131,8 +151,11 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Winged Boots|Wondrous Item|Rare|
 |Rare Armor set|Armor|Rare|
 |Rare Weapon with strong enchantment|Weapon|Rare|
+
 ### 5 Star Gold
+
 **Abilities**
+
 |Ability Name|Source / Creature|Description|Rarity|
 |---|---|---|---|
 |Frightful Presence (Adult/Ancient Dragon)|Dragon|Cone or aura fright effect|5 Star|
@@ -147,6 +170,7 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Time Stop|Archmage / Lich|Take multiple turns before enemies move|5 Star|
 
 **Items**
+
 |Item Name|Type|Rarity|
 |---|---|---|
 |Ring of Three Wishes|Ring|Legendary|
@@ -160,10 +184,11 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |Manual of Gainful Exercise|Wondrous Item|Legendary|
 |Manual of Bodily Health|Wondrous Item|Legendary|
 |Luck Blade|Weapon|Legendary|
-  
+
 # Meaning
----
+
 ## Dnd Meaning
+
 |Card|Upright Meaning|Reversed Meaning|Element / Creature Theme|Relational Aspect|
 |---|---|---|---|---|
 |The Fool|Adventure, Freedom, Beginnings|Recklessness, Foolhardy|Air, chaotic spirits, trickster fey|Synergizes with The Magician, The Chariot; clashes with The Hermit, Justice|
@@ -188,7 +213,9 @@ When you make a tarot draw, you pull **two cards** from the deck, each face-down
 |The Sun|Vitality, Success, Joy|Burnout, Arrogance|Fire, celestial beings, radiant creatures|Synergizes with The Star, Justice; clashes with The Moon, Death|
 |Judgment|Awakening, Rebirth, Clarity|Denial, Self-Doubt|Air or light, divine judgment entities|Synergizes with The Sun, Death; clashes with The Devil, The Tower|
 |The World|Completion, Mastery, Integration|Incompletion, Fragmentation|Cosmic, planar beings, ultimate elemental forces|Synergizes with The Magician, The Star; clashes with The Fool, The Hanged Man|
+
 ## Original Meaning
+
 |Id|Tarot Card|Upright|Reverse|
 |---|---|---|---|
 |1|The Fool|beginnings, freedom, innocence, originality, adventure, idealism, spontaneity|reckless, careless, distracted, naive, foolish, gullible, stale, dull|
