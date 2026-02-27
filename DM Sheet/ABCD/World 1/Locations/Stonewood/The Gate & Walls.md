@@ -1,5 +1,3 @@
-# The Gate & Walls
-
 _==Present==:_ The walls are a patchwork of old and new stonework — the newer sections darker, rougher, clearly added in haste during the early years of the war. Watchtowers have been installed at regular intervals along the battlements. The gatehouse is staffed by six guards at minimum with a sergeant present at all times. Travelers are questioned and bags are checked. Refugees are funneled to a separate processing area outside the eastern gate where they can wait days for entry. A notice board at the gate lists contraband items — the list has grown long.
 _==Past==:_ The city walls are old but well-maintained — a point of civic pride. The gatehouse is staffed by two guards at most, and familiar faces are waved through with a nod. Merchants shout greetings as they pass. The gates close at sundown more out of habit than necessity. The whole structure feels more like a landmark than a fortification.
 ==**Captain Aldric — The Guard**==

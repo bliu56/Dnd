@@ -1,5 +1,3 @@
-# Stonewood
-
 A walled trade city situated at the edge of the Evergreen Forest, serving as the main hub between the surrounding towns and villages. Large enough to have a permanent Church presence, a busy market, and a professional city guard, but small enough that most long-time residents know each other by face if not by name.
 
 ## 🕯️ PRESENT

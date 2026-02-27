@@ -1,5 +1,3 @@
-# The Pasture & Farm Market
-
 _Location:_ An open field at the northern edge of the village that doubles as an informal market on certain days. No stalls, no fees, no rules — people spread things out on carts and blankets and sort it out among themselves.
 _Present:_ Still running, still informal. The variety is smaller but what's here is good. A few farmers have quietly started setting aside a portion of each harvest in the old barn at the edge of the pasture. Nobody organized this. It just happened. The village is preparing, in its quiet way, for something it doesn't want to name.
 - Seasonal produce — barter or 1–2cp per item

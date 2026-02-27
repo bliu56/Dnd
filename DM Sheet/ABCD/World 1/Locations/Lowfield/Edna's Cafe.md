@@ -1,5 +1,3 @@
-# Edna's Cafe
-
 _Location:_ A low, wide building near the center of the village lane with a hand-painted sign that reads "Edna's" and a bench out front almost always occupied by someone with nowhere pressing to be. Four tables, a long wooden counter, and a kitchen that takes up more than half the space.
 _Present:_ Edna is still there. Still baking. The menu hasn't changed in twenty years and she considers this a point of pride. The cafe has become an anchor for the village — people come not just for the food but because it feels like proof that things are still normal. She refuses to raise prices even as ingredients cost more, making up the difference by growing what she can and accepting barter.
 - Fresh bread (loaf) — 3cp or barter

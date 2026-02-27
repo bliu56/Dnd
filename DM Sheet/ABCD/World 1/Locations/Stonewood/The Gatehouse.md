@@ -1,5 +1,3 @@
-# The Gatehouse
-
 _Location:_ A two-story stone structure built into the city walls flanking the southern gate.
 _==Present==:_ The interior has been converted into a full operations room. A large map of the surrounding region covers one wall, marked with pins indicating known demon activity and raided settlements. Guard rosters are posted beside it. The warm fire and casual atmosphere are long gone — this is a working command post. Captain Aldric is usually here when not on patrol, standing over the map with the expression of a man doing math he doesn't like the answer to.
 _==Past==:_ The gatehouse interior is simple and comfortable — a guard post that doubles as a welcome point. There's usually a pot of something warm on the fire, a deck of cards on the table, and at least one guard asleep in a chair. Sergeant Aldric runs a tight enough ship but sees no reason to make his men miserable about it.

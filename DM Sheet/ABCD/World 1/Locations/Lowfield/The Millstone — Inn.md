@@ -1,5 +1,3 @@
-# The Millstone — Inn
-
 _Location:_ A sturdy two-story stone building at the edge of the village, named for the old millstone propped against its outer wall. Ground floor is a common room and small kitchen. Upper floor has three rooms.
 _Present:_ Runs at half capacity — fewer traveling merchants come through now that the roads are less safe. Benno keeps the place immaculate out of habit and quiet pride. He has converted one of the three rooms into village emergency supplies — food, medicine, blankets — organized and maintained without being asked.
 - Private room — 4sp per night

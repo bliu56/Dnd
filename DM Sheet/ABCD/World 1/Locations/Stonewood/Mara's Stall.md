@@ -1,5 +1,3 @@
-# Mara's Stall
-
 _Location:_ A corner stall in the market square, one of the few with a permanent wooden canopy. In the Present the canopy is weathered and patched with a handwritten price board at the front and a locked strongbox under the counter.
 _==Present==:_ The stall is smaller than it looks like it used to be — the edges of the canopy show old attachment points where extensions once hung. Stock is practical and sparse: root vegetables, preserved meats, dried medicinal herbs. Mara stands behind the counter with the posture of someone who has been on her feet for twenty years and intends to stay there. She watches the square constantly — old habit, new purpose.
 - Basic root vegetables and grain — 3cp per item

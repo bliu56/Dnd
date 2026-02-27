@@ -1,5 +1,3 @@
-# Story Notes (DM Only)
-
 - Lowfield is Tristan's emotional anchor — the place that represents everything Arthur taught him about living among people, being known, being cared for
 - His protection of Lowfield in the Present is entirely personal and entirely silent — no demons know why they are not to go near it, they just know
 - Players in the Present phase may notice that Lowfield is inexplicably untouched and begin to ask why — a thread that leads directly to understanding who Tristan really is beneath the Demon King

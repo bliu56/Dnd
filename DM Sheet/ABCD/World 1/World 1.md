@@ -1,5 +1,3 @@
-# World 1
-
 - [[Original Plotline]]
 - [[Deviations]]
 - Story Line

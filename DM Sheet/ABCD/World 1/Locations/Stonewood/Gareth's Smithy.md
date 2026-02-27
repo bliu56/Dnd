@@ -1,5 +1,3 @@
-# Gareth's Smithy
-
 _Location:_ A squat stone building near the city's northern gate, identifiable by the permanent haze of smoke above it and the rhythmic clang of hammer on anvil that starts before dawn. A wooden sign above the door reads "Gareth & Son."
 _==Present==:_ The smithy runs day and night. The forge never fully cools. The interior is cluttered with weapon racks, half-finished orders, and scraps of metal covering every surface. The air is thick with heat and the smell of iron. Gareth himself is usually at the anvil, sleeves rolled up, face set in concentration. He speaks only when spoken to and even then keeps it short. The wait list for orders is pinned to the door — currently three weeks out.
 - Longswords — 15gp

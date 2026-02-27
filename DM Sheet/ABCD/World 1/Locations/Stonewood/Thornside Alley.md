@@ -1,5 +1,3 @@
-# Thornside Alley
-
 _Location:_ A maze of narrow streets and cramped courtyards behind the market district, sandwiched between the backs of merchant buildings and the city's inner wall.
 _==Present==:_ Thornside is now a dense, self-contained district that the city guard has quietly abandoned. Refugees have built lean-tos and partition walls between existing buildings, turning alleyways into corridors and courtyards into common rooms. Unlicensed vendors operate openly. There are at least two underground fighting rings, an unlicensed apothecary rumored to sell Church-banned substances, and an information brokering network operating out of a former cooperage at the far end of the main lane. It is not openly dangerous if you carry yourself right, but it is not safe either.
 - Black market goods — negotiated

@@ -1,5 +1,3 @@
-# Lowfield
-
 A small, quiet farming village at the other end of the Evergreen Forest from Stonewood. The village sustains itself through farming, animal husbandry, and rural trade. Residents barter freely and sell surplus goods to passing merchants or make occasional trips to Stonewood. There are no walls, no guard. A few cafes and eateries serve as the social heart of the village.
 Arthur and Tristan are regular visitors, coming to sell hunted game and pick up goods. They are warmly regarded — a sweet, quiet family everyone has a soft spot for. The village aunties have adopted Tristan as a collective source of joy. He never speaks to anyone in the village — he listens, nods, shakes his head, and accepts whatever is put in front of him with quiet contentment.
 It was the aunties' offhand comments — _"I wish he'd stay this cute forever"_ — that Tristan took literally. Somewhere between intention and instinct, he used his demon magic to halt his own growth. He still looks twelve. He may always look twelve.
