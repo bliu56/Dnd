@@ -1,5 +1,4 @@
----
-  
+
 - [[#Checking in]]
   
 [[Chapter 0 - Setup]]
