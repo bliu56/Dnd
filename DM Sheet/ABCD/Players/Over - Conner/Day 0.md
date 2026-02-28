@@ -1,15 +1,57 @@
-Moved out for independace 
-rolled 18 for studies
-rolled 6 for report
-Choose the report
-Mr chen is the supervisor
-San Jose State
-11 for the redo
-Didn't finish the HW
 
-Bank Account: 600
-Rent due in 2 week: 2k
-Call center: 90 week
-Internship: 15*25 = 375 * 5 = 1875
+## Character Details
 
-Youtube short channel doing family guy = 0 
+- **Alias:** Over
+- **Gender:** He/Him
+- **Major:** Business Finance
+- **Academic Status:** Doing very well in his studies
+- **Reason for Independence:** Moved out simply to have his own independence — no family trauma or financial pressure behind it, just his own choice
+
+---
+
+## Current Situation
+
+### Internship
+
+- Company is a black company (exploitative, unreasonable culture)
+- Boss: **Mr. Chen** — demanding, cold, unforgiving
+- On Thursday morning, Over chose to prioritize his internship report over his school report
+- Mr. Chen rejected the report and told Over to redo it, warning him he'd be **fired** if the redo wasn't good enough
+- Over redid it — the result was average. Mr. Chen has not reacted yet. The verdict is still pending.
+
+### Finances
+
+||Amount|
+|---|---|
+|Bank Account|$1,600|
+|Rent Due (in 2 weeks)|$2,000|
+|Call Center Income (weekly)|$90|
+|Internship Income (monthly)|$1,875|
+
+- **Internship pay:** $15/hr × 25hrs/wk × 5 weeks = $1,875 (next payout assumed monthly)
+- He is currently **short on rent** with 2 weeks to close the gap
+
+### Part-Time Job
+
+- Works at a call center
+- Earns $90/week — low, but consistent
+
+### Side Project
+
+- Started a **YouTube Shorts channel** posting Family Guy clips
+- Currently making **no money** from it
+
+---
+
+## Open Threads
+
+- Mr. Chen has not yet responded to the redone report — his reaction will define Over's immediate future at the internship
+- Rent deadline is approaching fast with $600 in the bank
+- YouTube channel is a wildcard — no income now, but could develop
+
+---
+
+## Notes for Later
+
+- Player will define the deeper reason Over _needs_ to succeed (currently: independence, but no high-stakes backstory attached yet)
+- Over is male — update any prior references that used she/her
