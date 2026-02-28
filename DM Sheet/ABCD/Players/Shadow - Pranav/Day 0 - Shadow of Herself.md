@@ -1,4 +1,3 @@
-
 She does not remember much about the night her life ended. She was six years old.
 
 What she does remember is heat. The kind that presses against your skin like a living thing, hungry and insistent. She remembers the orange glow bleeding under her bedroom door, the screaming of smoke alarms, and then — her window. Something at her window. A shape that had no business being a shape, dark against the dark, watching her with a stillness that the fire did not share.
