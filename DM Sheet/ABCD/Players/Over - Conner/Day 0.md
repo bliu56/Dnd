@@ -21,15 +21,14 @@
 
 ### Finances
 
-||Amount|
-|---|---|
-|Bank Account|$1,600|
-|Rent Due (in 2 weeks)|$2,000|
-|Call Center Income (weekly)|$90|
-|Internship Income (monthly)|$1,875|
 
-- **Internship pay:** $15/hr × 25hrs/wk × 5 weeks = $1,875 (next payout assumed monthly)
-- He is currently **short on rent** with 2 weeks to close the gap
+|                    | Amount |
+| ------------------ | ------ |
+| Bank Account       | 1600   |
+| Rent Due           | 2000   |
+| Call Center Income | 400    |
+| Internship Income  | 1875   |
+
 
 ### Part-Time Job
 
