@@ -1,4 +1,3 @@
-
 The apartment was never quiet. Even at this hour, the city pressed in through the thin walls — the groan of a bus, the argument two floors down, the hiss of pipes that had been half-broken since before any of them moved in. Older had learned to sleep through all of it. What they could not sleep through was the silence on the other side of the bedroom door.
 
 Their sister's room had been quiet for three days now.
