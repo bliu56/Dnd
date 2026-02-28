@@ -1,6 +1,5 @@
-PR
-350 Squat
-Banana Match Latte Less Ice more form Less sweet
-Bi
-Hot Girl
--15 points
+**Peak — Session Notes**
+
+- Dream PR: 350lb squat
+- Drink order: banana matcha latte, less ice, more foam, less sweet
+- Sexuality: Bisexual
