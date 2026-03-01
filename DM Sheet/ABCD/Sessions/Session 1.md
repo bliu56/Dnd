@@ -16,5 +16,5 @@ Pranav great insult
 
 Pranv guessed demon king hq
 
-Darrin named his hawk "my hawk"
+Darrin named his hawk "maki"
 
