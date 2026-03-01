@@ -14,3 +14,5 @@ Darrin the entire time
 Killed the Stag
 Pranav great insult
 
+Pranv guessed demon king hq
+
