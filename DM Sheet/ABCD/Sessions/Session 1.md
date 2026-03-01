@@ -22,3 +22,6 @@ Darrin named his hawk "maki"
 White deer, white butterfly
 3 eyes, 4 eyes
 
+Met the demon king
+
+
