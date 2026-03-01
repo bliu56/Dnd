@@ -41,8 +41,7 @@ _Medium Humanoid (Human), Lawful Good_
 
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying
 
-    - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Protection from Evil and Good
-
+    - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Create/Destroy Water
     - _2nd (3 slots):_ Lesser Restoration, Prayer of Healing, Aid
 
     - _3rd (2 slots):_ Mass Healing Word, Revivify
