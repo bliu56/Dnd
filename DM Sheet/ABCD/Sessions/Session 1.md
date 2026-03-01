@@ -18,3 +18,7 @@ Pranv guessed demon king hq
 
 Darrin named his hawk "maki"
 
+1 eye, 2 eye,
+White deer, white butterfly
+3 eyes, 4 eyes
+
