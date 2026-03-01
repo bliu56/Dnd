@@ -5,4 +5,6 @@ Andrew - Neutral
 Bowen - Very logical and practical and trying to be moral
 
 Ultimately no against Emmet
+Conner, Bowden, Andrew arguing about what the question to ask
+
 
