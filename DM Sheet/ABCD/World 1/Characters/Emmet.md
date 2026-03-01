@@ -4,6 +4,8 @@
 
 Months before Act 1, he met [[Sera]] Voss _(SEH-rah VOSS)_ at [[Lowfield]]'s pasture market. She was on a supply run from [[Caldenveil]]; he was visiting an old family contact. They spent one afternoon together. He hasn't stopped thinking about her since.
 
+Dad is Gerald Ashford.
+
 ## His Story (Act 1)
 
 Emmet's arc across Act 1 is small in scale and enormous in weight.
