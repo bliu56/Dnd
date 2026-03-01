@@ -8,5 +8,7 @@ Ultimately no against Emmet
 Conner, Bowden, Andrew arguing about what the question to ask
 
 Stealth past the bear
+Chris, Bowen, Conner, Pranav, Andrew
+Darrin the entire time
 
 
