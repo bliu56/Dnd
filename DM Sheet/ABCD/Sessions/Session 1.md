@@ -17,6 +17,8 @@ Pranav great insult
 Pranv guessed demon king hq
 
 Darrin named his hawk "maki"
+didnt sleep at the inn
+didnt find out about the box
 
 1 eye, 2 eye,
 White deer, white butterfly
