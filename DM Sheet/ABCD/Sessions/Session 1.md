@@ -11,4 +11,6 @@ Stealth past the bear
 Chris, Bowen, Conner, Pranav, Andrew
 Darrin the entire time
 
+Killed the Stag
+Pranav great insult
 
