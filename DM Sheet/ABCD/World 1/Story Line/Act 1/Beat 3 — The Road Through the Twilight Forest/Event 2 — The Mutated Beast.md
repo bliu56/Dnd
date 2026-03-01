@@ -8,6 +8,11 @@ A stag the size of a draft horse, its antlers fused into a single twisted crown 
 _Behavior:_ Territorial. It wants the group out of its range, not necessarily dead. It will charge if approached or if the group lingers too long. Can be driven off without being killed if players make enough noise, light, or force it to take significant damage.
 
 - **AC:** 15 | **HP:** 95 | **Speed:** 50 ft.
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 20  | 16  | 18  | 6   | 14  | 10  |
+
 - **CR:** 5
 - _**Silence Step.**_ The Veilstag makes no sound when it moves. It cannot be heard approaching and does not trigger sound-based reactions.
 - _**Gore.** +7 to hit, 5 ft._ Hit: 2d8+5 piercing. On a hit, the target is pushed 10 ft. and must make a DC 14 Str save or be knocked prone.
