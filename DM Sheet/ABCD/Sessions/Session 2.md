@@ -7,3 +7,5 @@ Mimic:
 
 Luna:
 6
+
+Bowen dealt: 15 damage
