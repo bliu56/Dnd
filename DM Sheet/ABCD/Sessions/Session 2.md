@@ -15,3 +15,5 @@ Pranav: 35 damage
 Chris: 10 magic
 
 John: 11 damage
+
+Micheal : 24 damage
