@@ -11,3 +11,5 @@ Luna:
 Bowen dealt: 15 damage
 
 Pranav: 35 damage
+
+Chris: 10 magic
