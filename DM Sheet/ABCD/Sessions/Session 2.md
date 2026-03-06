@@ -8,7 +8,7 @@ The party left on the fourth day, earlier than planned. Whatever the Demon King'
 ---
 **The Ambush**
 
-The Mimic was waiting. It posed as an injured older sister — Bowen's fear, pulled from the Hollow Touch the session before, now weaponized properly. Luna didn't hesitate. She moved to help before anyone could stop her and took a blade through the side. She went down.
+The Mimic was waiting. It posed as an injured older sister — Bowen's fear, pulled from the Hollow Touch the session before, now weaponized properly. [[dnd/DM Sheet/ABCD/World 1/Characters/Luna|Luna]] didn't hesitate. She moved to help before anyone could stop her and took a blade through the side. She went down.
 
 ---
 **The Fight and the Deals**
@@ -18,7 +18,7 @@ The Mimic wasn't purely interested in killing them. It made deals throughout the
 John made clear during the chaos that Luna's life mattered more to him than his own safety. He didn't announce it — it just showed in how he moved.
 
 ---
-**Michael**
+**[[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]]**
 
 Michael passed the Hero's Box to one of the party members quietly, without the Mimic seeing the exchange. Then he ran in the opposite direction, drawing Vael'shar away from the party. He didn't come back.
 
