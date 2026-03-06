@@ -20,6 +20,7 @@ Darrin named his hawk "maki"
 didnt sleep at the inn
 didnt find out about the box
 
+Darrin and the party sees the following while camping at the outskirts of the town
 1 eye, 2 eye,
 White deer, white butterfly
 3 eyes, 4 eyes
