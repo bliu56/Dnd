@@ -47,7 +47,7 @@ _Behavior:_ Methodical and patient. It circles above the fog line and waits for 
 - Michael will engage if necessary but defers to the players — this is their job
 - Luna will heal and support, staying behind cover
 - John will fight — efficiently, without flourish, and noticeably well for someone of his stated rank
-- Emmet will find the nearest large tree and stay behind it. He will not be useful. He will be apologetic about this afterward.
+- [[Emmet]] will find the nearest large tree and stay behind it. He will not be useful. He will be apologetic about this afterward.
 - After the fight, if John performed well, Michael will quietly note it to whoever is nearest — "he always does that"
 
 ## How performance affects camp

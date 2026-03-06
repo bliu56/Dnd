@@ -1,4 +1,4 @@
-Darrin - Emmet is too old
+Darrin - [[Emmet]] is too old
 Connor and Pranav - For Emmet
 Bowen and Chris - Against Emmet
 Andrew - Neutral
