@@ -1,3 +1,5 @@
+Dillion and Luke are being blamed
+
 _Location: Caldenveil, Past_
 The party arrives in Caldenveil to find it mid-preparation. Not visibly — the city looks normal, peaceful, the kind of warm and unhurried that Stonewood used to be before the war. But if they know where to look, the signs are there: Church officials moving with purpose, closed-door meetings in the upper quarters, a subtle increase in armed escorts accompanying robed figures through the streets.
 The posting finds them quickly — or they find it. A Church logistics officer named **Brennan Holt** is recruiting licensed guides and cleared escorts for what he describes as a sensitive Church security operation into the Evergreen Forest. The work is straightforward: clear the major beasts along a designated corridor so that Church personnel can move through safely. The pay is good. The paperwork is minimal. Questions about the operation's purpose are met with a pleasant, practiced non-answer.
