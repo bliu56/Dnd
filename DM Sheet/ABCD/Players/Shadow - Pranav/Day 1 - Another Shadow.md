@@ -2,6 +2,8 @@
 
 ---
 Major: Musical History Major
+GE: Fashion
+67
 
 The group project was assigned on a Tuesday, which meant by Wednesday the other three had already decided it was someone else's problem.
 
