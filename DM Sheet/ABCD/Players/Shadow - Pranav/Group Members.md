@@ -3,7 +3,7 @@
 
 ## The Hardworking One
 
-**Name:** Marcus Webb **Age:** 21 **Appearance:** Average height, lean but not particularly athletic. Short hair, kept neat. Dark eyes that tend to look tired more often than not. Not someone who turns heads in a room but there's something quietly decent about his face — the kind that grows on you if you pay attention. Usually dressed in plain, practical clothes. A worn jacket he wears regardless of the weather. **Personality:** Quietly pragmatic. He doesn't complain out loud — he just does what needs to be done and expects others to do the same. When they don't, his frustration shows only in the set of his jaw and the way he stops making eye contact with the slackers. Not unfriendly toward Shadow, just not the type to force conversation. He respects people who pull their weight without being asked.
+**Name:** Luke Webb **Age:** 21 **Appearance:** Average height, lean but not particularly athletic. Short hair, kept neat. Dark eyes that tend to look tired more often than not. Not someone who turns heads in a room but there's something quietly decent about his face — the kind that grows on you if you pay attention. Usually dressed in plain, practical clothes. A worn jacket he wears regardless of the weather. **Personality:** Quietly pragmatic. He doesn't complain out loud — he just does what needs to be done and expects others to do the same. When they don't, his frustration shows only in the set of his jaw and the way he stops making eye contact with the slackers. Not unfriendly toward Shadow, just not the type to force conversation. He respects people who pull their weight without being asked.
 
 ---
 
