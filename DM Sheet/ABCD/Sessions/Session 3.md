@@ -38,4 +38,7 @@ Bowen back to back crit
 
 Bowen took a massive hit from the board
 
-Pranav done the entire fight
+Pranav down the entire fight
+
+Came back up and finished off low hp boars
+
