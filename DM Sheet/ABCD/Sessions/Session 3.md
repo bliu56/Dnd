@@ -20,3 +20,9 @@ Everyone ate the soup except Darrin
 Everyone fell asleep and then Darrin fell asleep
 
 They got robbed
+
+They caught up
+
+Conner wants to kill
+
+Bowen more reasonable
