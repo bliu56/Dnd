@@ -26,3 +26,10 @@ They caught up
 Conner wants to kill
 
 Bowen more reasonable
+
+
+Met and ran from the Moth and Liger
+
+Fight the Boars
+
+Darrin quest accepted: X X ~V ~V V
