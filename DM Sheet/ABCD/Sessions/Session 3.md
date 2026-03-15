@@ -47,6 +47,10 @@ Darrin tried to rob Tristan by taking out a candle then using sacred flame on it
 Chris super into fishing - fishing gods like very much
 
 Battle maniacs
+Accepted by Pranav
+Decline by Bowen
 
 Fishing quest for Chris
+
+one attack/spell only for Andrew
 
