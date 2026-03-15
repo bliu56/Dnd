@@ -13,9 +13,11 @@
 
 **Name:** Tyler Nguyen **Age:** 19 **Appearance:** Tall and lanky with an easy, loose-limbed way of carrying himself. Hair that falls slightly over one eye. Sharp features that make him look more attentive than he actually is. Always has earbuds in, even when he's pretending to participate. **Personality:** Not malicious — just completely checked out. College is something happening around him while he waits for his real life to start. Charming in a careless way that has probably gotten him through more situations than he deserves. Doesn't dislike Shadow, simply has never registered her as a person worth noticing.
 
+
+
 ---
 
-### Slacker #2 — The Whisperer
+### Slacker #2 — The Distracted One
 
 **Name:** Dani Flores **Age:** 20 **Appearance:** Short and round-faced with dark hair she keeps in a high ponytail. Bright, expressive eyes that are always darting around looking for the next distraction. Usually in oversized hoodies and jeans. The kind of person who looks approachable and friendly because she is — just not when there's work involved. **Personality:** Social to a fault. She isn't lazy so much as she is constitutionally incapable of focusing when there is someone to talk to instead. Means well in a vague, non-committal way. Would feel genuinely bad about not contributing if she ever stopped long enough to think about it.
 
