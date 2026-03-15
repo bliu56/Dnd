@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"233fa6715c7df935","type":"file","file":"dnd/Images/World1/Pasted image 20260314172140.png","x":-720,"y":-251,"width":740,"height":654},
 		{"id":"c4edbfa0b98e15ef","type":"file","file":"dnd/Images/World1/thornback.jpg","x":60,"y":-251,"width":400,"height":283},
-		{"id":"89d6f5b6d477d14f","x":35,"y":111,"width":425,"height":292,"type":"text","text":"1: (Taunted) (Slowed) 31\n2: (Taunted) dead\n3:\n4: 6\n5: 18\n6: 29\n7: 24\n8: 24"}
+		{"id":"89d6f5b6d477d14f","x":35,"y":111,"width":425,"height":292,"type":"text","text":"1: (Taunted) (Slowed) 36\n2: (Taunted) dead\n3:\n4: 6\n5: 18\n6: 34\n7: 24\n8: dead"}
 	],
 	"edges":[]
 }
