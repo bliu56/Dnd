@@ -2,7 +2,7 @@ _Type: Social / Betrayal — Slow Burn_
 _Location: A waystation about two hours into the woodland — a stone outbuilding with a cleared flat area in front, maintained by Caldenveil for traveling merchants_
 Late afternoon. The waystation is already occupied when the party arrives — six people, a fire going, gear stacked neatly. One of them spots the party from fifty feet away, stands up, and waves them over with the easy confidence of someone who has already decided the situation is fine.
 This is **Davo Irne** _(DAY-voh IRN)_, self-appointed voice of the **Ironway Company** — a mid-sized escort crew that works the Caldenveil–Lowfield–Stonewood circuit. Davo is broad-shouldered, loud in a way that sounds friendly, and has the specific energy of a man who is always selling something even when he doesn't appear to be.
-The full company: Davo, two fighters named **Holt** and **Brek**, an archer called **Nessa**, a quiet wiry man who handles logistics and hasn't offered a name, and a young woman named **Calla** who watches the party with more genuine curiosity than any of her crewmates.
+The full company: Davo, two fighters named **Holt** and **Brek**, an archer called **Nessa**, a quiet wiry man who handles logistics and hasn't offered a name, and a young kids named **Calla** who watches the party with more genuine curiosity than any of her crewmates.
 
 ## Who they are
 
