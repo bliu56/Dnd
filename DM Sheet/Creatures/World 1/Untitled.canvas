@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"315c4417e4db2f0e","x":-440,"y":-360,"width":660,"height":745,"type":"file","file":"Pasted image 20260314172422.png"}
+		{"id":"315c4417e4db2f0e","type":"file","file":"dnd/Images/World1/Pasted image 20260314172422.png","x":-1320,"y":-360,"width":567,"height":640},
+		{"id":"3f44fe55eb491883","type":"file","file":"dnd/Images/World1/mistweaver(green).jpg","x":-680,"y":-360,"width":860,"height":1075}
 	],
 	"edges":[]
 }

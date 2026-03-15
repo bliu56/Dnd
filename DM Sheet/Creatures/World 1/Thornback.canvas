@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"233fa6715c7df935","x":-720,"y":-251,"width":740,"height":654,"type":"file","file":"Pasted image 20260314172140.png"},
-		{"id":"c4edbfa0b98e15ef","type":"file","file":"thornback.jpg","x":60,"y":-251,"width":400,"height":283}
+		{"id":"233fa6715c7df935","type":"file","file":"dnd/Images/World1/Pasted image 20260314172140.png","x":-720,"y":-251,"width":740,"height":654},
+		{"id":"c4edbfa0b98e15ef","type":"file","file":"dnd/Images/World1/thornback.jpg","x":60,"y":-251,"width":400,"height":283}
 	],
 	"edges":[]
 }

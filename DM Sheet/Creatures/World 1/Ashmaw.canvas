@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"eada47939f0ca678","x":-540,"y":-360,"width":693,"height":660,"type":"file","file":"Pasted image 20260314172322.png"},
-		{"id":"00d737aededdd457","type":"file","file":"ashenmaw.jpg","x":200,"y":-360,"width":300,"height":400}
+		{"id":"eada47939f0ca678","type":"file","file":"dnd/Images/World1/Pasted image 20260314172322.png","x":-540,"y":-360,"width":693,"height":660},
+		{"id":"00d737aededdd457","type":"file","file":"dnd/Images/World1/ashenmaw.jpg","x":200,"y":-360,"width":300,"height":400}
 	],
 	"edges":[]
 }
