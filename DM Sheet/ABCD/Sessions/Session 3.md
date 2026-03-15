@@ -33,3 +33,9 @@ Met and ran from the Moth and Liger
 Fight the Boars
 
 Darrin quest accepted: X X ~V ~V V
+
+Bowen back to back crit
+
+Bowen took a massive hit from the board
+
+Pranav done the entire fight
