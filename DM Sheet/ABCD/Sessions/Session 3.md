@@ -45,3 +45,5 @@ Came back up and finished off low hp boars
 Darrin tried to rob Tristan by taking out a candle then using sacred flame on it. Then broke his candle. -9999 Aura
 
 Chris super into fishing - fishing gods like very much
+
+Battle maniacs
