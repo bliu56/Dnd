@@ -32,7 +32,7 @@ Met and ran from the Moth and Liger
 
 Fight the Boars
 
-Darrin quest accepted: X X ~V ~V V
+Darrin quest accepted: X X ~V ~V V ~V
 
 Bowen back to back crit
 
