@@ -58,4 +58,5 @@ Murder for Conner - Accept
 
 Darrin - Warlock (Attack 60%/ Support 40%)
 
-Princess cake 
+Princess cake - 75 points
+
