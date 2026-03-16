@@ -56,7 +56,7 @@ one attack/spell only for Andrew
 
 Murder for Conner - Accept
 
-Darrin - Warlock (Attack 60%/ Support 40%)
+Darrin - New Warlock (Attack 60%/ Support 40%)
 
 Princess cake - 75 points
 
