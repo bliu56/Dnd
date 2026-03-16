@@ -60,3 +60,5 @@ Darrin - Warlock (Attack 60%/ Support 40%)
 
 Princess cake - 75 points
 
+Someone needs to die next session - flesh out the death mechanic and negative karma
+
