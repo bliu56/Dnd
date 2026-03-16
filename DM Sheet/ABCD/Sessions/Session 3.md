@@ -54,3 +54,6 @@ Fishing quest for Chris
 
 one attack/spell only for Andrew
 
+Murder for Conner - Accept
+
+Darrin - Warlock (Attack 60%/ Support 40%)
