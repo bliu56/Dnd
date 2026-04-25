@@ -75,7 +75,6 @@ _Medium Humanoid (Human), Neutral_
 - **Senses:** Passive Perception 14
 - **Languages:** Common, one noble dialect
 
----
 
 ### Traits
 
@@ -85,7 +84,6 @@ _Medium Humanoid (Human), Neutral_
 - **Two as One.** When John and Luna are within 10 ft. of each other, John has advantage on saving throws and Luna's healing spells restore an additional 1d4 HP when targeting John.
 - **Hidden Potential.** John is an unaware Hero Candidate. The seal on his hand has no mechanical effect — yet.
 
----
 
 ### Actions
 
@@ -94,14 +92,12 @@ _Medium Humanoid (Human), Neutral_
 - **Focused Strike (1/Turn).** One attack this turn deals an additional 2d6 damage. If the target is a demon or fiend, this increases to 3d6.
 - **Divine Smite (3/Day).** When John hits with a melee attack, he expends a use to deal an additional 2d8 radiant damage. Against demons or fiends, this increases to 3d8.
 
----
 
 ### Bonus Actions
 
 - **Grit.** John gains 8 temporary HP. Once per short or long rest.
 - **Hold the Line.** John plants himself in place. Until the start of his next turn, any creature that attempts to move past him within 5 ft. must make a DC 14 Strength save or have their movement stopped.
 
----
 
 ### Reactions
 
