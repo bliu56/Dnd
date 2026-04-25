@@ -14,7 +14,6 @@
 - His true goal remains revenge for his village
 - He does not know he is a Hero Candidate — the seal on his hand is something he has stopped questioning and started living around
 
----
 
 ### Personality
 
@@ -24,7 +23,6 @@
 - [[dnd/DM Sheet/ABCD/World 1/Characters/Luna|Luna]] is the exception to everything. Around her he is visibly different in a way he would never acknowledge
 - Still hates demons. Quieter about it now. More deliberate. It lives underneath everything he does without needing to announce itself
 
----
 
 ### Relationship with Luna
 
@@ -44,7 +42,6 @@
 - He respected Michael more than he ever said out loud and never got the chance to say it
 - That sits somewhere he hasn't dealt with yet
 
----
 
 ### Secret
 
@@ -52,7 +49,6 @@
 - Someone from his noble bloodline is actively hunting him
 - He still has not discovered he is a Hero Candidate — the seal on his hand remains unexplained to him
 
----
 
 ### Fighting Style
 
@@ -62,7 +58,6 @@
 - Fights to hold space, control the line, and ensure nothing gets past him and nothing reaches her
 - Exceptional within that structure. Slightly less adaptable without it. He knows this and trains for it anyway
 
----
 
 ### Statblock
 
