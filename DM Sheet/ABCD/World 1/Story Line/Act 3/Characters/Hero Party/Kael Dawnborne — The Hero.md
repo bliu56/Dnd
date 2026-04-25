@@ -1,4 +1,4 @@
-- **Role:** Front line, sword and shield, divine combat
+- **Role:** Front line, sword, divine combat
   
 - **Background:** Born into one of the oldest noble houses still standing. His family has held their title for generations and has never let anyone forget it. The bloodline is everything — it determines worth, determines right, determines who matters and who doesn't. Kael absorbed this completely and without question. He was raised to believe that his birth alone placed him above the vast majority of humanity. Becoming the Hero did not change this worldview. It confirmed it. The Goddess chose him. Of course she did. How could she have chosen anyone else.
 
