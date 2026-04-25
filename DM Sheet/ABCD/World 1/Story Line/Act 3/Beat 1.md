@@ -21,6 +21,22 @@ He makes them repeat it back. Ashen Vale. Three days north. Past the twin peaks.
 
 Then the demons find him. It is quick. He doesn't run.
 
+**The Liger Arrives**
+
+Before the demons finish Corvin off, something else arrives. The demons that were still present go still — not attacking, not moving. Waiting. The Liger emerges from the treeline or the smoke or the dark, whatever fits the scene. It is not what it was in the [[dnd/DM Sheet/ABCD/World 1/Locations/Evergreen Forest/Story Notes (DM Only)|Evergreen Forest]]. Two years under [[Tristan]]'s influence have done visible things to it. It is larger, denser, the corruption running through it in a way that looks deliberate rather than incidental. It was sent here specifically. For Corvin.
+
+Corvin knows what this means. He looks at it and then he looks at the players.
+
+_"Go."_
+
+Not a request. He has already turned back toward the Liger by the time he says it. He is not under any illusion about what happens next. He just needs them moving before it does.
+
+If players hesitate he says it again, quieter this time.
+
+_"You have the information. That's what matters. Go."_
+
+The Liger does not immediately pursue the players — Corvin is its target and Corvin is making himself one. Whatever Corvin does to delay it buys the players exactly enough time to be out of reach. They will hear what happens behind them. They do not need to see it.
+
 ---
 
 **Running the Death**
