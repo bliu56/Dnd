@@ -92,8 +92,64 @@ _Medium Humanoid (Demon), Neutral Evil_
 - **Demon Blade.** _+9 to hit, reach 5 ft._ Hit: 1d10+5 slashing + 2d8 necrotic. On a hit the target makes a DC 16 Con save or has their maximum HP reduced by the necrotic damage dealt until they complete a long rest.
 - **Corrupting Touch.** _+9 to hit, reach 5 ft._ Hit: 3d8 necrotic damage. The target must make a DC 16 Wisdom save or become Corrupted until the end of their next turn — while Corrupted, they have disadvantage on attacks against Tristan and must make a DC 14 Wisdom save at the start of each turn or use their movement to move toward him.
 - **Dark Pulse.** Tristan releases a wave of compressed dark energy in a 20 ft. radius. Each creature makes a DC 16 Con save, taking 4d10 necrotic damage on a fail or half on a success. Triggers Partial Transformation.
-- **Oblivion Strike (1/Day, Will).** Tristan channels Stage III Will into a single sword strike. _+9 to hit, reach 5 ft._ Hit: 4d12+5 slashing. The target must make a DC 18 Wisdom save or be Unmade — they lose all resistances and immunities until the end of their next turn as Oblivion strips away what they are.
-  
+
+### Will
+**Stage I — Darkness**
+
+_Void Wall_
+
+- Casting Time: 1 action
+- Range: 60 ft.
+- Duration: Concentration, up to 1 minute
+- Tristan raises a wall of impenetrable darkness up to 30 ft. long and 10 ft. high at a point he can see. The wall is not solid but creatures that enter it are blinded and have their speed halved until they exit. Creatures cannot teleport through it. Tristan can see through it perfectly.
+
+_Consuming Shadow_
+
+- Casting Time: 1 bonus action
+- Range: 60 ft.
+- Duration: 1 minute
+- Tristan seeds darkness at a point he can see. At the start of each of his turns the darkness expands 10 ft. in every direction up to a maximum 30 ft. radius. Creatures inside are heavily obscured. Tristan sees through it perfectly. Creatures that start their turn inside make a DC 16 Con save or have their speed reduced by 10 ft. as the shadow presses against them.
+
+---
+
+**Stage II — Dominion**
+
+_Dominating Pulse_
+
+- Casting Time: 1 action
+- Range: Self (15 ft. radius)
+- Duration: Instantaneous
+- Tristan's Will radiates outward. Each creature in range makes a DC 16 Wisdom save. On a fail: 3d8 necrotic damage and the target is Dominated — on their next turn they must move toward Tristan and cannot take reactions. On a success: half damage only.
+
+_Subjugate_
+
+- Casting Time: 1 action
+- Range: 30 ft.
+- Duration: Concentration, up to 1 minute
+- Tristan fixes his Will on one creature he can see. The target makes a DC 16 Wisdom save or falls under his Dominion — they cannot willingly move away from Tristan and have disadvantage on attack rolls against him. The target repeats the save at the end of each of their turns.
+
+---
+
+**Stage III — Oblivion**
+
+_Oblivion Field_
+
+- Casting Time: 1 action
+- Range: Self (30 ft. radius)
+- Duration: Concentration, up to 1 minute
+- Tristan realizes his Will fully onto the battlefield. 
+- All creatures within range have their resistances, immunities, and damage reduction suppressed. 
+- They cannot benefit from temporary HP and make all saving throws against Tristan's abilities with disadvantage. 
+- Tristan cannot move while this is active without dropping concentration.
+
+_Unmaking Strike_
+
+- Casting Time: 1 action
+- Range: 5 ft.
+- Duration: Instantaneous
+- Used while Oblivion Field is active. On a hit: weapon damage + 4d12 necrotic. The target makes a DC 18 Wisdom save or is Unmade — they are reduced to 0 HP if their current HP is at or below half their maximum. Against gods or divine beings this save is made with disadvantage regardless of other effects.
+
+
 ### Spells
 
 **Dark Magic — Spellcasting** Tristan's spellcasting ability is Intelligence (spell save DC 15, +7 to hit). His magic is innate and cannot be suppressed by antimagic effects targeting external mana sources.
@@ -157,6 +213,7 @@ _Void Eruption_
 - Components: None
 - Duration: Instantaneous
 - A point Tristan designates detonates in an explosion of void energy. Each creature in the radius makes a DC 15 Constitution save, taking 8d6 necrotic damage on a fail or half on a success. Creatures that fail are also blinded until the end of their next turn as the void swallows the light around them.
+
 
 
 
