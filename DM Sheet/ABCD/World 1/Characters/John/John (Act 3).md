@@ -20,7 +20,7 @@
 - Still cold by default — not antisocial, but not warm either
 - Will talk when spoken to, answer directly, occasionally offer something unprompted if relevant
 - No longer keeps everyone at arm's length — the walls shifted, not fell
-- [[dnd/DM Sheet/ABCD/World 1/Characters/Luna|Luna]] is the exception to everything. Around her he is visibly different in a way he would never acknowledge
+- [[Luna (Act 1)|Luna]] is the exception to everything. Around her he is visibly different in a way he would never acknowledge
 - Still hates demons. Quieter about it now. More deliberate. It lives underneath everything he does without needing to announce itself
 
 
@@ -104,7 +104,17 @@ _Medium Humanoid (Human), Neutral_
 - **Parry.** When hit by a melee attack, John reduces the damage by 1d8+3.
 - **Cover.** When Luna would be hit by an attack while within 5 ft. of John, he can use his reaction to redirect the attack to himself instead.
 
----
+### **Unyielding — Manifestation (Stage I )**
+
+John's Will manifests as an dense, iron-grey force that coats his blade and body — not flashy, not loud. It looks like pressure given form. Like something that has decided it is not moving.
+
+**Immovable Strike** John channels his Will into a single sword strike. The attack hits with a weight that goes beyond the physical — targets struck feel it in their footing, their balance, their sense of forward momentum.
+
+- Deals an additional **2d8 force damage** on hit
+- The target must make a **DC 14 Strength save** or have their speed reduced to 0 until the end of their next turn — not thrown back, not knocked down, just stopped
+- If the target is a demon or fiend, the save DC increases to **16** and on a failure they are also knocked prone
+
+_Usable once per short rest. John does not know why it works. He only knows that when he decides something is not getting past him, it doesn't._
 
 ### Story Notes (DM Only)
 

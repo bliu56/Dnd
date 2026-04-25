@@ -7,7 +7,7 @@
     - [[Arthur]]
     - [[Tristan]]
     - [[Michael]]
-    - [[Luna]]
+    - [[Luna (Act 1)]]
     - [[John (Act 1)]]
     - [[Sir Adonis]]
     - [[Vaelshar]]

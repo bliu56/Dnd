@@ -8,7 +8,7 @@ The party left on the fourth day, earlier than planned. Whatever the Demon King'
 ---
 **The Ambush**
 
-The Mimic was waiting. It posed as an injured older sister — Bowen's fear, pulled from the Hollow Touch the session before, now weaponized properly. [[dnd/DM Sheet/ABCD/World 1/Characters/Luna|Luna]] didn't hesitate. She moved to help before anyone could stop her and took a blade through the side. She went down.
+The Mimic was waiting. It posed as an injured older sister — Bowen's fear, pulled from the Hollow Touch the session before, now weaponized properly. [[Luna (Act 1)|Luna]] didn't hesitate. She moved to help before anyone could stop her and took a blade through the side. She went down.
 
 ---
 **The Fight and the Deals**
