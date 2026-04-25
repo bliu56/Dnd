@@ -117,14 +117,14 @@ _Consuming Shadow_
 _Dominating Pulse_
 
 - Casting Time: 1 action
-- Range: Self (15 ft. radius)
+- Range: Self (30 ft. radius)
 - Duration: Instantaneous
 - Tristan's Will radiates outward. Each creature in range makes a DC 16 Wisdom save. On a fail: 3d8 necrotic damage and the target is Dominated — on their next turn they must move toward Tristan and cannot take reactions. On a success: half damage only.
 
 _Subjugate_
 
 - Casting Time: 1 action
-- Range: 30 ft.
+- Range: 15 ft.
 - Duration: Concentration, up to 1 minute
 - Tristan fixes his Will on one creature he can see. The target makes a DC 16 Wisdom save or falls under his Dominion — they cannot willingly move away from Tristan and have disadvantage on attack rolls against him. The target repeats the save at the end of each of their turns.
 
@@ -140,6 +140,7 @@ _Oblivion Field_
 - Tristan realizes his Will fully onto the battlefield. 
 - All creatures within range have their resistances, immunities, and damage reduction suppressed. 
 - They cannot benefit from temporary HP and make all saving throws against Tristan's abilities with disadvantage. 
+- Spells can not be cast
 - Tristan cannot move while this is active without dropping concentration.
 
 _Unmaking Strike_
