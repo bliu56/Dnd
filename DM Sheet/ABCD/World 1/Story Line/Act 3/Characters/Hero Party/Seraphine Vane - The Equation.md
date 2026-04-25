@@ -1,7 +1,7 @@
 - **Role:** Offensive Mage, Ranged Artillery
 - **Affiliation:** The Hero Party
 - **Status:** Alive
-- **Age:** Early 20s (Act 3)
+- **Age:** 20
 
 ### Background
 
