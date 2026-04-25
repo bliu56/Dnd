@@ -37,6 +37,3 @@ _Group 2 — The Hero Party_
 - The party around the Hero matches the Hero: capable, genuinely powerful by normal standards, and completely aware of it
 - Arrogant, ego-driven, and operating on a self-image that the world has not yet corrected
 - They are not ready. They do not know they are not ready.
-
-### Structure
-
