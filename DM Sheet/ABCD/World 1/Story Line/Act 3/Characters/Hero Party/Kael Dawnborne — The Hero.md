@@ -14,3 +14,48 @@
 ![[Pasted image 20260425143039.png|281]]
 
 ### Statblock
+**Fighting Style: Sovereign Blade**
+
+Kael holds his sword like a prop. His stance is loose, his posture unbothered. He does not train the way soldiers train — he never had to. The divine power the Hero title granted him does the work. His strikes hit harder than they should for how little effort goes into them, his body endures more than it has any right to, and he has mistaken all of it for personal excellence his entire career. Strip the title away and what remains is a nobleman who learned the basics of swordplay because it was expected of him and stopped there.
+
+He has no reads, no adaptability, no contingency when the divine power isn't enough. He has never needed one.
+
+**Updated Statblock**
+
+_Medium Humanoid (Human), Lawful Neutral_
+
+- **AC:** 17 (plate armor) | **HP:** 120 (16d10 + 32) | **Speed:** 30 ft.
+- **CR:** 8
+
+|STR|DEX|CON|INT|WIS|CHA|
+|---|---|---|---|---|---|
+|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)|16 (+3)|
+
+- **Saving Throws:** Str +6, Con +5, Cha +6
+- **Skills:** Athletics +6, Intimidation +6, Persuasion +6, History +4
+- **Damage Resistances:** Radiant
+- **Condition Immunities:** Frightened
+- **Senses:** Passive Perception 9
+- **Languages:** Common, one noble dialect
+
+#### Traits
+
+- **Hero's Mandate.** The divine power of the Hero title enhances Kael beyond his natural capability. He adds 1d6 radiant damage and to hit to all melee attacks and has advantage on saving throws against magic. This trait is the source of most of his combat effectiveness — not personal skill.
+- **Title Over Talent.** Kael's base attack and damage rolls do not benefit from his Strength modifier when Hero's Mandate is suppressed or removed. The title is doing the work.
+- **Unbroken Record.** While above half HP Kael has advantage on all saving throws. He has never lost a fight that mattered — because the title has never let him.
+- **Legendary Resistance (1/Day).** If Kael fails a saving throw he can choose to succeed instead.
+
+#### Actions
+
+- **Multiattack.** Kael makes two Longsword attacks.
+- **Longsword.** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
+- **Divine Decree (Recharge 5–6).** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. Kael does not fully understand how this works. He just knows it does.
+- **Lay on Hands (3/Day).** Kael restores 20 HP to himself or an ally within 5 ft. Also granted by the title.
+
+#### Bonus Actions
+
+- **Press the Advantage.** When a creature within 5 ft. is knocked prone, Kael moves up to 10 ft. toward them without provoking opportunity attacks.
+
+#### Reactions
+
+- **Contemptuous Riposte.** When a creature misses Kael with a melee attack, he makes one Longsword attack against them as a reaction. He does this without looking particularly engaged.
