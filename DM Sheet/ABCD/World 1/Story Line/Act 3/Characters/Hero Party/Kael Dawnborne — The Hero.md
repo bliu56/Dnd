@@ -58,4 +58,4 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 #### Reactions
 
-- **Contemptuous Riposte.** When a creature misses Kael with a melee attack, he makes one Longsword attack against them as a reaction. He does this without looking particularly engaged.
+- **Contemptuous Grace.** When a creature misses Kael with a melee attack, a pulse of divine energy automatically strikes the attacker — Kael doesn't even look at them. The attacker takes 2d8 radiant damage, no attack roll required. Kael did not do this. The title did. He just stood there.
