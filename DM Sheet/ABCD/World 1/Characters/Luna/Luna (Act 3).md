@@ -9,7 +9,7 @@
 - Served under [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]] as his student until his death at the end of Act 1
 - Continued her career in the Church following Michael's passing, throwing herself into training
 - No longer early in her career — two years of deliberate, grief-driven growth have made her formidable
-- Traveled and fought alongside John, developing into a true all-rounder: healing, support, damage, and defense in equal measure
+- Traveled and fought alongside [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]], developing into a true all-rounder: healing, support, damage, and defense in equal measure
 - Still devoted to the Goddess and the Church's mission, though Michael's absence has quietly shifted how she carries that faith — it is more personal now, less institutional
 
 ### Personality
@@ -65,10 +65,11 @@ _Medium Humanoid (Human), Lawful Good_
 
 ### Traits
 
-- **Goddess's Faithful.** [[dnd/DM Sheet/ABCD/World 1/Characters/Luna|Luna]] has advantage on saving throws against spells and magical effects from non-divine sources.
+- **Goddess's Faithful.** Luna has advantage on saving throws against spells and magical effects from non-divine sources.
 - **Empowered Healing.** When Luna restores HP to a creature, they regain an additional 1d8 HP.
 - **All-Rounder.** Luna does not suffer disadvantage on attack rolls while she has cast a healing or support spell this turn. She can freely switch between offensive and supportive roles without mechanical penalty.
 - **Two as One.** When Luna and John are within 10 ft. of each other, Luna's healing spells restore an additional 1d4 HP when targeting John, and she has advantage on Concentration saves while he is conscious.
+
 - **Spellcasting.** Luna is a 10th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying, Toll the Dead
     - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Shield of Faith
