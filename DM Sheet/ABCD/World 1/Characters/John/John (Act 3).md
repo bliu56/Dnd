@@ -111,8 +111,8 @@ John's Will manifests as an dense, iron-grey force that coats his blade and body
 **Immovable Strike** John channels his Will into a single sword strike. The attack hits with a weight that goes beyond the physical — targets struck feel it in their footing, their balance, their sense of forward momentum.
 
 - Deals an additional **2d8 force damage** on hit
-- The target must make a **DC 14 Strength save** or have their speed reduced to 0 until the end of their next turn — not thrown back, not knocked down, just stopped
-- If the target is a demon or fiend, the save DC increases to **16** and on a failure they are also knocked prone
+- The target must make a **DC 18 Strength save** or have their speed reduced to 0 until the end of their next turn — not thrown back, not knocked down, just stopped
+- If the target is a demon or fiend, the save DC increases to **20** and on a failure they are also knocked prone
 
 _Usable once per short rest. John does not know why it works. He only knows that when he decides something is not getting past him, it doesn't._
 
