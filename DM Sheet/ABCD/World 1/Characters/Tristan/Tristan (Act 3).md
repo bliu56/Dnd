@@ -41,9 +41,11 @@ _The Demon King, Baal_
 
 ### Will — Stage III (Realization)
 
-Tristan's Will manifested as Darkness in its earliest form — broad, instinctual, the absence of light given weight. It awakened into Dominion — the specific, personal understanding that he exists to rule, to subsume, to make other things part of himself. At Stage III it has become something beyond either: **Oblivion**. He does not wield darkness. He is the place where things cease. His Will does not destroy so much as it unmakes — presence, resistance, the very idea of opposition dissolving on contact with what he is.
+**Stage I — Darkness** Raw, instinctual. Coats his body and weapon in shadow. Enhances physical strikes with necrotic weight. Broad and unrefined.
 
-In practice this means his Will does not announce itself. There is no glow, no surge. Things simply stop being able to push back against him.
+**Stage II — Dominion** Darkness sharpens into active pressure. His Will reaches outward — suppressing, overwhelming, making those around him feel the weight of his presence. Deliberate and controlled.
+
+**Stage III — Oblivion** Dominion stripped of all pretense. He does not suppress — he unmakes. Resistance, conviction, immunity — all of it dissolves on contact. He does not wield it. He is it.
 
 ### Fighting Style
 
