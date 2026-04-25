@@ -10,4 +10,7 @@
   
 - **Opinion of the Demon King:** Sees [[Tristan]] as an abomination that exists to be destroyed. The idea that common people support the Demon King genuinely baffles and enrages him — to him it is proof that the lower classes cannot be trusted to know what is good for them.
 
+### Image
+![[Pasted image 20260425143039.png|281]]
+
 ### Statblock
