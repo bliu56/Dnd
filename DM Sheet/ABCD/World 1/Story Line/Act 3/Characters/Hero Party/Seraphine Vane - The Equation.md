@@ -3,6 +3,9 @@
 - **Status:** Alive
 - **Age:** 20
 
+### Image
+![[Pasted image 20260425185001.png|290]]
+
 ### Background
 
 - Born into a noble house that has produced Court Mages and magical scholars for generations
