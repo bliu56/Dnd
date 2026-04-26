@@ -16,3 +16,5 @@ Chris will fish
 
 Chris is first death by disease
 Picked Monk, Chris can not be a Wizard ever again
+Think of a penalty
+

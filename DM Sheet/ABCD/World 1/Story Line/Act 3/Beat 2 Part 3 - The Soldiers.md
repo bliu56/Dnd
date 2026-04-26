@@ -26,7 +26,8 @@ _"I don't want trouble. But I need those supplies and I will have them one way o
 Twelve total including Crane. Tired, hungry, functional. They are not demons, not monsters — they are men at the end of something who have made a bad choice with calm faces.
 
 - **Crane** — CR 3, commands from the center, tactically experienced, will not retreat
-- **8 regular soldiers** — CR 1 each, fight in formation, demoralized but disciplined
+- 3 priestess
+- **5 regular soldiers** — CR 1 each, fight in formation, demoralized but disciplined
 - **3 veteran soldiers** — CR 2 each, closer to Crane, more dangerous individually
 
 Enough to be a serious fight. Not unwinnable but not clean either.
