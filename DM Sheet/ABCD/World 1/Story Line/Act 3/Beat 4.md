@@ -2,14 +2,16 @@
 
 Key points:
 
-- Kael, Gareth, Seraphine, Isolde — alive, intact, moving aggressively toward demon territory
-- They are not expecting company and do not welcome it initially
-- Kael will assess the players as beneath him immediately
-- They are heading toward a fight they cannot win and are completely certain they can
-- The players have information the Hero Party doesn't — the Ashen Vale, what Corvin said, what they saw on the road
-- Whether the Hero Party listens to any of it is another matter
-- Tension between the two groups is immediate and structural — different values, different worldviews, different ideas about who matters
-- The question the players have to sit with: do they try to work with these people, redirect them, or let them walk into what's coming
+- Kael, Gareth, Seraphine, Isolde — alive, intact, moving with total certainty toward the Demon King directly
+- Their plan is exactly what it sounds like: find the Demon King, kill him, war over. No nuance, no strategy, no contingency
+- They are not looking for input. They are not looking for allies. They are looking for the Demon King and they have decided they have everything they need
+- The players arrive with information that complicates that plan — the Ashen Vale, what Corvin died to pass on, what the window closing actually means
+- Getting the Hero Party to listen is the challenge. Kael does not take information seriously from people he has decided are beneath him. Seraphine will only engage if the argument is airtight. Gareth doesn't think strategy is his problem. Isolde will assess whether the players are worth listening to before she hears a word they say.
+- The players have to convince them — not just that the information is real, but that it matters more than the plan they already have
+- Kael is the decision maker. If Kael doesn't move, nobody moves. But Kael responds to two things: authority and being proven wrong in a way he cannot dismiss. Players have to find their angle.
+- Seraphine is the most likely to actually engage with the information on its merits — if the argument is logical and the evidence holds she will listen even if she doesn't like the source. She may be the key to moving Kael.
+- If players succeed: the Hero Party redirects toward the Ashen Vale, grudgingly, with an attitude that makes cooperation uncomfortable but functional
+- If players fail: the Hero Party continues west. Whatever happens to them is on the timeline now and the players know it
 
 
 ---
