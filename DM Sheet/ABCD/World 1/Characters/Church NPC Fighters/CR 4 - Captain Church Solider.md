@@ -1,6 +1,6 @@
 _Medium Humanoid (Human), Lawful Neutral_
 
-**AC:** 17 (chain mail, shield) | **HP:** 65 (10d8 + 20) | **Speed:** 30 ft. **CR:** 3
+**AC:** 18 (chain mail, shield) | **HP:** 85 (10d8 + 20) | **Speed:** 30 ft. **CR:** 3
 
 |STR|DEX|CON|INT|WIS|CHA|
 |---|---|---|---|---|---|
