@@ -9,5 +9,5 @@ earthen fist, healing word, fury, slam
 
 Gnoll 1: 9 + 15 + 16 = 40 + 12 = 52 + 7 = 59 + 9 = 68 X
 Gnoll 2: 13 + 12 + 22 + 5 = 52 + 4 + 13 = 56 + 13 =  69 + 8 X
-B:
+B: 7 
 R: 9 + 13 = 22 + 1 = 23 + 3 = 26 + 12 = 38
