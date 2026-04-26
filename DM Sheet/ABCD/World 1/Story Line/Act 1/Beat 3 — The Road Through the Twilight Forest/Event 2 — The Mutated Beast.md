@@ -27,7 +27,7 @@ _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spel
 | --- | --- | --- | --- | --- | --- |
 | 18  | 14  | 16  | 6   | 14  | 10  |
 
-- **AC:** 16 (natural armor) | **HP:** 120 | **Speed:** 40 ft.
+- **AC:** 16 (natural armor) | **HP:** 90 | **Speed:** 40 ft.
 - **CR:** 6
 - _**Mana Sense.**_ The Ashcrawler automatically detects any creature using magic within 60 ft. It has advantage on attacks against creatures that have cast a spell this encounter.
 - _**Blind to the Mundane.**_ Creatures that have not used magic this encounter are effectively invisible to the Ashcrawler — it must guess their location. Attacks against such creatures have disadvantage.
