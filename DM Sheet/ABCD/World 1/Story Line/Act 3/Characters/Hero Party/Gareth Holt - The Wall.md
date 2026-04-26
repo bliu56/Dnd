@@ -3,6 +3,9 @@
 - **Status:** Alive
 - **Age:** 24
 
+### Image
+
+
 ### Background
 
 - Second son of a military noble house that has produced generals and decorated soldiers for three generations
