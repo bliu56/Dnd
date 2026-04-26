@@ -4,7 +4,7 @@
 - **Age:** 24
 
 ### Image
-
+![[Pasted image 20260425184818.png|355]]
 
 ### Background
 
