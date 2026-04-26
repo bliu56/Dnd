@@ -7,7 +7,7 @@ Failed Quest
 Cursed: Can't use the same attack or spell until everything has been used at least once
 earthen fist, healing word, 
 
-Gnoll 1: 9 + 15 + 16 = 40 + 12
+Gnoll 1: 9 + 15 + 16 = 40 + 12 = 52 + 7 = 59
 Gnoll 2: 13 + 12 + 22 + 5 = 52 + 4 + 13 = 56 + 13 =  69 + 8
 B:
 R: 9
