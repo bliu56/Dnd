@@ -22,6 +22,11 @@ _Behavior:_ Territorial. It wants the group out of its range, not necessarily de
 **Ashcrawler** _(formerly a bear)_
 A bear, or what was one. Its body has bloated and hardened, the fur replaced in places by a thick chitinous plating the color of charcoal. Its eyes are gone — replaced by six small glowing points of violet light arranged across its face. It navigates entirely by sensing mana, which means it is blind to creatures who aren't using magic and acutely aware of those who are. It moves on all fours but can rear up to a terrifying height.
 _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spellcasters or anyone actively using magic above others. Cannot be easily driven off — it commits once it engages.
+
+| STR | DEX | CON | INT | WIS | CHA |
+| --- | --- | --- | --- | --- | --- |
+| 20  | 16  | 18  | 6   | 14  | 10  |
+
 - **AC:** 16 (natural armor) | **HP:** 120 | **Speed:** 40 ft.
 - **CR:** 6
 - _**Mana Sense.**_ The Ashcrawler automatically detects any creature using magic within 60 ft. It has advantage on attacks against creatures that have cast a spell this encounter.

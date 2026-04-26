@@ -24,7 +24,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 **_Shield Bash._** +5 to hit, reach 5 ft. Hit: 1d4+3 bludgeoning. The target must make a DC 13 Strength save or be knocked prone.
 
-**_Rally (1/Day)._** Crane calls out to all allies within 60 ft. Each ally regains 1d6+2 HP and can immediately move up to 10 ft. without provoking opportunity attacks.
+**_Rally (1/Day)._** Crane calls out to all allies within 60 ft. Each ally regains 1d6+2 temp HP and can immediately move up to 10 ft. without provoking opportunity attacks.
 
 ### Reactions
 
