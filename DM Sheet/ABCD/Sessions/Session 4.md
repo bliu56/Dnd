@@ -14,3 +14,5 @@ R: 9 + 13 = 22 + 1 = 23 + 3 = 26 + 12 = 38
 
 Chris will fish
 
+Chris is first death by disease
+
