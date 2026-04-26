@@ -7,8 +7,8 @@
     - [[Arthur]]
     - [[Tristan]]
     - [[Michael]]
-    - [[Luna]]
-    - [[John]]
+    - [[Luna (Act 1)]]
+    - [[John (Act 1)]]
     - [[Sir Adonis]]
     - [[Vaelshar]]
 - Locations

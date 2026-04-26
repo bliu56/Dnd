@@ -20,4 +20,4 @@ Emmet's arc across Act 1 is small in scale and enormous in weight.
 
 - **Saved:** Players stabilize him and get him moving within 3 rounds. Emmet survives, gravely wounded and unconscious — still clutching the flowers when they pry them from his hand.
 - **Dies:** Players don't reach him in time. Emmet dies in the road with the complete bundle in his hands.
-- **Not present (Version B):** If Emmet is not with the party at the finale, the Mimic takes a different form — an injured girl, emerging from the trees, pointing behind the party. The ambush targets [[Luna]] instead.
+- **Not present (Version B):** If Emmet is not with the party at the finale, the Mimic takes a different form — an injured girl, emerging from the trees, pointing behind the party. The ambush targets [[Luna (Act 1)]] instead.

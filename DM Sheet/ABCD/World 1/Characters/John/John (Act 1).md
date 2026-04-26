@@ -21,7 +21,7 @@
 - Genuinely respects Michael even if he doesn't show it much
 - Michael's encouragement to try the box quietly irritates him — he doesn't see himself as anything special
 - Deep down, Michael's belief in him is something he doesn't know what to do with
-**Relationship with [[Luna]]**
+**Relationship with [[Luna (Act 1)]]**
 - They bicker regularly — she gets under his skin more than most
 - He would never admit it but her energy is something he finds grounding even when it annoys him
 **Secret**

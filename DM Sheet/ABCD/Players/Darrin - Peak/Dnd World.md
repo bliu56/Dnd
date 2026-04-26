@@ -1,5 +1,8 @@
+
+
 Quest from the The Grand Absolute Supreme Pinnacle Sovereignty of the Eternal Darkened Obsidian Void
 -Accepted
+-Failed
 
 Quest from those without their mental sanity
 -Reject
