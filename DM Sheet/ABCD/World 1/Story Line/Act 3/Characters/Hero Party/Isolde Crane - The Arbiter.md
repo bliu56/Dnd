@@ -3,6 +3,9 @@
 - **Status:** Alive
 - **Age:** 22
 
+### Image
+![[Pasted image 20260425185227.png|282]]
+
 ### Background
 
 - Born into a minor noble house with deep ties to the Church going back four generations
