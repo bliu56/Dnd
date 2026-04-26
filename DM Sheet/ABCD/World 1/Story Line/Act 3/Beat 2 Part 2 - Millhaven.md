@@ -48,6 +48,24 @@ They say this plainly. Not defiantly. Just as a fact they have had three months 
 This stop is not a debate about whether the Demon King is good. It is just a place that is doing well and an honest account of why. Players will bring their own frameworks to it. Don't push them toward a conclusion. Just show them what is here.
 
 ---
+Here are a few Millhaven villagers the players might talk to:
+
+---
+
+**Marta** — older woman, runs what used to be the lord's collection point and is now just a storage building the village shares. Practical, no-nonsense, not particularly warm but not unfriendly either. Has lived in Millhaven her entire life and watched three lords come and go. Will answer questions directly and without embellishment. If players ask about the Demon King she gives the plainest possible answer — he killed the lord, took some grain, left. Has not lost sleep over any part of that.
+
+---
+
+**Pip** — teenage boy, too young to have fought in anything, old enough to remember what the lord was like. Curious about the players in the way of someone who has not seen many strangers. Will talk to anyone who gives him the time. Knows the village better than anyone — who lives where, what happened to which house, where the stockpile is and how it got that big. Does not have a political opinion about the war. Just knows that things are better now than they were.
+
+---
+
+**Hessa** — middle-aged farmer, lost her husband to one of the lord's arbitrary punishments two years before the Demon King arrived. Quiet, watchful, takes her time deciding whether players are worth talking to. If they earn it she will tell them exactly what the lord was and exactly what she felt watching him die. Not with satisfaction — just with the flat honesty of someone who has finished grieving and arrived somewhere else.
+
+---
+
+**Old Renwick** — the oldest person in the village, sits outside in the same spot every day weather permitting. Remembers when the lord's father ran things, which was apparently worse. Speaks slowly and in short sentences. If players ask about the Demon King he thinks about it for a long moment and then says: _"He did what he said he'd do and then he left. That's more than most."_ Then he goes back to whatever he was doing.
+
 
 **Point Moments (DM Only)**
 
