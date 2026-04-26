@@ -23,17 +23,17 @@ Bowin, Chris
 Church: 17
 Everyone else
 
-CS (Billy): 14
-CS2:
-CS3:
-CS4:
-P1:
-P2:
-P3:
-VS1:
-VS2:
-C:
+CS (Billy): 3
+CS2: -5
+CS3: -5
+CS4: -5
+P1 (1): -5 
+P2: -5
+P3: -5
+VS1: -5
+VS2: -5
+C: -5
 
-B1: 15
+B1: 15 + 14 = 29
 B2:
 Ash:
