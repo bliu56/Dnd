@@ -50,7 +50,7 @@ Battle maniacs
 Accepted by Pranav
 Decline by Bowen
 
-Fishing quest for Chris
+Fishing quest for Chris - 10
 
 one attack/spell only for Andrew
 
