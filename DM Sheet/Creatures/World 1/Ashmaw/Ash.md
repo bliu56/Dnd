@@ -26,7 +26,7 @@ _Tall, lean, and still. He moves with the economy of something that has never ne
 
 **_Multiattack._** Ash makes two Blade Strike attacks.
 
-**_Blade Strike._** +9 to hit, reach 5 ft. Hit: 2d8+6 slashing.
+**_Blade Strike._** +9 to hit, reach 5 ft. Hit: 3d8+6 slashing.
 
 **_Calculated Burst._** Ash makes three Blade Strike attacks in rapid succession against one target. Each hit after the first deals an additional 1d6 damage. Recharge 5-6.
 
