@@ -18,3 +18,8 @@ Chris is first death by disease
 Picked Monk, Chris can not be a Wizard ever again
 Think of a penalty
 
+Demon: 20
+Bowin, Chris
+Church: 17
+Everyone else
+
