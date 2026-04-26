@@ -25,7 +25,7 @@ _Behavior:_ Aggressive and direct once it detects the group. It prioritizes spel
 
 | STR | DEX | CON | INT | WIS | CHA |
 | --- | --- | --- | --- | --- | --- |
-| 20  | 16  | 18  | 6   | 14  | 10  |
+| 18  | 14  | 16  | 6   | 14  | 10  |
 
 - **AC:** 16 (natural armor) | **HP:** 120 | **Speed:** 40 ft.
 - **CR:** 6
