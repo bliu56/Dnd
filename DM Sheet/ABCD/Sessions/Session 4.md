@@ -53,5 +53,6 @@ Conner has the worst out of everyone (constant 1's)
 Went to the hero's party
 Know about luna is a bishop
 Hero party + 2 church attendants
+Convinced to go to Ashenveil 
 
 
