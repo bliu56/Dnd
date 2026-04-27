@@ -37,3 +37,16 @@ C: -5 + 16 = 11 + 21 = 32
 B1: 15 + 14 = 29 + 6 = 35 + 10 = 45 + 11 = 60 + 18 = 78 +8 = 96 + 9 X
 B2: 6 + 18 = 24 + 11 = 35 + 3 = 38 + 20 = 58 + 5 = 63 + 9 = 72 + 9 = 81 + 18 = 99
 Ash: 18 + 6 = 24 + 13 = 37 + 11 = 48 + 12 = 60
+
+Made deal with Ash
+Attacked the Demons for a long time
+Only at the end they swtiched to attack church
+Ash pissed and feeling betrayed
+Church ran feeling betrayed
+Conner trys to persaude and fails
+Conner begs and pleds
+Ash goes after running Church and kills all but the captain
+Everyone now human except conner and bowin
+Everyone looted body of the church - gods will not look favorably at this
+Conner -dignity 
+
