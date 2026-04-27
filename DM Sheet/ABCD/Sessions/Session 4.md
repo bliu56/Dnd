@@ -50,4 +50,8 @@ Everyone now human except conner and bowin
 Everyone looted body of the church - gods will not look favorably at this
 Conner -dignity 
 Conner has the worst out of everyone (constant 1's)
+Went to the hero's party
+Know about luna is a bishop
+Hero party + 2 church attendants
+
 
