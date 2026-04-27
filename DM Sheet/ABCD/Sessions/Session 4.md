@@ -49,4 +49,5 @@ Ash goes after running Church and kills all but the captain
 Everyone now human except conner and bowin
 Everyone looted body of the church - gods will not look favorably at this
 Conner -dignity 
+Conner has the worst out of everyone (constant 1's)
 
