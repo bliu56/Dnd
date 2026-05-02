@@ -44,16 +44,16 @@ _Medium Humanoid (Human), Lawful Neutral_
 #### Traits
 
 - **Divine Blessing** — The divine power of the Hero title enhances Kael beyond his natural capability.
-	- **_Physique_ :** The Hero title pushes Kael's natural abilities beyond what he has earned. He gains the following while the title is active:
+	- **_Physique_:** The Hero title pushes Kael's natural abilities beyond what he has earned. He gains the following while the title is active:
 		- +4 to all ability scores
 		- +2 to all saving throws
 		- +10 ft. movement speed
 		  
-	- **_Protection_ :** At the start of each of Kael's turns, he regains 20 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by half before any other calculation.
+	- **_Protection_:** At the start of each of Kael's turns, he regains 20 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by half before any other calculation.
 	  
-	- **_Ward_ :** Kael has resistance to ranged weapon damage and immunity to magic missile and similar auto-hit spells. Spells that require an attack roll against him have disadvantage.
+	- **_Ward_:** Kael has resistance to ranged weapon damage and immunity to magic missile and similar auto-hit spells. Spells that require an attack roll against him have disadvantage.
 	  
-	- **_Immunity_ :** The Hero title shields Kael from conditions that would impair a lesser fighter. Kael is immune to the following conditions:
+	- **_Immunity_:** The Hero title shields Kael from conditions that would impair a lesser fighter. Kael is immune to the following conditions:
 		- Frightened
 		- Charmed
 		- Paralyzed
@@ -61,20 +61,22 @@ _Medium Humanoid (Human), Lawful Neutral_
 		- Poisoned
 		- Exhaustion
 		  
-	- **_Strike_ :** Once per turn when Kael hits with a melee attack he deals an additional 2d12 radiant damage.
+	- **_Strike_:** Once per turn when Kael hits with a melee attack he deals an additional 2d12 radiant damage.
 
-- **Legendary Resistance (1/Day).** If Kael fails a saving throw he can choose to succeed instead.
+- **Legendary Resistance (1/Day):** If Kael fails a saving throw he can choose to succeed instead.
 
 #### Actions
 
-- **Multiattack.** Kael makes two Longsword attacks.
-- **Longsword.** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
-- **Divine Punishment (Recharge 5–6).** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
+- **Multi-attack:** Kael makes two Longsword attacks.
+- **Longsword:** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
+- **Holy Lance:** A bolt of pure divine energy. +6 to hit, range 90 ft. Hit: 3d6 radiant damage. The target must make a DC 15 Constitution save or be blinded until the end of their next turn.
+- **Divine Punishment (Recharge 5–6):** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
 
 #### Bonus Actions
 
-- **Press the Advantage.** When a creature within 5 ft. is knocked prone, Kael moves up to 10 ft. toward them without provoking opportunity attacks.
+- **Press Forward:** Kael moves up to 15 ft. toward a creature and makes one Longsword attack. This movement does not provoke opportunity attacks.
+- **Divine Pressure:** One creature within 5 ft. must make a DC 15 Strength save or be knocked prone. If they fail Kael can immediately make one Longsword attack against them at advantage.
 
 #### Reactions
 
-- **Contemptuous Grace.** When a creature misses Kael with a melee attack, a pulse of divine energy automatically strikes the attacker — Kael doesn't even look at them. The attacker takes 2d8 radiant damage, no attack roll required. Kael did not do this. The title did. He just stood there.
+- **Divine Grace:** When a creature misses Kael with a melee attack, a pulse of divine energy automatically strikes the attacker. The attacker takes 2d8 radiant damage.
