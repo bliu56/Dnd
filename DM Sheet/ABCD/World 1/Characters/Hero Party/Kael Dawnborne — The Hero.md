@@ -52,7 +52,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 - **Multiattack.** Kael makes two Longsword attacks.
 - **Longsword.** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
-- **Divine Decree (Recharge 5–6).** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. Kael does not fully understand how this works. He just knows it does.
+- **Divine Punishment (Recharge 5–6).** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
 
 #### Bonus Actions
 
