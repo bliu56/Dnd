@@ -60,7 +60,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 ### Traits
 
 - **Vane Bloodline:** Seraphine's spells ignore resistance to their damage type. Her magical lineage is old enough that most defenses were not built with it in mind.
-- **Optimal Solution:** When Seraphine casts an AOE spell she can choose to exclude any number of creatures from its effect — but she never does. She has calculated that the efficiency loss is not worth it.
+- **Optimal Solution (Recharge 4-6):** When Seraphine casts an AOE spell she can choose to exclude any number of creatures from its effect.
 - **Arcane Ward:** Seraphine has a magical ward with 20 HP. When she takes damage the ward absorbs it first. The ward recharges 10 HP at the start of each of her turns if it has not been reduced to 0.
 - **Spellcasting:** Seraphine is a 10th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 16, +8 to hit). She always has the following spells prepared:
     - _Cantrips:_ Fire Bolt, Ray of Frost, Mage Hand
