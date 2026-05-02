@@ -43,10 +43,9 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 #### Traits
 
-- **Hero's Mandate.** The divine power of the Hero title enhances Kael beyond his natural capability. He adds 2d6 radiant damage and to hit to all melee attacks and has advantage on saving throws against magic. This trait is the source of most of his combat effectiveness — not personal skill.
-- **Title Over Talent.** Kael's base attack and damage rolls do not benefit from his Strength modifier when Hero's Mandate is suppressed or removed. The title is doing the work.
-- **Unbroken Record.** While above half HP Kael has advantage on all saving throws. He has never lost a fight that mattered — because the title has never let him.
-- **Divine Sustenance** — Passive At the start of each of Kael's turns, he regains 10 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by 3 before any other calculation. Kael has never had to think about staying alive in a fight. The title handles that too.
+- **Divine Blessing** — The divine power of the Hero title enhances Kael beyond his natural capability. 
+	- 
+- **Divine Protection** — Passive At the start of each of Kael's turns, he regains 10 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by 3 before any other calculation. Kael has never had to think about staying alive in a fight. The title handles that too.
 - **Legendary Resistance (1/Day).** If Kael fails a saving throw he can choose to succeed instead.
 
 #### Actions
