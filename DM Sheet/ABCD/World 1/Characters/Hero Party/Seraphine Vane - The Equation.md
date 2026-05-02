@@ -47,22 +47,22 @@ _Medium Humanoid (Human), Lawful Neutral_
 - **AC:** 13 (mage robes, Arcane Ward) | **HP:** 91 (14d8 + 28) | **Speed:** 30 ft.
 - **CR:** 7
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|8 (-1)|14 (+2)|14 (+2)|20 (+5)|14 (+2)|12 (+1)|
+| STR    | DEX     | CON     | INT     | WIS     | CHA     |
+| ------ | ------- | ------- | ------- | ------- | ------- |
+| 8 (-1) | 14 (+2) | 14 (+2) | 20 (+5) | 14 (+2) | 12 (+1) |
 
 - **Saving Throws:** Int +8, Wis +5
 - **Skills:** Arcana +11, History +8, Investigation +8, Perception +5
-- **Damage Resistances:** None — she does not get hit
+- **Damage Resistances:** None
 - **Senses:** Passive Perception 15
 - **Languages:** Common, two noble dialects, Draconic
 
 ### Traits
 
-- **Vane Bloodline.** Seraphine's spells ignore resistance to their damage type. Her magical lineage is old enough that most defenses were not built with it in mind.
-- **Optimal Solution.** When Seraphine casts an AOE spell she can choose to exclude any number of creatures from its effect — but she never does. She has calculated that the efficiency loss is not worth it.
-- **Arcane Ward.** Seraphine has a magical ward with 20 HP. When she takes damage the ward absorbs it first. The ward recharges 10 HP at the start of each of her turns if it has not been reduced to 0.
-- **Spellcasting.** Seraphine is a 10th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 16, +8 to hit). She always has the following spells prepared:
+- **Vane Bloodline:** Seraphine's spells ignore resistance to their damage type. Her magical lineage is old enough that most defenses were not built with it in mind.
+- **Optimal Solution:** When Seraphine casts an AOE spell she can choose to exclude any number of creatures from its effect — but she never does. She has calculated that the efficiency loss is not worth it.
+- **Arcane Ward:** Seraphine has a magical ward with 20 HP. When she takes damage the ward absorbs it first. The ward recharges 10 HP at the start of each of her turns if it has not been reduced to 0.
+- **Spellcasting:** Seraphine is a 10th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 16, +8 to hit). She always has the following spells prepared:
     - _Cantrips:_ Fire Bolt, Ray of Frost, Mage Hand
     - _1st (4 slots):_ Burning Hands, Thunderwave
     - _2nd (3 slots):_ Shatter, Aganazzar's Scorcher
@@ -72,21 +72,21 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Actions
 
-- **Multiattack.** Seraphine casts two cantrips or one cantrip and one leveled spell.
-- **Fire Bolt.** _+8 to hit, range 120 ft._ Hit: 2d10 fire damage.
-- **Ray of Frost.** _+8 to hit, range 60 ft._ Hit: 2d8 cold damage. The target's speed is reduced by 10 ft. until the start of Seraphine's next turn.
-- **Fireball.** _(3rd level slot, 20 ft. radius, range 150 ft.)_ DC 16 Dex save, 8d6 fire damage on fail, half on success. She does not check where her allies are standing before casting.
-- **Cone of Cold.** _(5th level slot, 60 ft. cone)_ DC 16 Con save, 8d8 cold damage on fail, half on success.
-- **Cloudkill.** _(5th level slot, 20 ft. radius, Concentration up to 10 minutes)_ DC 16 Con save, 5d8 poison damage on fail, half on success. The cloud moves 10 ft. away from Seraphine at the start of each of her turns.
+- **Multiattack:** Seraphine casts two cantrips or one cantrip and one leveled spell.
+- **Fire Bolt:** _+8 to hit, range 120 ft._ Hit: 2d10 fire damage.
+- **Ray of Frost:** _+8 to hit, range 60 ft._ Hit: 2d8 cold damage. The target's speed is reduced by 10 ft. until the start of Seraphine's next turn.
+- **Fireball:** _(3rd level slot, 20 ft. radius, range 150 ft.)_ DC 16 Dex save, 8d6 fire damage on fail, half on success. She does not check where her allies are standing before casting.
+- **Cone of Cold:** _(5th level slot, 60 ft. cone)_ DC 16 Con save, 8d8 cold damage on fail, half on success.
+- **Cloudkill:** _(5th level slot, 20 ft. radius, Concentration up to 10 minutes)_ DC 16 Con save, 5d8 poison damage on fail, half on success. The cloud moves 10 ft. away from Seraphine at the start of each of her turns.
 
 ### Bonus Actions
 
-- **Calculated Repositioning.** Seraphine moves up to 15 ft. without provoking opportunity attacks. She does this only when her current position has become suboptimal.
+- **Calculated Repositioning:** Seraphine moves up to 15 ft. without provoking opportunity attacks. She does this only when her current position has become suboptimal.
 
 ### Reactions
 
-- **Arcane Deflection.** When Seraphine is hit by an attack she can use her reaction to add +4 to her AC against that attack, potentially causing it to miss. If it still hits the ward absorbs the damage first.
-- **Counterspell.** When a creature within 60 ft. casts a spell, Seraphine can use her reaction to attempt to counter it. Spells of 3rd level or lower are automatically countered. Spells of 4th level or higher require an Intelligence check (DC 10 + spell level).
+- **Arcane Deflection:** When Seraphine is hit by an attack she can use her reaction to add +4 to her AC against that attack, potentially causing it to miss. If it still hits the ward absorbs the damage first.
+- **Counterspell:** When a creature within 60 ft. casts a spell, Seraphine can use her reaction to attempt to counter it. Spells of 3rd level or lower are automatically countered. Spells of 4th level or higher require an Intelligence check (DC 10 + spell level).
 
 ### Story Notes (DM Only)
 

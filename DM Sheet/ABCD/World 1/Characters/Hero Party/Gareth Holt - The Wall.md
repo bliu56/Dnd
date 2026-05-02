@@ -72,12 +72,12 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Bonus Actions
 
-- **Plant:** Gareth roots himself in place. Until the start of his next turn he cannot be moved by any means, his AC increases by 2, and any creature that enters his melee range immediately provokes an opportunity attack.
+- **Plant:** Gareth roots himself in place and dares anything in the room to try him. Until the start of his next turn he cannot be moved by any means, his AC increases by 2, and every creature within 30 ft. that can see or hear him must make a DC 14 Wisdom save or be taunted — they have disadvantage on attack rolls against any creature other than Gareth until the start of his next turn.
 
 ### Reactions
 
 - **Rebuff:** When a creature within 5 ft. hits Gareth with a melee attack, he can make one Shield Bash against them as a reaction.
-- **Hold the Line:** When an ally within 5 ft. would be hit by an attack, Gareth can use his reaction to redirect the attack to himself instead.
+- **Hold the Line:** When an ally within 5 ft. would be hit by an attack, Gareth can use his reaction to redirect the attack to himself instead and move his ally 5 feet in any direction without provoking opportunity of attack.
 
 ### Story Notes (DM Only)
 
