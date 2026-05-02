@@ -16,7 +16,7 @@ Chris will fish
 
 Chris is first death by disease
 Picked Monk, Chris can not be a Wizard ever again
-Think of a penalty
+Think of a penalty. Half points and some real world consequence.
 
 Demon: 20
 Bowin, Chris
@@ -51,7 +51,7 @@ Everyone looted body of the church - gods will not look favorably at this
 Conner -dignity 
 Conner has the worst out of everyone (constant 1's)
 Went to the hero's party
-Know about luna is a bishop
+Know about [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|luna]] is a bishop
 Hero party + 2 church attendants
 Convinced to go to Ashenveil 
 
