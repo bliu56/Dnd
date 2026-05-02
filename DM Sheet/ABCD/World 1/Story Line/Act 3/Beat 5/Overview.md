@@ -10,3 +10,4 @@ Direction: North East
 |        |     |     |     |             |
 
 
+![[Pasted image 20260502114000.png]]
