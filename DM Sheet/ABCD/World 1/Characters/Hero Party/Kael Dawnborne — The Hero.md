@@ -49,9 +49,9 @@ _Medium Humanoid (Human), Lawful Neutral_
 		- +2 to all saving throws
 		- +10 ft. movement speed
 		  
-	- **_Protection_ :** Passive At the start of each of Kael's turns, he regains 10 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by 3 before any other calculation. Kael has never had to think about staying alive in a fight. The title handles that too.
+	- **_Protection_ :** At the start of each of Kael's turns, he regains 20 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by half before any other calculation.
 	  
-	- **_Shell_ :** Kael has resistance to spell damage and all ranged attack rolls against him have disadvantage. The title wraps him in something that arrows and magic simply don't penetrate cleanly.
+	- **_Ward_ :** Kael has resistance to ranged weapon damage and immunity to magic missile and similar auto-hit spells. Spells that require an attack roll against him have disadvantage.
 	  
 	- **_Immunity_ :** The Hero title shields Kael from conditions that would impair a lesser fighter. Kael is immune to the following conditions:
 		- Frightened
@@ -61,7 +61,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 		- Poisoned
 		- Exhaustion
 		  
-	- **_Strike_ :** Once per turn when Kael hits with a melee attack he deals an additional 2d8 radiant damage. No action required. The title delivers it automatically.
+	- **_Strike_ :** Once per turn when Kael hits with a melee attack he deals an additional 2d12 radiant damage.
 
 - **Legendary Resistance (1/Day).** If Kael fails a saving throw he can choose to succeed instead.
 
