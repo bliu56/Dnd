@@ -61,7 +61,14 @@ _Medium Humanoid (Human), Lawful Neutral_
 ### Traits
 
 - **Goddess's Chosen:** Isolde has advantage on all saving throws against spells and magical effects.
+  
 - **Empowered Healing:** When Isolde restores HP to a creature she deems worthy, they regain an additional 1d8 HP.
+  
+- **_Sacred Favor._** At the start of each of Isolde's turns she generates one stack of Sacred Favor, max 6. As a bonus action she can distribute any number of her current stacks among a number of allies she can see equal to her Wisdom modifier (currently 4). Each stack distributed to an ally gives them the following benefits until the start of Isolde's next turn:
+	- +1 to attack rolls and saving throws per stack
+	- +1d4 healing received per stack whenever they regain HP from any source
+
+Stacks distributed to allies are consumed at the start of Isolde's next turn. Undistributed stacks carry over. At max stacks (6) Isolde must distribute at least one stack on her next turn or the excess burns away.
 - **Spellcasting:** Isolde is a 9th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying, Toll the Dead
     - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Command
@@ -74,7 +81,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 - **Multiattack:** Isolde makes two Holy Staff attacks or casts one cantrip twice.
 - **Holy Staff:** _+3 to hit, reach 5 ft._ Hit: 1d6 bludgeoning + 2d6 radiant.
-- **Divine Verdict (Recharge 5–6):** Isolde calls down judgment on one creature within 60 ft. she has designated Unworthy. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. She does not raise her voice when she does this.
+- **Divine Verdict (Recharge 5–6):** Isolde calls down judgment on one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. She does not raise her voice when she does this.
 
 ### Bonus Actions
 
