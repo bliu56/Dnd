@@ -1,4 +1,12 @@
+Unlit is now new sponsor for his warlock class
+Goal: Become a "Hero" through obtaining justification
 
+Curse: every time he says something that makes other players cringe, he takes one damage
+
+He will obtain Quests from the Unlit and can ask the Unlit for help
+
+
+---
 
 Quest from the The Grand Absolute Supreme Pinnacle Sovereignty of the Eternal Darkened Obsidian Void
 -Accepted

@@ -1,3 +1,50 @@
+**Session Notes — Key Points**
+
+**Players:** Connor, Bowen, Pranav, Andrew, Chris, Darrin
+
+**Quest Updates**
+
+- Andrew used Druidcraft — only spell used so far
+- Andrew's cursed quest active: must rotate through all attacks/spells before repeating. Current rotation: earthen fist, healing word, fury, slam, scare, basic attack
+- Chris will fish — fish quest progressing
+- Convinced the Hero Party to go to Ashen Vale
+
+**Character Updates**
+
+- Chris: first death by disease. Picked Monk. Can never be a Wizard again. Penalty pending — half points plus a real world consequence
+- Connor: took a dignity loss. Worst performance of the session, consistent bad rolls
+- Everyone except Connor and Bowen is now human
+
+**Combat**
+
+- Fought Gnolls — both defeated
+- Long fight against demons
+- Made a deal with Ash
+- Switched focus to attack the Church only at the end of the fight
+
+**Consequences**
+
+- Ash felt betrayed by the late switch and the deal being broken
+- Church felt betrayed and ran
+- Connor attempted to persuade Ash, failed, then begged — also failed
+- Ash pursued the fleeing Church and killed everyone except the captain
+- Party looted Church bodies — gods will not look favorably on this
+
+**Information Gained**
+
+- Hero Party encountered
+- Learned Luna is now a Bishop
+- Hero Party has 2 Church attendants with them
+
+**Faction Standing**
+
+- Demons: Bowen and Chris at 20, everyone else at 17
+- Church: took significant reputation hit this session
+
+
+
+--- 
+
 Connor, Bowin, Pranav, Andrew, Chris, Darrin
 
 Cringe Meter: 4
