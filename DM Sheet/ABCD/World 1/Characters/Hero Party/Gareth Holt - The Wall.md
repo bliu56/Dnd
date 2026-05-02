@@ -61,12 +61,13 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 - **Supernatural Endurance:** Gareth reduces all incoming damage by 4. 
 - **Immovable:** Gareth cannot be knocked prone or forcibly moved unless the effect deals more than 30 damage in a single hit.
+- **Iron Retaliation (Recharge 6):** When Gareth is hit by a melee attack he can use his reaction to absorb the blow and channel it into his next attack. His next Warhammer attack before the end of his next turn deals an additional 1d10 for every 5 points of damage received.
 
 ### Actions
 
 - **Multiattack:** Gareth makes two Warhammer attacks and one Shield Bash.
-- **Warhammer:** _+8 to hit, reach 5 ft._ Hit: 1d8+5 bludgeoning (1d10+5 two-handed, though he rarely drops the shield).
-- **Shield Bash:** _+8 to hit, reach 5 ft._ Hit: 1d6+5 bludgeoning. The target makes a DC 16 Strength save or is knocked prone and pushed 10 ft.
+- **Warhammer:** _+5 to hit, reach 5 ft._ Hit: 1d8+5 bludgeoning (1d10+5 two-handed, though he rarely drops the shield).
+- **Shield Bash:** _+3 to hit, reach 5 ft._ Hit: 1d6+5 bludgeoning. The target makes a DC 16 Strength save or is knocked prone and pushed 10 ft.
 - **Holt's Advance (Recharge 5–6):** Gareth charges up to 20 ft. in a straight line. Each creature in his path makes a DC 17 Strength save, taking 4d8+5 bludgeoning damage and being knocked prone on a fail, or half damage on a success. He does not stop moving for any of them.
 
 ### Bonus Actions
