@@ -43,14 +43,14 @@ Gareth plants himself and dares things to move him. His shield is not purely def
 
 _Medium Humanoid (Human), Lawful Neutral_
 
-- **AC:** 20 (plate armor, shield) | **HP:** 136 (16d10 + 48) | **Speed:** 30 ft.
+- **AC:** 18 (plate armor, shield) | **HP:** 140 (16d10 + 48) | **Speed:** 30 ft.
 - **CR:** 7
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|20 (+5)|10 (+0)|18 (+4)|10 (+0)|10 (+0)|12 (+1)|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 14 (+2) | 20 (+5) | 10 (+0) | 10 (+0) | 12 (+1) |
 
-- **Saving Throws:** Str +8, Con +7
+- **Saving Throws:** Str +5, Con +8
 - **Skills:** Athletics +8, Intimidation +4
 - **Damage Resistances:** Bludgeoning, Piercing, Slashing from non-magical attacks
 - **Condition Immunities:** Frightened
@@ -59,9 +59,8 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Traits
 
-- **Holt's Endurance.** Gareth reduces all incoming damage by 4. 
-- **Immovable.** Gareth cannot be knocked prone or forcibly moved unless the effect deals more than 30 damage in a single hit. He has never been put on the ground. He does not intend to start now.
-- **Never Been Touched.** While Gareth is above half HP he has advantage on Strength saving throws and cannot be grappled by creatures of equal or smaller size.
+- **Supernatural Endurance.** Gareth reduces all incoming damage by 4. 
+- **Immovable.** Gareth cannot be knocked prone or forcibly moved unless the effect deals more than 30 damage in a single hit.
 
 ### Actions
 
