@@ -8,3 +8,5 @@ Direction: North East
 |        | X   |     |     |             |
 | Church |     |     |     | Spawn       |
 |        |     |     |     |             |
+
+
