@@ -82,6 +82,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 ### Bonus Actions
 
 - **Calculated Repositioning:** Seraphine moves up to 15 ft. without provoking opportunity attacks. She does this only when her current position has become suboptimal.
+- **Misty Step:** Briefly surrounded by silvery mist, you teleport up to 30 ft. to an unoccupied space you can see.
 
 ### Reactions
 
