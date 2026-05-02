@@ -60,9 +60,9 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Traits
 
-- **Goddess's Chosen.** Isolde has advantage on all saving throws against spells and magical effects. She has been told her whole life that the Goddess protects her specifically. So far this has been true.
-- **Empowered Healing.** When Isolde restores HP to a creature she deems worthy, they regain an additional 1d8 HP.
-- **Spellcasting.** Isolde is a 9th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
+- **Goddess's Chosen:** Isolde has advantage on all saving throws against spells and magical effects.
+- **Empowered Healing:** When Isolde restores HP to a creature she deems worthy, they regain an additional 1d8 HP.
+- **Spellcasting:** Isolde is a 9th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying, Toll the Dead
     - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Command
     - _2nd (3 slots):_ Lesser Restoration, Prayer of Healing, Aid, Silence
@@ -72,20 +72,20 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Actions
 
-- **Multiattack.** Isolde makes two Holy Staff attacks or casts one cantrip twice.
-- **Holy Staff.** _+3 to hit, reach 5 ft._ Hit: 1d6 bludgeoning + 2d6 radiant.
-- **Sacred Flame.** _DC 15 Dex save, range 60 ft._ Fail: 2d8 radiant damage. Success: no damage. Isolde uses this on creatures she has deemed Unworthy with particular calm.
-- **Divine Verdict (Recharge 5–6).** Isolde calls down judgment on one creature within 60 ft. she has designated Unworthy. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. She does not raise her voice when she does this.
+- **Multiattack:** Isolde makes two Holy Staff attacks or casts one cantrip twice.
+- **Holy Staff:** _+3 to hit, reach 5 ft._ Hit: 1d6 bludgeoning + 2d6 radiant.
+- **Sacred Flame:** _DC 15 Dex save, range 60 ft._ Fail: 2d8 radiant damage. Success: no damage. Isolde uses this on creatures she has deemed Unworthy with particular calm.
+- **Divine Verdict (Recharge 5–6):** Isolde calls down judgment on one creature within 60 ft. she has designated Unworthy. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. She does not raise her voice when she does this.
 
 ### Bonus Actions
 
-- **Healing Word (4/Day).** Isolde calls out to one worthy ally within 60 ft., restoring 1d6+4 HP.
-- **Reassess.** Isolde changes her Arbiter's Judgment designation to a different creature. Once per encounter.
+- **Healing Word (4/Day):** Isolde calls out to one worthy ally within 60 ft., restoring 1d6+4 HP.
+- **Reassess:** Isolde changes her Arbiter's Judgment designation to a different creature. Once per encounter.
 
 ### Reactions
 
-- **Protective Grace.** When a worthy ally within 30 ft. is hit by an attack, Isolde imposes disadvantage on the attack roll as a reaction.
-- **Withheld Mercy.** When an Unworthy creature within 30 ft. would be reduced to 0 HP, Isolde can choose to do nothing. This is not a mechanical reaction — it is a character one. She watches. She decides. She lets it happen.
+- **Protective Grace:** When a worthy ally within 30 ft. is hit by an attack, Isolde imposes disadvantage on the attack roll as a reaction.
+- **Withheld Mercy:** When an Unworthy creature within 30 ft. would be reduced to 0 HP, Isolde can choose to do nothing. This is not a mechanical reaction — it is a character one. She watches. She decides. She lets it happen.
 
 ### Story Notes (DM Only)
 
