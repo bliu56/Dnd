@@ -59,24 +59,24 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Traits
 
-- **Supernatural Endurance.** Gareth reduces all incoming damage by 4. 
-- **Immovable.** Gareth cannot be knocked prone or forcibly moved unless the effect deals more than 30 damage in a single hit.
+- **Supernatural Endurance:** Gareth reduces all incoming damage by 4. 
+- **Immovable:** Gareth cannot be knocked prone or forcibly moved unless the effect deals more than 30 damage in a single hit.
 
 ### Actions
 
-- **Multiattack.** Gareth makes two Warhammer attacks and one Shield Bash.
-- **Warhammer.** _+8 to hit, reach 5 ft._ Hit: 1d8+5 bludgeoning (1d10+5 two-handed, though he rarely drops the shield).
-- **Shield Bash.** _+8 to hit, reach 5 ft._ Hit: 1d6+5 bludgeoning. The target makes a DC 16 Strength save or is knocked prone and pushed 10 ft.
-- **Holt's Advance (Recharge 5–6).** Gareth charges up to 20 ft. in a straight line. Each creature in his path makes a DC 17 Strength save, taking 4d8+5 bludgeoning damage and being knocked prone on a fail, or half damage on a success. He does not stop moving for any of them.
+- **Multiattack:** Gareth makes two Warhammer attacks and one Shield Bash.
+- **Warhammer:** _+8 to hit, reach 5 ft._ Hit: 1d8+5 bludgeoning (1d10+5 two-handed, though he rarely drops the shield).
+- **Shield Bash:** _+8 to hit, reach 5 ft._ Hit: 1d6+5 bludgeoning. The target makes a DC 16 Strength save or is knocked prone and pushed 10 ft.
+- **Holt's Advance (Recharge 5–6):** Gareth charges up to 20 ft. in a straight line. Each creature in his path makes a DC 17 Strength save, taking 4d8+5 bludgeoning damage and being knocked prone on a fail, or half damage on a success. He does not stop moving for any of them.
 
 ### Bonus Actions
 
-- **Plant.** Gareth roots himself in place. Until the start of his next turn he cannot be moved by any means, his AC increases by 2, and any creature that enters his melee range immediately provokes an opportunity attack.
+- **Plant:** Gareth roots himself in place. Until the start of his next turn he cannot be moved by any means, his AC increases by 2, and any creature that enters his melee range immediately provokes an opportunity attack.
 
 ### Reactions
 
-- **Rebuff.** When a creature within 5 ft. hits Gareth with a melee attack, he can make one Shield Bash against them as a reaction.
-- **Hold the Line.** When an ally within 5 ft. would be hit by an attack, Gareth can use his reaction to redirect the attack to himself instead.
+- **Rebuff:** When a creature within 5 ft. hits Gareth with a melee attack, he can make one Shield Bash against them as a reaction.
+- **Hold the Line:** When an ally within 5 ft. would be hit by an attack, Gareth can use his reaction to redirect the attack to himself instead.
 
 ### Story Notes (DM Only)
 
