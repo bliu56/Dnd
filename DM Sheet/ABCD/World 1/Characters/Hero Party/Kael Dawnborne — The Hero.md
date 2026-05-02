@@ -30,9 +30,9 @@ _Medium Humanoid (Human), Lawful Neutral_
 - **AC:** 17 (plate armor) | **HP:** 120 (16d10 + 32) | **Speed:** 30 ft.
 - **CR:** 8
 
-|STR|DEX|CON|INT|WIS|CHA|
-|---|---|---|---|---|---|
-|16 (+3)|12 (+1)|14 (+2)|12 (+1)|8 (-1)|16 (+3)|
+| STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| ------- | ------- | ------- | ------- | ------- | ------- |
+| 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
 
 - **Saving Throws:** Str +6, Con +5, Cha +6
 - **Skills:** Athletics +6, Intimidation +6, Persuasion +6, History +4
@@ -43,9 +43,21 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 #### Traits
 
-- **Divine Blessing** — The divine power of the Hero title enhances Kael beyond his natural capability. 
-	- 
-- **Divine Protection** — Passive At the start of each of Kael's turns, he regains 10 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by 3 before any other calculation. Kael has never had to think about staying alive in a fight. The title handles that too.
+- **Divine Blessing** — The divine power of the Hero title enhances Kael beyond his natural capability.
+	- **_Physique_ :** The Hero title pushes Kael's natural abilities beyond what he has earned. He gains the following while the title is active:
+		- +4 to all ability scores
+		- +2 to all saving throws
+		- +10 ft. movement speed
+	- **_Protection_ :** Passive At the start of each of Kael's turns, he regains 10 HP as the Hero title's divine power sustains him automatically. Additionally, all damage Kael takes is reduced by 3 before any other calculation. Kael has never had to think about staying alive in a fight. The title handles that too.
+	- **_Immunity_ :** The Hero title shields Kael from conditions that would impair a lesser fighter. Kael is immune to the following conditions:
+		- Frightened
+		- Charmed
+		- Paralyzed
+		- Stunned
+		- Poisoned
+		- Exhaustion
+	- **_Strike_ :** Once per turn when Kael hits with a melee attack he deals an additional 2d8 radiant damage. No action required. The title delivers it automatically.
+
 - **Legendary Resistance (1/Day).** If Kael fails a saving throw he can choose to succeed instead.
 
 #### Actions
