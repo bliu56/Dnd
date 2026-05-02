@@ -1,0 +1,29 @@
+{
+  "spellbooks": [
+    {
+      "title": "My Spellbook",
+      "spells": [
+        "Cone of Cold",
+        "Cloudkill",
+        "Ice Storm",
+        "Vitriolic Sphere",
+        "Wall of Fire",
+        "Fireball",
+        "Lightning Bolt",
+        "Sleet Storm",
+        "Shatter",
+        "Flaming Sphere",
+        "Burning Hands",
+        "Thunderwave",
+        "Fire Bolt",
+        "Ray of Frost",
+        "Mage Hand"
+      ],
+      "colour": "#c03e2e"
+    }
+  ],
+  "customSpells": [],
+  "notes": [],
+  "exportDate": "2026-05-02T06:11:07.849Z",
+  "version": "1.0"
+}
