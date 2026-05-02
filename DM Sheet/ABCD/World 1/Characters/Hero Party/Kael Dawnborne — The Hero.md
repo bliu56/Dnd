@@ -71,6 +71,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 - **Longsword:** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
 - **Holy Lance:** A bolt of pure divine energy. +6 to hit, range 90 ft. Hit: 3d6 radiant damage. The target must make a DC 15 Constitution save or be blinded until the end of their next turn.
 - **Divine Punishment (Recharge 5–6):** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
+- **Divine Barrage (Recharge 5-6):** Kael raises his sword and holy energy rains down in a 15 ft. radius centered on a point within 60 ft. Each creature in the area makes a DC 15 Dexterity save, taking 4d6 radiant damage on a fail or half on a success.
 
 #### Bonus Actions
 
