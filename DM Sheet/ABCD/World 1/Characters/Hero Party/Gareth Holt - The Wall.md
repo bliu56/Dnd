@@ -3,6 +3,17 @@
 - **Status:** Alive
 - **Age:** 24
 
+- **Catchphrases:**
+
+| Mood | Lines |
+|---|---|
+| **Challenging someone to fight** | "You want to try me? Please. I need the exercise." / "I've taken harder hits from training dummies." / "Go on. Hit me. I'll wait." / "I'll give you three free shots. After that I start trying." |
+| **Mocking weak hits** | "And they call that a hit?" / "Stay down. You're embarrassing yourself." / "You hit like you're apologizing for it." / "I've been hit harder by doors." / "I'm not even breathing hard and you're already on the ground." |
+| **Sustained pressure** | "Are you done? No? Good. Keep going. I'm warming up." / "Again." |
+| **About his strength** | "I'm a Holt. We don't fall." / "You're not wrong. I am that strong." / "I don't need to prove it. The results speak for themselves." / "The Holt name means something. I'm just here to remind you what." |
+| **When someone actually lands** | "...Okay. That was something. Not enough. But something." / "You've got hands. I'll give you that. But I'm still standing." / "I'm gonna remember you. That means when I win, I'm gonna make sure you remember it too." |
+| **Short / physical** | "Move." / "Try." / "Down." / "That's all you had?" |
+
 ### Image
 ![[Pasted image 20260425184818.png|355]]
 
