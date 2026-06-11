@@ -13,6 +13,7 @@
 | **About his strength** | "I'm a Holt. We don't fall." / "You're not wrong. I am that strong." / "I don't need to prove it. The results speak for themselves." / "The Holt name means something. I'm just here to remind you what." |
 | **When someone actually lands** | "...Okay. That was something. Not enough. But something." / "You've got hands. I'll give you that. But I'm still standing." / "I'm gonna remember you. That means when I win, I'm gonna make sure you remember it too." |
 | **Short / physical** | "Move." / "Try." / "Down." / "That's all you had?" |
+| **Social** | "You talk a lot. Are you gonna back it up or just keep standing there?" / "I'm not stupid. I just don't waste time on things that don't matter." / "You're overthinking it. Just hit the problem until it's not a problem anymore." / "You seem smart. That's nice. Can you fight?" / "The plan is simple: I don't go down, you don't stop hitting. Everything else sorts itself out." / "I don't owe you an explanation." |
 
 ### Image
 ![[Pasted image 20260425184818.png|355]]
