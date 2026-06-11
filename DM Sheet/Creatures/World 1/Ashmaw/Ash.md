@@ -38,7 +38,7 @@ _Tall, lean, and still. He moves with the economy of something that has never ne
 
 **Will — Stage I: Speed**
 
-**_Blur._** As a bonus action Ash pushes his Will into his body. Until the end of his next turn his movement speed doubles, he can move through other creatures without provoking opportunity attacks, and the first Blade Strike he makes this turn deals an additional 2d6 damage as his speed becomes force. Once per short rest.
+**_Blur._** As a bonus action Ash pushes his Will into his body. Until the end of his next turn his movement speed doubles, he can move through other creatures without provoking opportunity attacks, and the first Blade Strike he makes this turn deals an additional 2d6 damage as his speed becomes force. Three times per short rest.
 
 **_Afterimage._** When Ash uses Blur, creatures that attempt to attack him before the start of his next turn must make a DC 15 Wisdom save or attack the afterimage instead, automatically missing. Creatures that succeed see through it.
 
