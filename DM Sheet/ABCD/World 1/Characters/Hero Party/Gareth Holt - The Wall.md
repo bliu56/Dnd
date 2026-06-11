@@ -70,8 +70,8 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 - **Multiattack:** Gareth makes two Warhammer attacks and one Shield Bash.
 - **Warhammer:** _+8 to hit, reach 5 ft._ Hit: 1d8+5 bludgeoning (+1d10 two-handed), plus additional damage from Holt's Stand's **Unfallen Resolve** trait.
-- **Shield Bash:** _+6 to hit, reach 5 ft._ Hit: 1d6+3 bludgeoning. The target makes a DC 16 Strength save or is knocked prone and pushed 10 ft.
-- **Holt's Advance (Recharge 5–6):** Gareth charges up to 20 ft. in a straight line. Each creature in his path makes a DC 17 Strength save, taking 4d8+5 bludgeoning damage and being knocked prone on a fail, or half damage on a success. He does not stop moving for any of them.
+- **Shield Bash:** _+6 to hit, reach 5 ft._ Hit: 1d6+3 bludgeoning. The target makes a DC 14 Strength save or is knocked prone and pushed 10 ft.
+- **Holt's Advance (Recharge 5–6):** Gareth charges up to 20 ft. in a straight line. Each creature in his path makes a DC 14 Strength save, taking 4d8+5 bludgeoning damage and being knocked prone on a fail, or half damage on a success. He does not stop moving for any of them.
 
 ### Bonus Actions
 
