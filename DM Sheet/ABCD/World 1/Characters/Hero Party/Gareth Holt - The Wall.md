@@ -75,7 +75,10 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Bonus Actions
 
-- **Plant:** Gareth roots himself in place and dares anything in the room to try him. Until the start of his next turn he cannot be moved by any means, his AC increases by 2, and every creature within 30 ft. that can see or hear him must make a DC 14 Wisdom save or be taunted — they have disadvantage on attack rolls against any creature other than Gareth until the start of his next turn.
+- **Anchored (Bonus Action).** Gareth slams the butt of his warhammer into the ground. Spectral chains burst from the impact point, binding the area around him. Until the start of his next turn:
+    - He cannot be moved by any means.
+    - Each creature of his choice within 10 ft must make a DC 14 Strength save or be pulled up to 5 ft toward him.
+    - Creatures within 10 ft of Gareth cannot take the Disengage action.
 
 ### Reactions
 
