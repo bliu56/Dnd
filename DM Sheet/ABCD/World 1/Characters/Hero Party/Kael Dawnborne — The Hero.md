@@ -3,6 +3,18 @@
 - **Status:** Alive
 - **Age:** 23
   
+- **Catchphrases:**
+
+| Mood | Lines |
+|---|---|
+| **Mocking a weak hit** | "That was your best? Oh. Oh no." / "You can try now. Oh — that was you trying?" / "That was supposed to hurt? Huh." / "No no, keep going. I'm genuinely curious how low this goes." |
+| **Daring them to start** | "I know you're not even close to my level but come on, at least try." / "I didn't expect much from you but wow. This is a new low." / "You're swinging like you're already apologizing for it." |
+| **After a fight's over** | "Are you done? Because that was sad to watch." / "Next." |
+| **Dismissing someone's opinion** | "You want me to explain it to you? Okay. No. That's the explanation." / "I didn't ask what you think." / "You get one sentence. Use it wisely." |
+| **Calling someone worthless** | "I've met dirt that had more presence than you." / "You're talking. I can see that. I'm just not sure why." |
+| **When someone actually lands a hit** | "Oh? Oh. Okay that was — okay that was actually something. Good for you." / "Huh. I felt that. I'm impressed. You should write that down." / "Alright. You have my attention. That's not a good thing for you." |
+| **Short / ice cold** | "Wow." / "Cute." / "And?" / "No." / "Kneel." / "Enough." / "Walk away." |
+
 - **Background:** Born into one of the oldest noble houses still standing. His family has held their title for generations and has never let anyone forget it. The bloodline is everything — it determines worth, determines right, determines who matters and who doesn't. Kael absorbed this completely and without question. He was raised to believe that his birth alone placed him above the vast majority of humanity. Becoming the Hero did not change this worldview. It confirmed it. The Goddess chose him. Of course she did. How could she have chosen anyone else.
 
 - **Personality:** Contemptuous of commoners by default — not out of cruelty exactly, but out of genuine belief that they are a lesser category of person. Expects deference, expects sacrifice from those beneath him, and has never had to reckon with a world that doesn't provide it. Charismatic within his own class, utterly dismissive outside it. When people die following his orders he processes it as an acceptable cost without losing sleep. He is not performing arrogance — he simply has never been taught that any other way of existing is possible.
