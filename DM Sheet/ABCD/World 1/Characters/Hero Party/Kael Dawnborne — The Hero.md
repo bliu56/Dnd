@@ -27,15 +27,16 @@ He has no reads, no adaptability, no contingency when the divine power isn't eno
 
 _Medium Humanoid (Human), Lawful Neutral_
 
-- **AC:** 17 (plate armor) | **HP:** 120 (16d10 + 32) | **Speed:** 30 ft.
+- **AC:** 17 (plate armor) | **HP:** 120 (16d10 + 32) / 152 (16d10 + 64) | **Speed:** 30 ft. / 40 ft.
 - **CR:** 8
 
-| STR     | DEX     | CON     | INT     | WIS     | CHA     |
-| ------- | ------- | ------- | ------- | ------- | ------- |
-| 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
+|          | STR     | DEX     | CON     | INT     | WIS     | CHA     |
+| -------- | ------- | ------- | ------- | ------- | ------- | ------- |
+| **Base** | 16 (+3) | 12 (+1) | 14 (+2) | 12 (+1) | 12 (+1) | 16 (+3) |
+| **Buffed** | 20 (+5) | 16 (+3) | 18 (+4) | 16 (+3) | 16 (+3) | 20 (+5) |
 
-- **Saving Throws:** Str +6, Con +5, Cha +6
-- **Skills:** Athletics +6, Intimidation +6, Persuasion +6, History +4
+- **Saving Throws (Base / Buffed):** Str +6 / +10, Con +5 / +9, Cha +6 / +10
+- **Skills (Base / Buffed):** Athletics +6 / +8, Intimidation +6 / +8, Persuasion +6 / +8, History +4 / +6
 - **Damage Resistances:** Radiant
 - **Condition Immunities:** Frightened
 - **Senses:** Passive Perception 9
@@ -68,15 +69,15 @@ _Medium Humanoid (Human), Lawful Neutral_
 #### Actions
 
 - **Multi-attack:** Kael makes two Longsword attacks.
-- **Longsword:** _+3 to hit, reach 5 ft._ Hit: 1d10+3 slashing
-- **Holy Lance:** A bolt of pure divine energy. +6 to hit, range 90 ft. Hit: 3d6 radiant damage. The target must make a DC 15 Constitution save or be blinded until the end of their next turn.
-- **Divine Punishment (Recharge 5–6):** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
-- **Divine Barrage (Recharge 5-6):** Kael raises his sword and holy energy rains down in a 15 ft. radius centered on a point within 60 ft. Each creature in the area makes a DC 15 Dexterity save, taking 4d6 radiant damage on a fail or half on a success.
+- **Longsword:** _+6 (+3 base) / +8 (+5 buffed) to hit, reach 5 ft._ Hit: 1d10+3 / 1d10+5 slashing
+- **Holy Lance:** A bolt of pure divine energy. +6 to hit, range 90 ft. Hit: 3d6 radiant damage. The target must make a DC 15 Constitution save or be blinded until the end of their next turn. [Spell save DC: 15 base / 17 buffed]
+- **Divine Punishment (Recharge 5–6):** Kael channels the Hero title's power at one creature within 60 ft. The target makes a DC 15 (base) / DC 16 (buffed) Wisdom save, taking 6d8 radiant damage on a fail or half on a success. 
+- **Divine Barrage (Recharge 5-6):** Kael raises his sword and holy energy rains down in a 15 ft. radius centered on a point within 60 ft. Each creature in the area makes a DC 15 (base) / DC 16 (buffed) Dexterity save, taking 4d6 radiant damage on a fail or half on a success.
 
 #### Bonus Actions
 
-- **Press Forward:** Kael moves up to 15 ft. toward a creature and makes one Longsword attack. This movement does not provoke opportunity attacks.
-- **Divine Pressure:** One creature within 5 ft. must make a DC 15 Strength save or be knocked prone. If they fail Kael can immediately make one Longsword attack against them at advantage.
+- **Press Forward:** Kael moves up to 15 ft. toward a creature and makes one Longsword attack (+6/+8). This movement does not provoke opportunity attacks.
+- **Divine Pressure:** One creature within 5 ft. must make a DC 15 (base) / DC 16 (buffed) Strength save or be knocked prone. If they fail Kael can immediately make one Longsword attack against them at advantage (+6/+8, crit on 19-20).
 
 #### Reactions
 
