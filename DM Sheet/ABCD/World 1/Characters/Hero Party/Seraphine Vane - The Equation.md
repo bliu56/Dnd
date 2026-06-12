@@ -75,9 +75,6 @@ _Medium Humanoid (Human), Lawful Neutral_
 - **Multiattack:** Seraphine casts two cantrips or one cantrip and one leveled spell.
 - **Fire Bolt:** _+8 to hit, range 120 ft._ Hit: 2d10 fire damage.
 - **Ray of Frost:** _+8 to hit, range 60 ft._ Hit: 2d8 cold damage. The target's speed is reduced by 10 ft. until the start of Seraphine's next turn.
-- **Fireball:** _(3rd level slot, 20 ft. radius, range 150 ft.)_ DC 16 Dex save, 8d6 fire damage on fail, half on success. She does not check where her allies are standing before casting.
-- **Cone of Cold:** _(5th level slot, 60 ft. cone)_ DC 16 Con save, 8d8 cold damage on fail, half on success.
-- **Cloudkill:** _(5th level slot, 20 ft. radius, Concentration up to 10 minutes)_ DC 16 Con save, 5d8 poison damage on fail, half on success. The cloud moves 10 ft. away from Seraphine at the start of each of her turns.
 
 ### Bonus Actions
 
