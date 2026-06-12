@@ -88,7 +88,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Bonus Actions
 
-- **Sacred Favor:** At the start of each of Isolde's turns she generates one stack of Sacred Favor, max 6. As a bonus action she can distribute any number of her current stacks among a number of allies she can see equal to her Wisdom modifier (currently 4). Each stack distributed to an ally gives them the following benefits until the start of Isolde's next turn:
+- **Sacred Blessing:** At the start of each of Isolde's turns she generates one stack of Sacred Favor, max 6. As a bonus action she can distribute any number of her current stacks among a number of allies she can see equal to her Wisdom modifier (currently 4). Each stack distributed to an ally gives them the following benefits until the start of Isolde's next turn:
   - +1 to attack rolls and saving throws per stack
   - +1d4 healing received per stack whenever they regain HP from any source
   - Stacks distributed to allies are consumed at the start of Isolde's next turn. Undistributed stacks carry over. At max stacks (6) Isolde must distribute at least one stack on her next turn or the excess burns away.
