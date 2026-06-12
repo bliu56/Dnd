@@ -95,3 +95,17 @@ _Medium Humanoid (Human), Lawful Neutral_
 #### Reactions
 
 - **Divine Grace:** When a creature hits or misses Kael with a melee attack, a pulse of divine energy automatically strikes the attacker. The attacker takes 2d8 radiant damage.
+
+### Story Notes (DM Only) — Optional Progression
+
+Kael can warm up to the party across multiple encounters if they engage on his terms. This is entirely optional — he stays an antagonist by default.
+
+| Stage | Trigger | Response |
+|---|---|---|
+| **1 — Ego Boost** | A player acknowledges his status without groveling | "Finally. Someone who recognizes what they're looking at." / "It's refreshing to meet someone with working eyes." |
+| **2 — Peak interest** | A player does something genuinely surprising (clever play, unusual skill, bold move) | "...Huh. Didn't expect that from you. Good." / "You have my attention. Use it wisely." |
+| **3 — Show value** | A player proves useful in a fight or situation on his terms | "Maybe you're not useless after all." / "Not bad. I've worked with worse." / "Keep that up and I might actually remember your name." |
+| **4 — Curiosity** | A player asks genuine questions about what it means to be the Hero — not challenging, just asking | "...No one's ever asked me that before." (then brushes it off) / "You want to know what it's like? It's like being the only one who knows the answer and everyone else doesn't even know the question." |
+| **5 — Payoff** | A player is vulnerable about failing, and Kael responds from duty rather than ego | "You can fail as many times as you want. Because no matter what you do — I am the Hero. And I will win." |
+
+**The understanding:** He is not allowed to show weakness. He carries the hope of everyone. If he falters, what do they have left? The arrogance is not cruelty — it is the armor he wears because the title demands he never be anything less than certain.
