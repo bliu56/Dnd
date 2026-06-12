@@ -128,3 +128,16 @@ _Medium Humanoid (Human), Lawful Neutral_
 - The moment a player realizes she made that choice will be significant — reward however the table reacts
 - She has never had her judgment questioned by someone she couldn't dismiss — that changes the moment the players push back seriously
 - Her assessment of the Demon King as an affront to the Goddess will not survive contact with the reality of what he has actually done for common people — whether she ever reckons with that is up to the table
+
+### Story Notes (DM Only) — Optional Progression
+
+Isolde warms to those who share her faith. Not friends — fellow believers. Entirely optional.
+
+| Stage | Trigger | Response |
+|---|---|---|
+| **1 — Noticed** | A player prays, invokes the Goddess, or shows religious devotion in her presence | A long, silent look. Then a nod. "...You pray. Most people don't." |
+| **2 — Tested** | She challenges their faith — puts them in a situation where devotion costs something | "The Goddess tests those she loves. Prove you love her more than your fear." |
+| **3 — Proven** | The player chooses faith over pragmatism — spares when killing was easier, endures without complaint, gives up something valuable because it was right | "You passed. I was watching. The Goddess was watching too." |
+| **4 — Accepted** | She considers them a fellow servant of the Light | "Rise. You are not below me. You stand beside me. The Light recognizes the Light." |
+
+**The understanding:** She doesn't want friends. She wants fellow believers. The moment a player treats faith as real — not a tool, not an excuse — she stops being their judge and starts being their ally.
