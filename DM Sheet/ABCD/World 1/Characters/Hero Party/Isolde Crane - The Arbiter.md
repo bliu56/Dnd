@@ -7,12 +7,12 @@
 
 | Mood | Lines |
 |---|---|
-| **Entrance** | "The Goddess heard your prayers." |
-| **Judgment / Condemnation** | "You stand condemned." / "The Goddess weeps for what you've become." / "Your sins have caught up with you." / "I have seen your heart. It is lacking." / "There is no repentance in you. Only excuses." |
-| **Combat / Divine Wrath** | "By Aelura's will — fall." / "The Goddess does not forgive the wicked." / "I am the instrument of her judgment." / "Beg for mercy. You will not find it." / "Burn." |
-| **About worthiness** | "I decide who is worthy. Not you. Not your pleas. Me." / "You ask if the Goddess forgives you. I ask — do you deserve it?" / "Faith is not enough. You must be worthy of it." / "The Goddess gave you a chance. You wasted it." |
-| **About mercy (rare)** | "Do not mistake my silence for forgiveness." / "Perhaps there is still light in you. Do not waste it." / "I will pray for you. That is more than you deserve." |
-| **Short / cutting** | "Guilty." / "Heretic." / "Repent." / "Kneel." / "Silence." / "Absolved." / "Fall." / "Weep." |
+| **Entrance** (public arrival) | "Oh my, it's lovely to meet you all!" / "I'm so glad I found you!" / "The Goddess has been watching over your journey." |
+| **Neutral / General** | "Bless your heart, you've been through so much." / "Oh, don't worry about me — I'm right where I'm supposed to be." / "The light always finds a way, doesn't it?" / "I just felt a pull to come here. And wouldn't you know it — here you are!" |
+| **Offering help** (warm) | "Let me take a look at that for you." / "Oh dear, you're hurt. Sit, sit — I've got you." / "Nonsense, it's no trouble at all. I'm here to help." / "The Goddess provides, and today she's providing through me." |
+| **Judgment** (cold switch) | "You stand condemned." / "The Goddess weeps for what you've become." / "I have seen your heart. It is lacking." / "There is no repentance in you. Only excuses." |
+| **Combat / Divine Wrath** | "By Aelura's will — fall." / "I am the instrument of her judgment." / "Beg for mercy. You will not find it." / "Return that life to God." / "Burn." |
+| **Short / cutting** (cold) | "Guilty." / "Heretic." / "Repent." / "Kneel." / "Silence." / "Fall." |
 
 ### Image
 ![[Pasted image 20260425185227.png|282]]
