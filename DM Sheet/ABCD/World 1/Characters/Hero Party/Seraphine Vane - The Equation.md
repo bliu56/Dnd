@@ -10,6 +10,7 @@
 | **Dismissive / cold** | "Fascinating. No, really. I mean that." / "I see." / "That's an interesting theory." / "I don't have a response to that. I'm still processing how wrong it is." |
 | **Combat / tactical** | "Calculated." / "Inefficient." / "Noted." / "The target is no longer viable." / "Unnecessary." |
 | **Short / cutting** | "No." / "Correct." / "Obviously." / "Explain." / "Moving on." / "Dismissed." / "You're blocking my line of sight." |
+| **Entrance** | "You're here." |
 
 ### Image
 ![[Pasted image 20260425185001.png|290]]
@@ -100,6 +101,19 @@ _Medium Humanoid (Human), Lawful Neutral_
 - She is the only member of the Hero party who might actually recognize the players as a genuine variable worth calculating for
 - Her ward going down mid-fight is the moment she becomes dangerous in a different way — she has no answer for being in actual danger and will not handle it gracefully
 - She has never been in a fight she couldn't solve from range. That changes the moment someone closes the distance before she can react.
+
+### Story Notes (DM Only) — Optional Progression
+
+The party can earn Seraphine's attention by showing her something she's never seen before. Entirely optional.
+
+| Stage | Trigger | Response |
+|---|---|---|
+| **1 — Anomaly detected** | The party does something that doesn't fit her predictions — creative solution, an illogical choice that worked, something she can't categorize | "...That shouldn't have worked. But it did. I need to recalculate." |
+| **2 — Observation** | She starts watching them instead of ignoring them. Collecting data. | Nothing said. But she lingers after the fight, clearly thinking. |
+| **3 — Hypothesis** | She tests the party's logic — asks a specific question about why they did what they did | "Back there, why did X instead of Y? Y was statistically optimal." (genuinely curious, not mocking) |
+| **4 — Breakthrough** | The party shows her something that genuinely expands how she approaches problems | "You've shown me something I've never seen before. I will be recalculating my methodology." |
+
+**The understanding:** She doesn't warm up — her equations just start including them. She may start factoring non-quantifiable variables (instinct, creativity, trust) into her calculations. Enemies blocking door? Party trusts the rogue to unlock it anyway. Seraphine's equation now accounts for the variable she can't quantify but has learned to trust.
 
 ---
 
