@@ -60,9 +60,9 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Traits
 
-- **Goddess's Chosen:** Isolde has advantage on all saving throws against spells and magical effects.
+- **Goddess's Vessel:** Isolde has advantage on all saving throws against spells and magical effects.
   
-- **Empowered Healing:** When Isolde restores HP to a creature she deems worthy, they regain an additional 1d8 HP.
+- **Empowered Healing:** When Isolde restores HP to a creature, they regain an additional 1d8 HP.
   
 - **Spellcasting:** Isolde is a 9th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying, Toll the Dead
@@ -75,17 +75,16 @@ _Medium Humanoid (Human), Lawful Neutral_
 ### Actions
 
 - **Multiattack:** Isolde makes two Sorin's Light attacks or casts one cantrip twice.
-- **Sorin's Light:** _Ranged spell attack, 60 ft._ Hit: 1d8 radiant damage. If the target is frightened, the damage increases to 2d8.
-  - *"Sorin, steady my hand."*
+- **Aelura's Light:** _Ranged spell attack, 60 ft._ Hit: 2d8 radiant damage. If the target is frightened, the damage increases to 3d8.
 - **God's Authority (3/Day).** Isolde calls upon one of the gods she serves. Each invocation can only be used once per day:
 
-| Invocation | Prayer | Effect |
-|---|---|---|
-| **Calder's Renewal** | *"Calder, mend what is broken."* | One creature within 30 ft regains 3d8+4 HP and has advantage on their next saving throw. |
-| **Sorin's Charge** | *"Sorin, steel their hearts."* | Up to 3 allies within 30 ft gain 10 temp HP and immunity to frightened for 1 minute. |
-| **Vessa's Binding** | *"Vessa, hear this oath."* | One creature within 60 ft, DC 15 CHA save. Bound by an oath of your choosing for 1 minute. Violating it deals 3d10 psychic damage and ends. |
+| Invocation           | Prayer                               | Effect                                                                                                                                                                                   |
+| -------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Calder's Renewal** | *"Calder, mend what is broken."*     | One creature within 30 ft regains 3d8+4 HP and has advantage on their next saving throw.                                                                                                 |
+| **Sorin's Charge**   | *"Sorin, steel their hearts."*       | Up to 3 allies within 30 ft gain 10 temp HP and immunity to frightened for 1 minute.                                                                                                     |
+| **Vessa's Binding**  | *"Vessa, hear this oath."*           | One creature within 60 ft, DC 15 CHA save. Bound by an oath of your choosing for 1 minute. Violating it deals 3d10 psychic damage and ends.                                              |
 | **Aelura's Verdict** | *"Aelura, show them what they are."* | One creature within 60 ft, DC 15 WIS save. 6d8 radiant. On fail, they are revealed — invisibility, transformations, and illusions within 30 ft are suppressed for 1 round. Half on save. |
-| **Lirien's Mercy** | *"Lirien... grant them grace."* | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed. |
+| **Lirien's Mercy**   | *"Lirien... grant them grace."*      | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed.          |
 
 ### Bonus Actions
 
