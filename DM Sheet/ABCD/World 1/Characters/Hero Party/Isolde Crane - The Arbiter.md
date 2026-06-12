@@ -64,11 +64,6 @@ _Medium Humanoid (Human), Lawful Neutral_
   
 - **Empowered Healing:** When Isolde restores HP to a creature she deems worthy, they regain an additional 1d8 HP.
   
-- **_Sacred Favor._** At the start of each of Isolde's turns she generates one stack of Sacred Favor, max 6. As a bonus action she can distribute any number of her current stacks among a number of allies she can see equal to her Wisdom modifier (currently 4). Each stack distributed to an ally gives them the following benefits until the start of Isolde's next turn:
-	- +1 to attack rolls and saving throws per stack
-	- +1d4 healing received per stack whenever they regain HP from any source
-
-Stacks distributed to allies are consumed at the start of Isolde's next turn. Undistributed stacks carry over. At max stacks (6) Isolde must distribute at least one stack on her next turn or the excess burns away.
 - **Spellcasting:** Isolde is a 9th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 15, +7 to hit). She always has the following spells prepared:
     - _Cantrips:_ Sacred Flame, Guidance, Spare the Dying, Toll the Dead
     - _1st (4 slots):_ Healing Word, Cure Wounds, Bless, Command
@@ -79,13 +74,27 @@ Stacks distributed to allies are consumed at the start of Isolde's next turn. Un
 
 ### Actions
 
-- **Multiattack:** Isolde makes two Holy Staff attacks or casts one cantrip twice.
-- **Holy Staff:** _+3 to hit, reach 5 ft._ Hit: 1d6 bludgeoning + 2d6 radiant.
-- **Divine Verdict (Recharge 5–6):** Isolde calls down judgment on one creature within 60 ft. The target makes a DC 15 Wisdom save, taking 6d8 radiant damage on a fail or half on a success. She does not raise her voice when she does this.
+- **Multiattack:** Isolde makes two Sorin's Light attacks or casts one cantrip twice.
+- **Sorin's Light:** _Ranged spell attack, 60 ft._ Hit: 1d8 radiant damage. If the target is frightened, the damage increases to 2d8.
+  - *"Sorin, steady my hand."*
+- **God's Authority (3/Day).** Isolde calls upon one of the gods she serves. Each invocation can only be used once per day:
+
+| Invocation | Prayer | Effect |
+|---|---|---|
+| **Calder's Renewal** | *"Calder, mend what is broken."* | One creature within 30 ft regains 3d8+4 HP and has advantage on their next saving throw. |
+| **Sorin's Charge** | *"Sorin, steel their hearts."* | Up to 3 allies within 30 ft gain 10 temp HP and immunity to frightened for 1 minute. |
+| **Vessa's Binding** | *"Vessa, hear this oath."* | One creature within 60 ft, DC 15 CHA save. Bound by an oath of your choosing for 1 minute. Violating it deals 3d10 psychic damage and ends. |
+| **Aelura's Verdict** | *"Aelura, show them what they are."* | One creature within 60 ft, DC 15 WIS save. 6d8 radiant. On fail, they are revealed — invisibility, transformations, and illusions within 30 ft are suppressed for 1 round. Half on save. |
+| **Lirien's Mercy** | *"Lirien... grant them grace."* | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed. |
 
 ### Bonus Actions
 
-- **Healing Word (4/Day):** Isolde calls out to one worthy ally within 60 ft., restoring 1d6+4 HP.
+- **Sacred Favor:** At the start of each of Isolde's turns she generates one stack of Sacred Favor, max 6. As a bonus action she can distribute any number of her current stacks among a number of allies she can see equal to her Wisdom modifier (currently 4). Each stack distributed to an ally gives them the following benefits until the start of Isolde's next turn:
+  - +1 to attack rolls and saving throws per stack
+  - +1d4 healing received per stack whenever they regain HP from any source
+  - Stacks distributed to allies are consumed at the start of Isolde's next turn. Undistributed stacks carry over. At max stacks (6) Isolde must distribute at least one stack on her next turn or the excess burns away.
+- **Healing Word (4/Day):** Isolde calls out to one worthy ally within 60 ft, restoring 1d6+4 HP.
+  - *"The Goddess sees you."*
 
 ### Reactions
 
