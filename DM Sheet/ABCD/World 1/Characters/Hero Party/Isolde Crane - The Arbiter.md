@@ -3,6 +3,17 @@
 - **Status:** Alive
 - **Age:** 22
 
+- **Catchphrases:**
+
+| Mood | Lines |
+|---|---|
+| **Entrance** | "The Goddess heard your prayers." |
+| **Judgment / Condemnation** | "You stand condemned." / "The Goddess weeps for what you've become." / "Your sins have caught up with you." / "I have seen your heart. It is lacking." / "There is no repentance in you. Only excuses." |
+| **Combat / Divine Wrath** | "By Aelura's will — fall." / "The Goddess does not forgive the wicked." / "I am the instrument of her judgment." / "Beg for mercy. You will not find it." / "Burn." |
+| **About worthiness** | "I decide who is worthy. Not you. Not your pleas. Me." / "You ask if the Goddess forgives you. I ask — do you deserve it?" / "Faith is not enough. You must be worthy of it." / "The Goddess gave you a chance. You wasted it." |
+| **About mercy (rare)** | "Do not mistake my silence for forgiveness." / "Perhaps there is still light in you. Do not waste it." / "I will pray for you. That is more than you deserve." |
+| **Short / cutting** | "Guilty." / "Heretic." / "Repent." / "Kneel." / "Silence." / "Absolved." / "Fall." / "Weep." |
+
 ### Image
 ![[Pasted image 20260425185227.png|282]]
 
