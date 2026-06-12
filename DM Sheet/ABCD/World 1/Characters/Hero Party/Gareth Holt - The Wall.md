@@ -106,13 +106,13 @@ _Medium Humanoid (Human), Lawful Neutral_
 
 ### Story Notes (DM Only) — Optional Progression
 
-Gareth can warm up to the party if they earn his respect physically or understand what drives him. Entirely optional.
+Gareth can start to notice the party as people rather than obstacles. Entirely optional.
 
 | Stage | Trigger | Response |
 |---|---|---|
-| **1 — Match his strength** | A player meets him blow for blow, takes a hit he expected to drop them, or lands a hit that actually makes him feel it | "...Okay. That was something. Not enough. But something." / "You've got hands. I'll give you that." / "I felt that. Good. I was starting to get bored." |
-| **2 — Family** | A player acknowledges the Holt name without fawning — understands what it means to carry a name but not inherit it | "You know the Holt name? ...Huh. Most people just know the shield." / "Second son doesn't get the title. Just the weight." |
-| **3 — After the war** | A player asks what he's going to do when all the fighting is done — something he's never considered | "...I don't know. I've never thought about it." / "The Wall doesn't retire. What would I even do?" |
-| **4 — Payoff** | A player tells him he's more than just his strength or his name, especially after he's been knocked down for the first time | "...Maybe you're right. Maybe I don't have to be the Wall forever." |
+| **1 — You're still here** | The party survives a situation he assumed they wouldn't. He notices. | Nothing said. But next time, he glances at them when they enter the room. |
+| **2 — Pattern recognition** | He starts tracking how they handle things. | "You used that fire spell on the boar earlier. That was smart." Flat. Objective. |
+| **3 — He asks a question** | The party's approach didn't make sense to him and it's bothering him that he can't figure it out. | "Why did you do that? Not what I would have done. I'm trying to understand." |
+| **4 — He admits they're interesting** | The highest thing he can say about someone who isn't a direct threat. | "...You're interesting. I don't say that to anyone." (then walks away) |
 
-**The understanding:** He's never had an identity outside of fighting. The Holt name gave him purpose, but he never chose it. If someone shows him there's a life after the war — or that he's worth something even without the shield — that cracks the armor no weapon ever could.
+No emotional growth. No vulnerability. Just a guy who's never paid attention to anyone finally having to.
