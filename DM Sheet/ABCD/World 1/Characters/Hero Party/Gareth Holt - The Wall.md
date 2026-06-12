@@ -103,3 +103,16 @@ _Medium Humanoid (Human), Lawful Neutral_
 - Gareth has never been knocked down. The moment it happens — whoever does it — will be the most significant event of his life and he will have no framework for it
 - His fighting style has no answer for someone faster or more technically skilled than him — he has never needed one
 - [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] is a hard counter to everything Gareth is built around
+
+### Story Notes (DM Only) — Optional Progression
+
+Gareth can warm up to the party if they earn his respect physically or understand what drives him. Entirely optional.
+
+| Stage | Trigger | Response |
+|---|---|---|
+| **1 — Match his strength** | A player meets him blow for blow, takes a hit he expected to drop them, or lands a hit that actually makes him feel it | "...Okay. That was something. Not enough. But something." / "You've got hands. I'll give you that." / "I felt that. Good. I was starting to get bored." |
+| **2 — Family** | A player acknowledges the Holt name without fawning — understands what it means to carry a name but not inherit it | "You know the Holt name? ...Huh. Most people just know the shield." / "Second son doesn't get the title. Just the weight." |
+| **3 — After the war** | A player asks what he's going to do when all the fighting is done — something he's never considered | "...I don't know. I've never thought about it." / "The Wall doesn't retire. What would I even do?" |
+| **4 — Payoff** | A player tells him he's more than just his strength or his name, especially after he's been knocked down for the first time | "...Maybe you're right. Maybe I don't have to be the Wall forever." |
+
+**The understanding:** He's never had an identity outside of fighting. The Holt name gave him purpose, but he never chose it. If someone shows him there's a life after the war — or that he's worth something even without the shield — that cracks the armor no weapon ever could.
