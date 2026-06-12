@@ -14,6 +14,7 @@
 | **Calling someone worthless** | "I've met dirt that had more presence than you." / "You're talking. I can see that. I'm just not sure why." |
 | **When someone actually lands a hit** | "Oh? Oh. Okay that was — okay that was actually something. Good for you." / "Huh. I felt that. I'm impressed. You should write that down." / "Alright. You have my attention. That's not a good thing for you." |
 | **Short / ice cold** | "Wow." / "Cute." / "And?" / "No." / "Kneel." / "Enough." / "Walk away." |
+| **Entrance** | "Hope I'm not interrupting." |
 
 - **Background:** Born into one of the oldest noble houses still standing. His family has held their title for generations and has never let anyone forget it. The bloodline is everything — it determines worth, determines right, determines who matters and who doesn't. Kael absorbed this completely and without question. He was raised to believe that his birth alone placed him above the vast majority of humanity. Becoming the Hero did not change this worldview. It confirmed it. The Goddess chose him. Of course she did. How could she have chosen anyone else.
 
