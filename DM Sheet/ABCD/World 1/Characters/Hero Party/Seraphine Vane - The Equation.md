@@ -3,6 +3,14 @@
 - **Status:** Alive
 - **Age:** 20
 
+- **Catchphrases:**
+
+| Mood | Lines |
+|---|---|
+| **Dismissive / cold** | "Fascinating. No, really. I mean that." / "I see." / "That's an interesting theory." / "I don't have a response to that. I'm still processing how wrong it is." |
+| **Combat / tactical** | "Calculated." / "Inefficient." / "Noted." / "The target is no longer viable." / "Unnecessary." |
+| **Short / cutting** | "No." / "Correct." / "Obviously." / "Explain." / "Moving on." / "Dismissed." / "You're blocking my line of sight." |
+
 ### Image
 ![[Pasted image 20260425185001.png|290]]
 
