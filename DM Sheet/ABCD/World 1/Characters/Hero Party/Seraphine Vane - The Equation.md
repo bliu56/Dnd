@@ -92,3 +92,25 @@ _Medium Humanoid (Human), Lawful Neutral_
 - She is the only member of the Hero party who might actually recognize the players as a genuine variable worth calculating for
 - Her ward going down mid-fight is the moment she becomes dangerous in a different way — she has no answer for being in actual danger and will not handle it gracefully
 - She has never been in a fight she couldn't solve from range. That changes the moment someone closes the distance before she can react.
+
+---
+
+### Quick Reference — Spells
+
+| Spell | Range/AOE | Save | Effect |
+|---|---|---|---|
+| **Fire Bolt** (cantrip) | 120 ft / 1 target | +8 hit | 2d10 fire |
+| **Ray of Frost** (cantrip) | 60 ft / 1 target | +8 hit | 2d8 cold, -10 ft speed |
+| **Mage Hand** (cantrip) | 30 ft | — | Spectral hand, manipulate objects |
+| **Burning Hands** (1st) | 15 ft cone | DC 16 Dex | 3d6 fire |
+| **Thunderwave** (1st) | 15 ft cube | DC 16 Con | 2d8 thunder, push 10 ft |
+| **Shatter** (2nd) | 60 ft / 10 ft radius | DC 16 Con | 3d8 thunder |
+| **Aganazzar's Scorcher** (2nd) | 30x5 ft line | DC 16 Dex | 3d8 fire |
+| **Fireball** (3rd) | 150 ft / 20 ft radius | DC 16 Dex | 8d6 fire |
+| **Lightning Bolt** (3rd) | 100x5 ft line | DC 16 Dex | 8d6 lightning |
+| **Sleet Storm** (3rd) | 150 ft / 40 ft radius | DC 16 Con | Concentration. Creatures fall prone, extinguish flames, heavy obscurement |
+| **Ice Storm** (4th) | 300 ft / 20 ft radius | DC 16 Dex | 2d8 bludgeoning + 4d6 cold, difficult terrain |
+| **Vitriolic Sphere** (4th) | 150 ft / 20 ft radius | DC 16 Dex | 10d4 acid now + 5d4 acid end of target's next turn |
+| **Wall of Fire** (4th) | 120 ft / 60x20 line or 30 ft ring | DC 16 Dex | Concentration. 5d8 fire (adjacent) / 10d8 fire (inside) |
+| **Cone of Cold** (5th) | 60 ft cone | DC 16 Con | 8d8 cold |
+| **Cloudkill** (5th) | 120 ft / 20 ft radius | DC 16 Con | Concentration 10 min. 5d8 poison, moves 10 ft/turn away from caster |
