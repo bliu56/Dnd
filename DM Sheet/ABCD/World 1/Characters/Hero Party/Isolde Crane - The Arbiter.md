@@ -84,7 +84,19 @@ _Medium Humanoid (Human), Lawful Neutral_
 | **Sorin's Charge**   | *"Sorin, steel their hearts."*       | Up to 3 allies within 30 ft gain 10 temp HP and immunity to frightened for 1 minute.                                                                                                     |
 | **Vessa's Binding**  | *"Vessa, hear this oath."*           | One creature within 60 ft, DC 15 CHA save. Bound by an oath of your choosing for 1 minute. Violating it deals 3d10 psychic damage and ends.                                              |
 | **Aelura's Verdict** | *"Aelura, show them what they are."* | One creature within 60 ft, DC 15 WIS save. 6d8 radiant. On fail, they are revealed — invisibility, transformations, and illusions within 30 ft are suppressed for 1 round. Half on save. |
-| **Lirien's Mercy**   | *"Lirien... grant them grace."*      | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed.          |
+| **Lirien's Mercy** | *"Lirien... grant them grace."* | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed. |
+
+- **Divine Descent (1/Day).** Isolde opens herself fully, letting the gods channel their power directly through her. For 3 turns, she gains the following:
+  - Fly speed of 60 ft
+  - Can use any number of God's Authority invocations each turn without consuming their daily uses
+  - Her Sorin's Light deals an additional 1d8 radiant
+  - Regenerates 10 HP at the start of each turn
+  - Immune to frightened and charmed
+  - Gains access to **The Final Verdict**:
+
+  > **The Final Verdict.** *"Grant me strength so that I may keep my oath. Mend what is broken, steady what falters, and when all is weighed — let there be mercy."* A pillar of divine light descends on a point within 60 ft, erupting in a 30 ft radius. Each creature in the area makes a DC 15 Constitution save, taking 10d8 radiant damage on a fail or half on a success. Creatures of Isolde's choice within the area are unaffected.
+
+  After the 3rd turn, the power recedes violently. Isolde is reduced to 0 HP and falls unconscious. She stabilizes automatically after 1 minute.
 
 ### Bonus Actions
 
