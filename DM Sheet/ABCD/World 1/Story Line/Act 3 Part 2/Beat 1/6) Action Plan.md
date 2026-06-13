@@ -61,7 +61,7 @@ STARTING CAMP
 - A survivor outpost. Humans only. Everyone here lost their home to the war. Slightly more resentful toward the Church than toward demons.
 
 **Mid Point**
-- (TBD by DM)
+- [[dnd/DM Sheet/ABCD/World 1/Story Line/Act 3 Part 2/Beat 2/Mid Point|Mid Point]] — A former Church intelligence outpost, now held by about a dozen demons. Lootable before pushing on.
 
 **3-A — Fallowmere**
 - A village that the Church abandoned long ago. When Church soldiers returned to take resources by force, the villagers sided with demons who had been secretly helping them. A villager died trying to protect a demon. Now the villagers and demons are fighting together against the Church encampment outside the village.
