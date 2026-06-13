@@ -55,4 +55,7 @@ STARTING CAMP
 - The **spirit of the blade** manifests as a woman's form above the water. Speaks in fragments of forgotten things.
 
 **Hearthfen**
-- A human village with a secret. The village chief's daughter was not kidnapped by a demon — she ran away with one. They are in love. The chief calls it a kidnapping anyway. Some villagers know the truth. Some don't. Some pretend not to.
+- A human village with a secret. The village chief's daughter was not kidnapped by a demon — she ran away with one. They are in love. The chief calls it a kidnapping anyway.
+
+**Fallowmere**
+- A village that the Church abandoned long ago. When Church soldiers returned to take resources by force, the villagers sided with demons who had been secretly helping them. A villager died trying to protect a demon. Now the villagers and demons are fighting together against the Church encampment outside the village.
