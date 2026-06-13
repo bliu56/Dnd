@@ -64,4 +64,7 @@ STARTING CAMP
 - A survivor outpost. Humans only. Everyone here lost their home to the war. Slightly more resentful toward the Church than toward demons.
 
 **Healer's Hut**
-- A remote hut in the middle of nowhere. The healer is ancient and treats everyone — Church soldiers, civilians, and demons alike. No questions asked. No side taken. Armed neutrality enforced by reputation alone. No one knows how old they are or where they came from.
+- A remote hut. The healer is ancient and treats everyone — Church soldiers, civilians, and demons alike. No questions asked. No side taken.
+
+**Demon Encampment**
+- Not a military post. Just demons living their lives. Families, traders, people trying to survive the same war everyone else is. Passing through peacefully vs. attacking is a genuine choice.
