@@ -14,6 +14,20 @@ Then she opens her eyes, breathes out, and the smile returns.
 
 She doesn't push. Just holds the space open, warm, and waits.
 
+**If a player joins her:**
+
+She doesn't open her eyes, but a small smile crosses her face. She waits a moment — letting them settle — and then speaks softly:
+
+> *"Aelura, who sees what is hidden and holds what is broken: we come to you this morning with open hands. We do not ask for greatness, or for the weight of the world to lift. Only that you walk beside us in the hours ahead, steady our feet when the path is unclear, and remind us that even in shadow — we are not forgotten."*
+
+A pause. Then, quieter:
+
+> *"And if there is something they cannot yet speak — hold it for them until they are ready."*
+
+She opens her eyes and looks at whoever joined her with a warmth that is entirely unguarded.
+
+**Isolde:** "Thank you. The Goddess smiles upon our journey."
+
 ---
 
 **After the prayer:**
@@ -40,6 +54,5 @@ The warmth drains out of her face in an instant. Her hand, which had been reachi
 
 She pulls her hand back like she touched something hot.
 
-**Isolde:** (to the others, still cold) "Be careful with this one. There is something dark clinging to him. I do not know what bargain he has struck — but it was not with the Goddess."
-
 She turns away from Darrin without another word. The warmth doesn't return to her voice for the rest of the exchange.
+
