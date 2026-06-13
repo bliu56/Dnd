@@ -59,3 +59,6 @@ STARTING CAMP
 
 **Fallowmere**
 - A village that the Church abandoned long ago. When Church soldiers returned to take resources by force, the villagers sided with demons who had been secretly helping them. A villager died trying to protect a demon. Now the villagers and demons are fighting together against the Church encampment outside the village.
+
+**Trading Outpost (unnamed)**
+- A survivor outpost. Humans only. Everyone here lost their home to the war. Slightly more resentful toward the Church than toward demons. Not a settlement — just a place people landed and decided to stay. Built to survive, not to last.
