@@ -41,3 +41,10 @@ STARTING CAMP
 **Total decision points: 5**
 **Total locations visited: 5**
 **Guaranteed stops: Mid Point, Twin Peaks**
+
+---
+
+**Locations (to be detailed):**
+
+**Twin-Moon Lake**
+- A large, still lake. Home to a pair of identical fish — **Lux** and **Umbra**. One grants life, one takes it. You cannot tell them apart until you eat one. People don't risk it.
