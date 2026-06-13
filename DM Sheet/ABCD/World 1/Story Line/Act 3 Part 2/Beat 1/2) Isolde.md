@@ -56,3 +56,49 @@ She pulls her hand back like she touched something hot.
 
 She turns away from Darrin without another word. The warmth doesn't return to her voice for the rest of the exchange.
 
+---
+
+**The Recruitment**
+
+A beat of silence. Then Isolde takes a breath, and the warmth returns — but something else is burning underneath it.
+
+**Isolde:** "I need to say something. All of you — the Goddess didn't put you in my path by accident."
+
+She looks at them like she's seeing an opportunity she can't let pass.
+
+**Isolde:** "The world is burning. The Church is fractured. Good people are dying because they don't know where to turn. And here you are — alive, capable, already fighting on the right side."
+
+She steps closer.
+
+**Isolde:** "But fighting isn't enough. You need something to fight *for*. The Goddess offers that. Protection. Meaning. A family that will never abandon you."
+
+She looks at the group, searching their faces.
+
+**Isolde:** "I want you to consider it. Truly consider it. The light is open to anyone who reaches for it."
+
+**If a player seems receptive:**
+
+Isolde's eyes lock onto them immediately. Her voice drops — quieter, but it cuts deeper.
+
+**Isolde:** "You. You should join us. I mean it. Not sometime — now. You're exactly the kind of person the light needs."
+
+She steps closer to the receptive player.
+
+**Isolde:** "Come with me after this. Just you. I'll take you to a shrine. I'll show you what it means to hold the light in your hands. And I promise you — *nothing* will ever feel empty again."
+
+She looks at the others, then back at the player.
+
+**Isolde:** "This one understands. Look at them. The light is already reaching for them. All they have to do is take it."
+
+**Isolde:** (back to the receptive player, low) "Say yes. And your life changes. Today. Right now."
+
+**Maren:** (from the fire, not looking up) "She does this with everyone, by the way. She's not gonna stop."
+
+**Isolde:** (without breaking eye contact) "No. I'm not."
+
+**If no one seems receptive:**
+
+A pause. Then a small, determined smile.
+
+**Isolde:** "I know. It's a lot. You don't have to decide today. But the offer doesn't expire." (a beat) "I will ask again."
+
