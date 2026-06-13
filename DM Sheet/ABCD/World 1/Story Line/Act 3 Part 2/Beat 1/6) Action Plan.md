@@ -67,4 +67,10 @@ STARTING CAMP
 - A remote hut. The healer is ancient and treats everyone — Church soldiers, civilians, and demons alike. No questions asked. No side taken.
 
 **Demon Encampment**
-- Not a military post. Just demons living their lives. Families, traders, people trying to survive the same war everyone else is. Passing through peacefully vs. attacking is a genuine choice.
+- Not a military post. Just demons living their lives. Families, traders, people trying to survive the same war everyone else is.
+
+**Bandit Stronghold**
+- A fortified position overlooking a key stretch of road. Not aligned with Church or demons — they take from whoever passes.
+
+**Rogue Demon Cell**
+- A splinter group of demons that reject the Demon King's rule. They're cruel, violent, and indiscriminate — attacking villages, travelers, anyone. Hunted by the Demon King's forces and the Church alike. Everyone wants them gone. They're the one thing both sides agree on.
