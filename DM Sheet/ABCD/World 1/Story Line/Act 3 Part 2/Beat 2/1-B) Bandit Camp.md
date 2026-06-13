@@ -56,7 +56,7 @@ She tells old stories by the fire. From before the war. She's the only one who s
 
 A young mother. Her husband was conscripted by the Church and never came back. She has a child — maybe four or five — who doesn't fully understand what's happening. The child plays in the dirt near the camp's edge, unaware that their survival depends on strangers being scared enough to give up their food.
 
-The camp's protectiveness of this child is what keeps everyone from crossing the line into真正的violence. As long as there's a child here, they're still people.
+The camp's protectiveness of this child is what keeps everyone from crossing the line into true violence. As long as there's a child here, they're still people.
 
 ---
 
