@@ -73,4 +73,7 @@ STARTING CAMP
 - A fortified position overlooking a key stretch of road. Not aligned with Church or demons — they take from whoever passes.
 
 **Rogue Demon Cell**
-- A splinter group of demons that reject the Demon King's rule. They're cruel, violent, and indiscriminate — attacking villages, travelers, anyone. Hunted by the Demon King's forces and the Church alike. Everyone wants them gone. They're the one thing both sides agree on.
+- A splinter group of demons that reject the Demon King's rule. They're cruel, violent, and indiscriminate. Hunted by both sides.
+
+**Corrupted Treant's Lair**
+- A forest guardian driven mad by the war. The demon army has been trying to kill it for its core — a dense source of corrupted natural magic. The area around the lair is twisted: thorn walls, rotting ground, animals acting wrong. The treant doesn't leave its territory, but nothing that enters leaves unchanged.
