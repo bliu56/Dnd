@@ -75,7 +75,7 @@ _Medium Humanoid (Human), Lawful Neutral_
 		- Poisoned
 		- Exhaustion
 		  
-	- **_Strike_:** Once per turn when Kael hits with a melee attack he deals an additional 2d12 radiant damage.
+	- **_Strike_:** Once per turn when Kael hits with a melee attack he deals an additional 2d12 radiant damage and also automaticall crits.
 
 - **Legendary Resistance (1/Day):** If Kael fails a saving throw he can choose to succeed instead.
 

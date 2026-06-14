@@ -17,7 +17,7 @@ Weretiger: 9+8 = 17+8 = 25
 FDA1:
 FDA2: 9
 FDA3:
-FDA4:
+FDA4: 13
 FDA5:
 FDA6:
 FDA7: 17
