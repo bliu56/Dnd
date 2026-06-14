@@ -4,7 +4,7 @@ _Large fiend (demon knight), lawful evil_
 
 **Armor Class** 20 (corrupted plate, spiked tower shield) 
 **Hit Points** 119 (14d10 + 42) 
-Damage Taken: 50 + 17 = 67 + 25 = 93
+Damage Taken: 50 + 17 = 67 + 25 = 93 + 12 = 105
 **Speed** 25 ft.
 
 ---
