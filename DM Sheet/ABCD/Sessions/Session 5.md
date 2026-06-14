@@ -20,4 +20,11 @@ Conner takes it and then says if you can survive this strike you can live when W
 
 Weretiger died and two FDA died. The rest of FDA fled
 
+Umbra is odd, Lux is even
+
 Chris caught the Umbra Fish
+
+Pranav eats the Umbra Fish
+Pranav dies to the fish. 
+Consequences: Half points and real life consequences. Looks -1
+
