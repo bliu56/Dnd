@@ -2,21 +2,6 @@ _Scene: Isolde returns from morning prayers and greets the party._
 
 ---
 
-## Spells (Cleric L10, DC 16, +8)
-
-| Level | Spells |
-|-------|--------|
-| Cantrip | Guidance, Sacred Flame, Thaumaturgy |
-| 1st (4 slots) | Bless, Cure Wounds, Healing Word, Guiding Bolt |
-| 2nd (3 slots) | Spiritual Weapon, Prayer of Healing, Lesser Restoration |
-| 3rd (3 slots) | Spirit Guardians, Mass Healing Word, Beacon of Hope |
-| 4th (2 slots) | Death Ward, Guardian of Faith |
-| 5th (1 slot) | Greater Restoration, Mass Cure Wounds |
-
-*Always prepared: Bless, Cure Wounds, Aid, Lesser Restoration, Mass Healing Word, Revivify, Aura of Life, Death Ward, Greater Restoration, Mass Cure Wounds*
-
----
-
 Isolde emerges from wherever she went — returned from her morning prayers. She's the first of the Hero Party to come back to camp.
 
 **Isolde:** (warm, bright) "Oh, you're awake! Good morning, good morning."
