@@ -19,3 +19,5 @@ Conner asks for 20 gold. Weretiger only has 10.
 Conner takes it and then says if you can survive this strike you can live when Weretiger backs up assuming the deal was on.
 
 Weretiger died and two FDA died. The rest of FDA fled
+
+Chris caught the Umbra Fish
