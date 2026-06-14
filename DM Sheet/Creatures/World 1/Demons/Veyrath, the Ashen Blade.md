@@ -4,7 +4,7 @@ _Medium fiend (demonoid), neutral evil_
 
 **Armor Class** 17 (void-touched coat, arcane deflection) 
 **Hit Points** 110 (17d8 + 34) 
-Damage Taken: 9
+Damage Taken: 19
 **Speed** 40 ft.
 
 ---
