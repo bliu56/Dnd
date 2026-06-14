@@ -27,4 +27,5 @@ Chris caught the Umbra Fish
 Pranav eats the Umbra Fish
 Pranav dies to the fish. 
 Consequences: Half points and real life consequences. Looks -1
+Chris assault Pranav
 
