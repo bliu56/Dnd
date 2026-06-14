@@ -12,6 +12,12 @@ Decided to go to the Twin-Moon Lake.
 
 Encountered Weretiger and 8 Faerie Dragon Adult
 
+Weretiger and the fda was in an advantageous position
+Pranav requests hero party help. They help
+Weretiger asks for mercy.
+Conner asks for 20 gold. Weretiger only has 10.
+Conner 
+
 Combat Tracker:
 Weretiger: 9+8 = 17+8 = 25 +31 = 56 +32 = 88 +13 = 101 + 10 = 111
 FDA1:
