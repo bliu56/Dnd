@@ -92,10 +92,10 @@ _Medium Humanoid (Human), Lawful Neutral_
 | Invocation           | Prayer                               | Effect                                                                                                                                                                                   |
 | -------------------- | ------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Calder's Renewal** | *"Calder, mend what is broken."*     | One creature within 30 ft regains 3d8+4 HP and has advantage on their next saving throw.                                                                                                 |
-| **Sorin's Charge**   | *"Sorin, steel their hearts."*       | Up to 3 allies within 30 ft gain 10 temp HP and immunity to frightened for 1 minute.                                                                                                     |
+| **Sorin's Charge**   | *"Sorin, steel their hearts."*       | Up to 3 allies within 30 ft gain 10 temp HP and immunity to all conditions for 1 minute.                                                                                                 |
 | **Vessa's Binding**  | *"Vessa, hear this oath."*           | One creature within 60 ft, DC 15 CHA save. Bound by an oath of your choosing for 1 minute. Violating it deals 3d10 psychic damage and ends.                                              |
 | **Aelura's Verdict** | *"Aelura, show them what they are."* | One creature within 60 ft, DC 15 WIS save. 6d8 radiant. On fail, they are revealed — invisibility, transformations, and illusions within 30 ft are suppressed for 1 round. Half on save. |
-| **Lirien's Mercy** | *"Lirien... grant them grace."* | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed. |
+| **Lirien's Mercy**   | *"Lirien... grant them grace."*      | A creature reduced to 0 HP within the last minute is restored to 1 HP and all conditions end. If Isolde has judged them unworthy, the invocation fails and the use is consumed.          |
 
 - **Divine Descent (1/Day).** Isolde opens herself fully, letting the gods channel their power directly through her. For 3 turns, she gains the following:
   - Fly speed of 60 ft
