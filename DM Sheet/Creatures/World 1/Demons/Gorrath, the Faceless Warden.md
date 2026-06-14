@@ -20,7 +20,7 @@ _Large fiend (demon knight), lawful evil_
 
 _**Immovable Sentinel.**_ Gorrath cannot be knocked Prone, pushed, or pulled by any means. Forced movement effects automatically fail against him. He has advantage on all saving throws against spells or effects that would move him.
 
-_**Spiked Bulwark.**_ Any creature that hits Gorrath with a melee attack while he is wielding his tower shield takes 5 (1d10) piercing damage from the spikes as a reaction — no action required.
+_**Spiked Bulwark.**_ Any creature that hits Gorrath with a melee attack while he is wielding his tower shield takes 5 (1d10) piercing damage from the spikes.
 
 _**Wall of One.**_ While Gorrath is standing still (has not moved on his last turn), he has a +2 bonus to AC and cannot be flanked.
 

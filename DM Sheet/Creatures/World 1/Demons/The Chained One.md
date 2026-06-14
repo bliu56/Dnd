@@ -18,7 +18,7 @@ _Large fiend (demon-touched humanoid), chaotic evil_
 
 ### Traits
 
-_**Skull-Bound.**_ The skulls hanging from The Chained One's body are trophies of those it has slain. It has advantage on saving throws against being turned or banished. For every creature it has killed in the current encounter, it gains a cumulative +1 bonus to damage rolls (max +5).
+_**Skull-Bound.**_ The skulls hanging from The Chained One's body are trophies of those it has slain. It has advantage on saving throws against being banished. For every creature it has killed in the current encounter, it gains a cumulative +1 bonus to damage rolls (max +5).
 
 _**Inexorable.**_ The Chained One cannot be knocked Prone, pushed, or pulled by any effect of CR 8 or lower. Teleportation and forced movement effects automatically fail against it.
 
@@ -55,5 +55,11 @@ _**Dead Weight.**_ When a creature within 15 ft. attempts to move away from The 
 ### Encounter Tactics
 
 The Chained One moves toward the largest cluster of players and does not stop. It prioritizes Chain Lash to Restrain the most mobile threat, then uses its Spiked Maul on whoever is closest. It never retreats — it simply keeps walking forward, chains dragging, head bowed, until something stops it. Use _Drag Down_ the moment two creatures are grappled. If players attempt to flee, _Dead Weight_ punishes them for it.
+
+---
+
+### Roleplaying Notes
+
+The Chained One does not speak. It does not react to taunts or pleas. It simply walks forward, chains dragging, skulls clattering, and does not stop until everything in front of it is dead. There is no person left inside — only purpose. A DC 18 Religion check suggests this was once a paladin or holy warrior, bound to its own sins long after the man inside died.
 
 ![[d1.png]]

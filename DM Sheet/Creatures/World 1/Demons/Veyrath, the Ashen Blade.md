@@ -32,7 +32,7 @@ _**Demonic Focus.**_ Veyrath has advantage on Concentration saving throws. He ca
 
 _**Multiattack.**_ Veyrath makes two Ashen Blade attacks, or one Ashen Blade attack and casts one spell of 2nd level or lower without expending a spell slot.
 
-_**Ashen Blade.**_ _Melee Weapon Attack:_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage plus 7 (2d6) force damage. On a hit, the target must succeed on a DC 14 Constitution saving throw or have disadvantage on its next attack roll as violet smoke clouds their vision.
+_**Ashen Blade.**_ _Melee Weapon Attack (finesse):_ +7 to hit, reach 5 ft., one target. _Hit:_ 13 (2d8 + 4) slashing damage plus 7 (2d6) force damage. On a hit, the target must succeed on a DC 14 Constitution saving throw or have disadvantage on its next attack roll as violet smoke clouds their vision.
 
 _**Arcane Blast.**_ _Ranged Spell Attack:_ +6 to hit, range 60 ft., one target. _Hit:_ 18 (4d8) force damage. If the target is within 10 ft. of another creature, the blast erupts — the second creature must make a DC 14 Dexterity saving throw or take 9 (2d8) force damage.
 
