@@ -13,7 +13,7 @@ Decided to go to the Twin-Moon Lake.
 Encountered Weretiger and 8 Faerie Dragon Adult
 
 Combat Tracker:
-Weretiger: 9
+Weretiger: 9+8 = 17+8 = 25
 FDA1:
 FDA2:
 FDA3:
