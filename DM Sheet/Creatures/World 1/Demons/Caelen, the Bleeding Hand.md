@@ -2,7 +2,10 @@ _Medium fiend (demon-touched humanoid), neutral evil_
 
 ---
 
-**Armor Class** 15 (arcane sigil cloak, demonic attunement) **Hit Points** 104 (16d8 + 32) **Speed** 35 ft.
+**Armor Class** 15 (arcane sigil cloak, demonic attunement) 
+**Hit Points** 104 (16d8 + 32) 
+Damage Taken: 1
+**Speed** 35 ft.
 
 ---
 
