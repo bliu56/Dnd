@@ -15,7 +15,7 @@ Encountered Weretiger and 8 Faerie Dragon Adult
 Combat Tracker:
 Weretiger: 9+8 = 17+8 = 25
 FDA1:
-FDA2:
+FDA2: 9
 FDA3:
 FDA4:
 FDA5:
