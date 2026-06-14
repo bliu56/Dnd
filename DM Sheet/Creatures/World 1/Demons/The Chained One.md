@@ -56,6 +56,4 @@ _**Dead Weight.**_ When a creature within 15 ft. attempts to move away from The 
 
 The Chained One moves toward the largest cluster of players and does not stop. It prioritizes Chain Lash to Restrain the most mobile threat, then uses its Spiked Maul on whoever is closest. It never retreats — it simply keeps walking forward, chains dragging, head bowed, until something stops it. Use _Drag Down_ the moment two creatures are grappled. If players attempt to flee, _Dead Weight_ punishes them for it.
 
-
-
 ![[d1.png]]
