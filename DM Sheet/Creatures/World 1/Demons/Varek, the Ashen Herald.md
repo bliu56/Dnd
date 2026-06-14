@@ -4,7 +4,7 @@ _Medium undead (death herald), lawful evil_
 
 **Armor Class** 17 (thorn-plate, death's ward) 
 **Hit Points** 112 (15d8 + 45) 
-Damage Taken: 18 + 15 = 53 + 16 = 69 + 6 = 75 + 8 = 83
+Damage Taken: 18 + 15 = 53 + 16 = 69 + 6 = 75 + 8 = 83 + 13 = 96
 **Speed** 30 ft., hover 10 ft.
 
 ---
