@@ -2,38 +2,18 @@ _Scene: Isolde returns from morning prayers and greets the party._
 
 ---
 
-## Isolde — Quick Reference
+## Spells (Cleric L10, DC 16, +8)
 
-**Class:** Cleric (Level 10, Life Domain)
-**Spellcasting Ability:** Wisdom
-**Spell Save DC:** 16
-**Spell Attack Modifier:** +8
-**Channel Divinity:** 3 uses (regains 1 on Short Rest)
-
-### Always Prepared (Domain Spells)
 | Level | Spells |
 |-------|--------|
-| 1st | Bless, Cure Wounds |
-| 3rd | Aid, Lesser Restoration |
-| 5th | Mass Healing Word, Revivify |
-| 7th | Aura of Life, Death Ward |
-| 9th | Greater Restoration, Mass Cure Wounds |
+| Cantrip | Guidance, Sacred Flame, Thaumaturgy |
+| 1st (4 slots) | Bless, Cure Wounds, Healing Word, Guiding Bolt |
+| 2nd (3 slots) | Spiritual Weapon, Prayer of Healing, Lesser Restoration |
+| 3rd (3 slots) | Spirit Guardians, Mass Healing Word, Beacon of Hope |
+| 4th (2 slots) | Death Ward, Guardian of Faith |
+| 5th (1 slot) | Greater Restoration, Mass Cure Wounds |
 
-### Likely Combat Prep (pick what fits the situation)
-| Level | Spells | Use Case |
-|-------|--------|----------|
-| Cantrip | Guidance, Sacred Flame, Thaumaturgy | Utility, damage, presence |
-| 1st | Bless, Healing Word, Guiding Bolt | Buff 3 allies, bonus-heal, radiant damage |
-| 2nd | Spiritual Weapon, Prayer of Healing | Bonus action damage, out-of-combat heal |
-| 3rd | Spirit Guardians, Beacon of Hope | AoE damage+slow, max healing |
-| 4th | Death Ward, Guardian of Faith | Pre-death save, zone ward |
-| 5th | Greater Restoration, Mass Cure Wounds | Remove conditions, party-wide heal |
-
-### Class Features (short)
-- **Disciple of Life:** Healing spells restore +2 + spell level extra HP
-- **Preserve Life (CD):** Restore 5× cleric level HP, split among bloodied allies within 30 ft
-- **Blessed Strikes:** Once per turn, +1d8 radiant/necrotic on weapon hit
-- **Divine Spark (CD):** 2d8+Wis healing or radiant/necrotic damage (30 ft, Magic action)
+*Always prepared: Bless, Cure Wounds, Aid, Lesser Restoration, Mass Healing Word, Revivify, Aura of Life, Death Ward, Greater Restoration, Mass Cure Wounds*
 
 ---
 
