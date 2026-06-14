@@ -16,7 +16,9 @@ Weretiger and the fda was in an advantageous position
 Pranav requests hero party help. They help
 Weretiger asks for mercy.
 Conner asks for 20 gold. Weretiger only has 10.
-Conner 
+Conner takes it and then says if you can survive this strike you can live when Weretiger backs up assuming the deal was on.
+
+Weretiger died and two FDA died.
 
 Combat Tracker:
 Weretiger: 9+8 = 17+8 = 25 +31 = 56 +32 = 88 +13 = 101 + 10 = 111
