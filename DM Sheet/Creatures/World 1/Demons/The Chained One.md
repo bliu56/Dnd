@@ -12,7 +12,13 @@ _Large fiend (demon-touched humanoid), chaotic evil_
 
 ---
 
-**Saving Throws** Str +9, Con +6 **Skills** Athletics +9, Intimidation +4 (presence only) **Damage Immunities** Poison; bludgeoning from nonmagical weapons **Damage Resistances** Fire, necrotic, piercing and slashing from nonmagical weapons **Condition Immunities** Charmed, exhaustion, frightened, poisoned **Senses** Darkvision 60 ft., passive Perception 10 **Languages** Understands Abyssal and Common, does not speak **Challenge** 7 (2,900 XP) · Proficiency Bonus +3
+**Saving Throws** Str +9, Con +6 
+**Skills** Athletics +9, Intimidation +4 (presence only) 
+**Damage Immunities** Poison; bludgeoning from nonmagical weapons 
+**Damage Resistances** Fire, necrotic, piercing and slashing from nonmagical weapons **Condition Immunities** Charmed, exhaustion, frightened, poisoned 
+**Senses** Darkvision 60 ft., passive Perception 10 
+**Languages** Understands Abyssal and Common, does not speak 
+**Challenge** 7 (2,900 XP) · Proficiency Bonus +3
 
 ---
 

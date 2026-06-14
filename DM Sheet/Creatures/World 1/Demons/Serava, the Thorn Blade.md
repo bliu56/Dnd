@@ -12,7 +12,14 @@ _Medium fiend (demonoid), chaotic evil_
 
 ---
 
-**Saving Throws** Dex +8, Str +6, Con +5 **Skills** Acrobatics +8, Athletics +6, Perception +5, Intimidation +4 **Damage Immunities** Poison **Damage Resistances** Fire, necrotic, bludgeoning/piercing/slashing from nonmagical weapons **Condition Immunities** Charmed, frightened, poisoned **Senses** Darkvision 60 ft., passive Perception 15 **Languages** Abyssal, Common **Challenge** 7 (2,900 XP) · Proficiency Bonus +3
+**Saving Throws** Dex +8, Str +6, Con +5 
+**Skills** Acrobatics +8, Athletics +6, Perception +5, Intimidation +4 
+**Damage Immunities** Poison 
+**Damage Resistances** Fire, necrotic, bludgeoning/piercing/slashing from nonmagical weapons 
+**Condition Immunities** Charmed, frightened, poisoned 
+**Senses** Darkvision 60 ft., passive Perception 15 
+**Languages** Abyssal, Common 
+**Challenge** 7 (2,900 XP) · Proficiency Bonus +3
 
 ---
 

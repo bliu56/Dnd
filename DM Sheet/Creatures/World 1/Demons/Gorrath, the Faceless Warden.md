@@ -2,7 +2,10 @@ _Large fiend (demon knight), lawful evil_
 
 ---
 
-**Armor Class** 20 (corrupted plate, spiked tower shield) **Hit Points** 119 (14d10 + 42) **Speed** 25 ft.
+**Armor Class** 20 (corrupted plate, spiked tower shield) 
+**Hit Points** 119 (14d10 + 42) 
+Damage Taken: 11
+**Speed** 25 ft.
 
 ---
 
@@ -12,7 +15,14 @@ _Large fiend (demon knight), lawful evil_
 
 ---
 
-**Saving Throws** Str +8, Con +6, Wis +4 **Skills** Athletics +8, Perception +4, Intimidation +3 **Damage Immunities** Poison, fire **Damage Resistances** Necrotic, bludgeoning/piercing/slashing from nonmagical weapons **Condition Immunities** Charmed, exhaustion, frightened, poisoned **Senses** Darkvision 60 ft., passive Perception 14 **Languages** Abyssal, understands Common but does not speak **Challenge** 8 (3,900 XP) · Proficiency Bonus +3
+**Saving Throws** Str +8, Con +6, Wis +4 
+**Skills** Athletics +8, Perception +4, Intimidation +3 
+**Damage Immunities** Poison, fire 
+**Damage Resistances** Necrotic, bludgeoning/piercing/slashing from nonmagical weapons 
+**Condition Immunities** Charmed, exhaustion, frightened, poisoned 
+**Senses** Darkvision 60 ft., passive Perception 14 
+**Languages** Abyssal, understands Common but does not speak 
+**Challenge** 8 (3,900 XP) · Proficiency Bonus +3
 
 ---
 

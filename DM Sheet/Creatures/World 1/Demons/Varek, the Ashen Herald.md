@@ -12,7 +12,13 @@ _Medium undead (death herald), lawful evil_
 
 ---
 
-**Saving Throws** Str +7, Wis +6, Cha +7 **Skills** Arcana +5, Perception +6, Intimidation +7, Religion +5 **Damage Immunities** Poison, necrotic **Damage Resistances** Fire, cold, bludgeoning/piercing/slashing from nonmagical weapons **Condition Immunities** Charmed, exhaustion, frightened, paralyzed, poisoned **Senses** Darkvision 120 ft., truesight 30 ft., passive Perception 16 **Languages** Common, Abyssal, the language of the dead (cannot be learned) **Challenge** 8 (3,900 XP) · Proficiency Bonus +3
+**Saving Throws** Str +7, Wis +6, Cha +7 
+**Skills** Arcana +5, Perception +6, Intimidation +7, Religion +5 
+**Damage Immunities** Poison, necrotic 
+**Damage Resistances** Fire, cold, bludgeoning/piercing/slashing from nonmagical weapons 
+**Condition Immunities** Charmed, exhaustion, frightened, paralyzed, poisoned 
+**Senses** Darkvision 120 ft., truesight 30 ft., passive Perception 16 
+**Languages** Common, Abyssal, the language of the dead (cannot be learned) **Challenge** 8 (3,900 XP) · Proficiency Bonus +3
 
 ---
 

@@ -12,7 +12,13 @@ _Medium fiend (demon-touched humanoid), neutral evil_
 
 ---
 
-**Saving Throws** Dex +6, Int +7, Con +5 **Skills** Arcana +7, Perception +4, Deception +6, Medicine +4 **Damage Immunities** Poison **Damage Resistances** Necrotic, fire **Condition Immunities** Frightened, poisoned **Senses** Darkvision 60 ft., passive Perception 14 **Languages** Common, Abyssal, Infernal **Challenge** 7 (2,900 XP) · Proficiency Bonus +3
+**Saving Throws** Dex +6, Int +7, Con +5 
+**Skills** Arcana +7, Perception +4, Deception +6, Medicine +4 
+**Damage Immunities** Poison 
+**Damage Resistances** Necrotic, fire 
+**Condition Immunities** Frightened, poisoned **Senses** Darkvision 60 ft., passive Perception 14 
+**Languages** Common, Abyssal, Infernal 
+**Challenge** 7 (2,900 XP) · Proficiency Bonus +3
 
 ---
 
