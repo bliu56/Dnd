@@ -1,3 +1,37 @@
+> [!summary]- **Session 5 — Key Summary**
+> 
+> **Morning routines:**
+> - Everyone rejected Isolde's prayer except **Pranav** (volunteered music for Church)
+> - Everyone did Gareth's workout — **Andrew** best, **Pranav** worst
+> - **Pranav** failed to talk to Seraphine
+> - **Darrin** refused the pork stew
+> 
+> **Route:**
+> - Party lied about knowing the way → Hero Party found out → argument → **Isolde** calmed it down
+> - Chose: **Twin-Moon Lake**
+> 
+> **Weretiger + Faerie Dragons:**
+> - Party asked Hero Party for help. They helped.
+> - Conner extorted Weretiger (20g → 10g), then attacked anyway. Weretiger died.
+> - **Bowen** dropped from 210 ft → died → revived by Isolde
+> 
+> **Twin-Moon Lake — Lux & Umbra:**
+> - Odd bites = Umbra (death), even = Lux (life)
+> - **Chris** caught Umbra. **Pranav** ate Umbra → **died instantly**
+> - Consequences: Half points, real-life penalties, **Looks -1**
+> - Chris physically confronted Pranav
+> 
+> **Bandit Camp:**
+> - Party offered fish + copper → bandits stood down
+> - Chris demanded one join them → bandit chief offered himself → party made Chris leave
+> 
+> **Margrove (Mid Point):**
+> - Dead bodies everywhere. Demons inside.
+> - Plan: Hero Party top, players bottom → pincer
+> - Players rushed in. Hero Party hung back (deliberate test — explain later)
+> - **Caelen, the Bleeding Hand** escaped
+> - **Darrin** performed Mega Shatter using Seraphine's spell
+
 asked for expensive stuff when asked if they wanted anything
 
 Joined prayer - everyone reject but pranav volunteer for music for church
