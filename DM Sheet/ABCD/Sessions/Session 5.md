@@ -4,7 +4,9 @@ Joined prayer - everyone reject but pranav volunteer for music for church
 
 Everyone worked out and then Andrew did the best, Pranav did the worst
 
-Pranav tried to talk with Sera, failed
+Pranav tried to talk with [[Sera]], failed
+
+Darrin doesn't eat the pork stew in the morning.
 
 Asked if they knew the landmarks to go to Twin Peaks and they lied and tried to look like they did. Hero found out really quickly that they didnt know and got into arguement with them. Isolde calmed the situation down
 
@@ -29,11 +31,19 @@ Chris caught the Umbra Fish
 Pranav eats the Umbra Fish
 Pranav dies to the fish. 
 Consequences: Half points and real life consequences. Looks -1
-Chris assault Pranav
+Chris slightly assault Pranav
 
-Chris -> assulting (RTOC bird)
+Next location was a bandit ambush on the road.
+The party is able to convience the bandits who were normal citizens to stand down by offering fish. The party then also gave them some copper.
 
-Margrove is the hub
+Chris towards the end was like "one of you have to come with us". The Bandit chief thinking that this was what they had to give in exchanged offered himself up after encouraging his comrades. the party pushes chris to leave before they go through with it.
+
+
+
+
+Margrove is the midpoint location
+
+
 
 
 

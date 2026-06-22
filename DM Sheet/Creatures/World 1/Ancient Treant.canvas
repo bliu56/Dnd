@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"88c979251da9fa2d","x":-580,"y":-410,"width":980,"height":693,"type":"file","file":"Pasted image 20260613150732.png"}
+		{"id":"88c979251da9fa2d","type":"file","file":"dnd/Images/World1/Pasted image 20260613150732.png","x":-580,"y":-410,"width":980,"height":693}
 	],
 	"edges":[]
 }
