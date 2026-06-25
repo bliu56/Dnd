@@ -20,24 +20,26 @@ Kael, from across the clearing, quiet:
 
 > *"Darrin is on the ground. Gareth has one knee on his back, one arm twisted behind him. Not dead. Not dying. But not getting up without help."*
 >
-> *"Isolde steps between you and them. Arms open — not hostile, protective. She's looking at *you* — the rest of the party — like she's begging you to understand."*
+> *"Kael steps forward. He plants himself in front of Gareth — between you and Darrin. Arms loose. Ready."*
 >
-> *"Seraphine has repositioned. Flanking. Covering angles."*
+> *"Seraphine and Isolde have moved behind Gareth. Flanking the rear. Covering angles."*
 >
-> *"Kael hasn't moved. He's watching you. Waiting."*
+> *"Kael looks at you. Waiting."*
 
 ---
 
 **Phase 2 — The Standoff**
 
-The players have options:
-
 | If they... | Then... |
 |---|---|
-| Attack the Hero Party | Roll initiative. Hero Party fights to subdue, not kill. |
-| Demand an explanation | Isolde speaks. See evidence below. |
-| Stand down / listen | Hero Party explains. Relieved you're listening. |
-| Try to heal / free Darrin | Gareth tightens the pin. Darrin takes 1d4 damage. |
+| **Social** (explanation, questions, stand down, listen) | Isolde speaks. Hero Party presents the evidence. Scene plays through RP. |
+| **Combat** (attack, heal Darrin, free Darrin, any hostile action) | Before anyone rolls, Kael speaks. Then roll initiative. Hero Party fights to subdue, not kill. |
+
+**Kael's warning (if players indicate hostile intent):**
+
+> *"Try it. One move toward him — and he's dead. I'll put my blade through him before you reach us. Then we deal with the rest of you."*
+
+He means it. If the players push past this warning, roll initiative. If they stop, the social path opens.
 
 ---
 
