@@ -51,7 +51,8 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 |---|---|
 | "He didn't eat the blessed food. Everyone else did." | Isolde |
 | "I touched him and felt something dark. The Goddess has never been wrong." | Isolde |
-| "He used a spell that doesn't exist. I felt it when he pulled it from me — wrong. Cold." | Seraphine |
+| "He used a spell that doesn't exist. Mega Shatter is not in any record I've seen." | Seraphine |
+| "I felt something being *taken* from me when he pulled it. An evil feeling. Like something cold reached into my magic and tore a piece out." | Seraphine |
 | "He told us 3 demons. There were 5. Two were hiding." | Seraphine or Isolde |
 | "The demon escaped toward his crow. Toward the children. Not a coincidence." | Seraphine |
 
