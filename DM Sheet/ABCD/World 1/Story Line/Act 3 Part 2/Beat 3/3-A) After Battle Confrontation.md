@@ -63,17 +63,16 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 | Outcome | How |
 |---|---|
 | **Peaceful release** | Players must convince at least 2 Hero Party members. Each needs a specific angle. See below. |
-| **Compromise** | Darrin separated — walks at the back, watched at all times. Group continues fractured. |
 | **Fight** | Initiative. Hero Party subdues. Relationship permanently damaged. |
 
 **What sways each Hero Party member (guidelines, not scripts):**
 
-| Member | Their angle | What a convincing argument sounds like |
-|---|---|---|
-| **Kael** | Pragmatic, ego. He doesn't care about mercy — he cares about utility and respect. | An argument that frames releasing Darrin as the smart play — keeping him alive is useful, killing him is a waste, and if he betrays them, Kael can handle it himself later. Also appeals to his pride: he's confident enough to keep a potential threat alive and watch him. |
-| **Isolde** | Mercy vs. judgment. She wants to believe in redemption but defaults to judgment. | An argument that gives her permission to be merciful — Darrin's curse is not a choice, the Goddess would want to guide him toward the light, killing him before he's had a chance to find it is closing a door that should stay open. |
-| **Seraphine** | Logic, evidence, cold reasoning. | An argument that dismantles her evidence or reframes it statistically — the crow/demon escape is not proof, the Mega Shatter is suspicious but doesn't correlate to espionage, and executing based on circumstantial evidence is a net strategic loss. Watching him is the logical middle ground. |
-| **Gareth** | Directness, respect for action. | An argument that points to what Darrin *did* — he fought, he bled, he didn't run. Killing someone based on what they *might* do is not justice. If Gareth believes someone earned a chance through action, he'll back them. |
+| Member        | Their angle                                                                       | What a convincing argument sounds like                                                                                                                                                                                                                                                                                                                                                                                                              |
+| ------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Kael** | Pragmatic, ego | • Releasing him is the smart tactical play — a dead spy tells nothing<br>• Killing him wastes potential intel about the Unlit and his patron<br>• Kael is confident enough to keep him alive and watch him — proves superiority<br>• A watched spy is useful. A dead spy is just a body. |
+| **Isolde** | The Goddess recoiled from Darrin's darkness | • Acknowledge the darkness is real — don't deny it<br>• Argue it's a curse, not a choice — he didn't ask for the Unlit<br>• His past actions that offended the Goddess are behind him — he's not the same person<br>• Killing him for a power he was given, not chosen, is punishing a victim for their wound<br>• If the Goddess truly saw nothing redeemable, why is he still alive? Maybe there's a reason the light hasn't struck him down yet. |
+| **Seraphine** | Logic, evidence | • Crow + demon escape is correlation, not causation — not proof of espionage<br>• If Darrin was a spy, why reveal the Mega Shatter in front of everyone? That's the opposite of subtle<br>• Executing on circumstantial evidence is a net strategic loss<br>• Watch him, gather more data, decide later. That's the logical play. |
+| **Gareth** | Directness, action | • Darrin fought, bled, didn't run — that counts for something<br>• Killing someone for what they *might* do isn't justice, it's fear<br>• If he earned a chance through action, he deserves one<br>• Gareth can watch him himself — one wrong move and he handles it |
 
 **Running it at the table:**
 - Listen to what the players say. Identify which Hero Party member they're appealing to.
