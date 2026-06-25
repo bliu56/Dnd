@@ -139,6 +139,15 @@ The same presence. The same voice. The same offer.
 
 ---
 
+### If Party Loses
+
+More than half the players are down. Combat stops. The Hero Party stands over them, weapons ready. One final offer is made — give up Darrin.
+
+- **If players give him up:** He dies. See *If Darrin Dies* above.
+- **If players refuse:** A thick mist rolls in — summoned by the Mistweaver. Demons emerge from the fog and take the player party away to an unknown location. The Hero Party cannot follow.
+
+---
+
 ## DM Reference
 
 ### Why the Hero Party did this
