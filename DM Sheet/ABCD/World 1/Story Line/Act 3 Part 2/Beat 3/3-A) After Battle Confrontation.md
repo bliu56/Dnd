@@ -99,6 +99,9 @@ The player party wins the fight if **any one** of these triggers occurs. Otherwi
 
 ### If Darrin Dies
 
+*A tie. The players got what they wanted.*
+*But Darrin didn't make it. The Unlit claims his moment.*
+
 **The Unlit's Domain**
 
 Darrin's body falls. The world goes dark. When he opens his eyes, he is somewhere else. Not Margrove. Not the road. Somewhere he has been before — the Unlit's realm. Familiar from his dreams, but different now. More real. Permanent.
@@ -111,6 +114,14 @@ The Unlit is there. Waiting. They speak — about what went wrong, about the cho
 |---|---|---|
 | **Asks for more power / help** | The Unlit demands compensation — a body part of Darrin's choice. Darrin offers it. The Unlit takes it, then takes over Darrin's power temporarily. Enough to revive him or turn the tide. | The Unlit now owns that part of Darrin's body — in this world and in the soul's body. It carries over to real life and any future bodies. |
 | **Doesn't ask (accepts death)** | The Unlit lets him go. But takes a souvenir before releasing him. | Darrin loses his eyesight. When revived, he is blind. He can never see his collection — his anime, his figurines, anything. |
+
+---
+
+### If Pranav Hits 0 HP
+
+A shadow creature manifests. It cannot communicate. Its identity, origin, and purpose are unknown.
+
+*(To be detailed later.)*
 
 ---
 
