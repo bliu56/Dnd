@@ -86,14 +86,31 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 
 The player party wins the fight if **any one** of these triggers occurs. Otherwise, the Hero Party subdues them.
 
-| Trigger | What happens |
-|---|---|
-| **Pranav drops to 0 HP** | The shadow creature that has been following her since childhood finally manifests physically in this world. Battle shifts. |
-| **Darrin is killed** (not just down) | Consequences ripple. Something changes. |
-| **Chris drops to 0 HP** | The entity connected to their missing sister takes notice. It offers aid — at a price. |
-| **Bowen drops to 0 HP** | Same entity. Same offer. Same price. |
+| Trigger                              | What happens                                                                                                               |
+| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------- |
+| **Pranav drops to 0 HP**             | The shadow creature that has been following her since childhood finally manifests physically in this world. Battle shifts. |
+| **Darrin is killed** (not just down) | Consequences ripple. Something changes.                                                                                    |
+| **Chris drops to 0 HP**              | The entity connected to their missing sister takes notice. It offers aid — at a price.                                     |
+| **Bowen drops to 0 HP**              | Same entity. Same offer. Same price.                                                                                       |
 
 **DM note on Chris/Bowen's entity:** Vague for now. A chaotic entity that gives power at a cost. Not yet defined.
+
+---
+
+### If Darrin Dies
+
+**The Unlit's Domain**
+
+Darrin's body falls. The world goes dark. When he opens his eyes, he is somewhere else. Not Margrove. Not the road. Somewhere he has been before — the Unlit's realm. Familiar from his dreams, but different now. More real. Permanent.
+
+The Unlit is there. Waiting. They speak — about what went wrong, about the choices that led here.
+
+**Then a choice:**
+
+| If Darrin... | What happens | Permanent consequence |
+|---|---|---|
+| **Asks for more power / help** | The Unlit demands compensation — a body part of Darrin's choice. Darrin offers it. The Unlit takes it, then takes over Darrin's power temporarily. Enough to revive him or turn the tide. | The Unlit now owns that part of Darrin's body — in this world and in the soul's body. It carries over to real life and any future bodies. |
+| **Doesn't ask (accepts death)** | The Unlit lets him go. But takes a souvenir before releasing him. | Darrin loses his eyesight. When revived, he is blind. He can never see his collection — his anime, his figurines, anything. |
 
 ---
 
