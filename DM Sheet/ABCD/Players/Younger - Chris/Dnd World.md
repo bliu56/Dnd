@@ -6,4 +6,4 @@ Wizard
 Currently:
 Monk
 
-Died out of Combat 
+Died out of Combat - Notice by Outer God
