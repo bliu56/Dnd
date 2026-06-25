@@ -63,7 +63,20 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 | Outcome | How |
 |---|---|
 | **Peaceful release** | Players must convince at least 2 Hero Party members. Each needs a specific angle. See below. |
-| **Fight** | Initiative. Hero Party subdues. Relationship permanently damaged. |
+| **Fight** | Initiative. Hero Party fights to subdue, not kill. See below for hidden win conditions. |
+
+**If combat breaks out — hidden win conditions:**
+
+The player party wins the fight if **any one** of these triggers occurs. Otherwise, the Hero Party subdues them.
+
+| Trigger | What happens |
+|---|---|
+| **Pranav drops to 0 HP** | The shadow creature that has been following her since childhood finally manifests physically in this world. Battle shifts. |
+| **Darrin is killed** (not just down) | Consequences ripple. Something changes. |
+| **Chris drops to 0 HP** | The entity connected to their missing sister takes notice. It offers aid — at a price. |
+| **Bowen drops to 0 HP** | Same entity. Same offer. Same price. |
+
+**DM note on Chris/Bowen's entity:** Vague for now. A chaotic entity that gives power at a cost. Not yet defined.
 
 **What sways each Hero Party member (guidelines, not scripts):**
 
