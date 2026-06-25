@@ -2,7 +2,7 @@ _Scene: Immediately after the Margrove fight._
 
 ---
 
-**Phase 1 — The Signal**
+### Phase 1 — The Signal
 
 The Margrove fight is over. Exhaustion. Silence. The Hero Party is scattered — not postured, not ready.
 
@@ -28,7 +28,7 @@ Kael, from across the clearing, quiet:
 
 ---
 
-**Phase 2 — The Standoff**
+### Phase 2 — The Standoff
 
 | If they... | Then... |
 |---|---|
@@ -43,7 +43,7 @@ He means it. If the players push past this warning, roll initiative. If they sto
 
 ---
 
-**Phase 3 — The Evidence**
+### Phase 3 — The Evidence
 
 Isolde or Seraphine lays out the case. One piece at a time. Players can interrupt, question, or argue at any point.
 
@@ -58,14 +58,31 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 
 ---
 
-**Phase 4 — Resolution**
+### Phase 4 — Resolution
 
 | Outcome | How |
 |---|---|
-| **Peaceful release** | Players must convince at least 2 Hero Party members. Each needs a specific angle. See below. |
-| **Fight** | Initiative. Hero Party fights to subdue, not kill. See below for hidden win conditions. |
+| **Peaceful release** | Players must convince at least 2 Hero Party members. See below. |
+| **Fight** | Initiative. Hero Party fights to subdue. See hidden win conditions below. |
 
-**If combat breaks out — hidden win conditions:**
+#### Peaceful Release — What sways each member
+
+| Member | Their angle | What a convincing argument sounds like |
+|---|---|---|
+| **Kael** | Pragmatic, ego | • Releasing him is the smart tactical play — a dead spy tells nothing<br>• Killing him wastes potential intel about the Unlit and his patron<br>• Kael is confident enough to keep him alive and watch him — proves superiority<br>• A watched spy is useful. A dead spy is just a body. |
+| **Isolde** | The Goddess recoiled from Darrin's darkness | • Acknowledge the darkness is real — don't deny it<br>• Argue it's a curse, not a choice — he didn't ask for the Unlit<br>• His past actions that offended the Goddess are behind him — he's not the same person<br>• Killing him for a power he was given, not chosen, is punishing a victim for their wound<br>• If the Goddess truly saw nothing redeemable, why is he still alive? Maybe there's a reason the light hasn't struck him down yet. |
+| **Seraphine** | Logic, evidence | • Crow + demon escape is correlation, not causation — not proof of espionage<br>• If Darrin was a spy, why reveal the Mega Shatter in front of everyone? That's the opposite of subtle<br>• Executing on circumstantial evidence is a net strategic loss<br>• Watch him, gather more data, decide later. That's the logical play. |
+| **Gareth** | Directness, action | • Darrin fought, bled, didn't run — that counts for something<br>• Killing someone for what they *might* do isn't justice, it's fear<br>• If he earned a chance through action, he deserves one<br>• Gareth can watch him himself — one wrong move and he handles it |
+
+**Running it at the table:**
+- Identify which member the players are appealing to
+- If the argument matches the angle, that member is swayed
+- Need **at least 2 swayed** for peaceful release
+- **Kael + Seraphine** = logical majority overrules Isolde/Gareth
+- **Isolde + Gareth** = moral majority softens Kael/Seraphine
+- **Kael + Gareth** = practical majority gets it done quickly
+
+#### Fight — Hidden Win Conditions
 
 The player party wins the fight if **any one** of these triggers occurs. Otherwise, the Hero Party subdues them.
 
@@ -78,34 +95,17 @@ The player party wins the fight if **any one** of these triggers occurs. Otherwi
 
 **DM note on Chris/Bowen's entity:** Vague for now. A chaotic entity that gives power at a cost. Not yet defined.
 
-**What sways each Hero Party member (guidelines, not scripts):**
-
-| Member        | Their angle                                                                       | What a convincing argument sounds like                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ------------- | --------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Kael** | Pragmatic, ego | • Releasing him is the smart tactical play — a dead spy tells nothing<br>• Killing him wastes potential intel about the Unlit and his patron<br>• Kael is confident enough to keep him alive and watch him — proves superiority<br>• A watched spy is useful. A dead spy is just a body. |
-| **Isolde** | The Goddess recoiled from Darrin's darkness | • Acknowledge the darkness is real — don't deny it<br>• Argue it's a curse, not a choice — he didn't ask for the Unlit<br>• His past actions that offended the Goddess are behind him — he's not the same person<br>• Killing him for a power he was given, not chosen, is punishing a victim for their wound<br>• If the Goddess truly saw nothing redeemable, why is he still alive? Maybe there's a reason the light hasn't struck him down yet. |
-| **Seraphine** | Logic, evidence | • Crow + demon escape is correlation, not causation — not proof of espionage<br>• If Darrin was a spy, why reveal the Mega Shatter in front of everyone? That's the opposite of subtle<br>• Executing on circumstantial evidence is a net strategic loss<br>• Watch him, gather more data, decide later. That's the logical play. |
-| **Gareth** | Directness, action | • Darrin fought, bled, didn't run — that counts for something<br>• Killing someone for what they *might* do isn't justice, it's fear<br>• If he earned a chance through action, he deserves one<br>• Gareth can watch him himself — one wrong move and he handles it |
-
-**Running it at the table:**
-- Listen to what the players say. Identify which Hero Party member they're appealing to.
-- If the argument matches the angle above, that member is swayed.
-- Need **at least 2 swayed** for peaceful release.
-- **Kael + Seraphine** = logical majority overrules Isolde/Gareth.
-- **Isolde + Gareth** = moral majority softens Kael/Seraphine.
-- **Kael + Gareth** = practical majority gets it done quickly.
-
 ---
 
-**DM Notes — The Hero Party's Reasoning**
+## DM Reference
 
-*(For DM reference.)*
+### Why the Hero Party did this
 
----
+- They don't trust strangers. Player party could be demons in disguise, contracted agents, or sympathizers.
+- They ran deliberate tests all morning. The results pointed to Darrin.
+- They acted first, explained second — so Darrin couldn't prepare or flee.
 
-**Why Hero Party held back:** Deliberate. They don't trust strangers. Player party could be demons in disguise, contracted agents, sympathizers. They ran tests all morning.
-
-**The 4 Tests & Results:**
+### The 4 Tests & Results
 
 | Test | What Happened | Darrin's Flag |
 |---|---|---|
@@ -114,17 +114,17 @@ The player party wins the fight if **any one** of these triggers occurs. Otherwi
 | **3. Isolde's touch** | Saw honest pain in others | Recoiled from Darrin — felt something dark |
 | **4. Battle** | See below | Multiple red flags |
 
-**Evidence against Darrin:**
+### Evidence Against Darrin (DM summary)
 
 | Event | Why it's suspicious |
 |---|---|
 | Mega Shatter | Not a known spell. Seraphine felt *something wrong* when he pulled it from her — cold, unnatural |
 | Caelen escaped toward the children | Where Darrin's crow was positioned. Convenient escape route |
-| Claimed 3 demons inside | There were 5. Two were hidden, waiting to flank. Mistake or intentional misdirection? |
+| Claimed 3 demons inside | There were 5. Two were hidden, waiting to flank. Mistake or misdirection? |
 
-**Conclusion:**
+### Conclusion
 
 - The rest of the player party — Connor, Bowen, Pranav, Andrew, Chris — are genuine. Flawed but real.
-- **Darrin is the spy.** The pattern is clear: restless night + refused blessed food + Isolde's recoil + unexplained magic + false intel + demon escaped to his crow's position.
+- **Darrin is the spy.** The pattern: restless night + refused blessed food + Isolde's recoil + unexplained magic + false intel + demon escaped to his crow's position.
 - The Hero Party believes he infiltrated the group to mislead them.
 - **He cannot be allowed to continue with this group.**
