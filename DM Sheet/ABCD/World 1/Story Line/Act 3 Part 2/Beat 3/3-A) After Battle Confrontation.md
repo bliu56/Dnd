@@ -62,9 +62,26 @@ Isolde or Seraphine lays out the case. One piece at a time. Players can interrup
 
 | Outcome | How |
 |---|---|
-| **Peaceful release** | Players convince them Darrin isn't a spy. Gareth releases him. Kael: *"He's watched. One reason — one — and I'll end him."* |
+| **Peaceful release** | Players must convince at least 2 Hero Party members. Each needs a specific angle. See below. |
 | **Compromise** | Darrin separated — walks at the back, watched at all times. Group continues fractured. |
 | **Fight** | Initiative. Hero Party subdues. Relationship permanently damaged. |
+
+**What sways each Hero Party member (guidelines, not scripts):**
+
+| Member | Their angle | What a convincing argument sounds like |
+|---|---|---|
+| **Kael** | Pragmatic, ego. He doesn't care about mercy — he cares about utility and respect. | An argument that frames releasing Darrin as the smart play — keeping him alive is useful, killing him is a waste, and if he betrays them, Kael can handle it himself later. Also appeals to his pride: he's confident enough to keep a potential threat alive and watch him. |
+| **Isolde** | Mercy vs. judgment. She wants to believe in redemption but defaults to judgment. | An argument that gives her permission to be merciful — Darrin's curse is not a choice, the Goddess would want to guide him toward the light, killing him before he's had a chance to find it is closing a door that should stay open. |
+| **Seraphine** | Logic, evidence, cold reasoning. | An argument that dismantles her evidence or reframes it statistically — the crow/demon escape is not proof, the Mega Shatter is suspicious but doesn't correlate to espionage, and executing based on circumstantial evidence is a net strategic loss. Watching him is the logical middle ground. |
+| **Gareth** | Directness, respect for action. | An argument that points to what Darrin *did* — he fought, he bled, he didn't run. Killing someone based on what they *might* do is not justice. If Gareth believes someone earned a chance through action, he'll back them. |
+
+**Running it at the table:**
+- Listen to what the players say. Identify which Hero Party member they're appealing to.
+- If the argument matches the angle above, that member is swayed.
+- Need **at least 2 swayed** for peaceful release.
+- **Kael + Seraphine** = logical majority overrules Isolde/Gareth.
+- **Isolde + Gareth** = moral majority softens Kael/Seraphine.
+- **Kael + Gareth** = practical majority gets it done quickly.
 
 ---
 
