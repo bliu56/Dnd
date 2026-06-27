@@ -29,7 +29,7 @@ languages: "Understands Sylvan and Common but does not speak"
 cr: "11"
 traits:
   - name: "Spore Cloud"
-    desc: "At the start of each of the Mistweaver's turns, a 30 ft radius cloud of magical spores erupts from its body, heavily obscuring the area for 1 minute. Any creature that starts its turn in the cloud or enters it for the first time on a turn takes 7 (2d6) psychic damage and must make a DC 17 Constitution save or become disoriented for 1 minute. While disoriented: the creature cannot take reactions, and at the start of each of its turns it must roll a d8 to determine a random direction — it moves 10 ft in that direction before taking any other action. A creature can repeat the save at the end of each of its turns."
+    desc: "At the start of each of the Mistweaver's turns, a 60 ft radius cloud of magical spores erupts from its body, heavily obscuring the area for 1 minute. Any creature that starts its turn in the cloud or enters it for the first time on a turn takes 7 (2d6) psychic damage and must make a DC 17 Constitution save or become disoriented for 1 minute. While disoriented: the creature cannot take reactions, and at the start of each of its turns it must roll a d8 to determine a random direction — it moves 10 ft in that direction before taking any other action. A creature can repeat the save at the end of each of its turns."
   - name: "Spore Sensitivity"
     desc: "The Mistweaver is immune to its own Spore Cloud and sees through it perfectly. It knows the exact location of every creature inside the cloud at all times."
   - name: "Canopy Camouflage"
