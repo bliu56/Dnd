@@ -9,5 +9,5 @@
 **Personality:** Chaotic. Gives power freely but always collects. Friendly on the surface — the danger is hidden behind charm.
 
 *(To be detailed.)*
-
+![[Pasted image 20260626224859.jpg]]
 ![[Pasted image 20260626223220.jpg]]
