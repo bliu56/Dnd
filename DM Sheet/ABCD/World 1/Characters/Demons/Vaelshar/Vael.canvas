@@ -1,6 +1,6 @@
 {
 	"nodes":[
-		{"id":"a2b67a1252634c51","x":-460,"y":-220,"width":400,"height":400,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Demons/Vaelshar/Vaelshar.png"},
+		{"id":"a2b67a1252634c51","x":-460,"y":-220,"width":400,"height":400,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Demons/Vaelshar/Image/Vaelshar.png"},
 		{"id":"c13860826974a57b","x":-20,"y":-220,"width":740,"height":1040,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Demons/Vaelshar/Vaelshar.md"}
 	],
 	"edges":[]
