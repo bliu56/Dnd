@@ -7,23 +7,23 @@ name: "The Fragment"
 size: "Large"
 type: "fiend (shapeless)"
 alignment: "unaligned"
-ac: 14
-hp: 105
-hit_dice: "10d10 + 50"
+ac: 16
+hp: 138
+hit_dice: "12d10 + 72"
 speed: "30 ft., climb 30 ft."
-stats: [17, 15, 20, 5, 13, 7]
+stats: [18, 16, 22, 5, 14, 7]
 saves:
-  - dex: "+5"
-  - con: "+8"
-  - wis: "+4"
+  - dex: "+7"
+  - con: "+10"
+  - wis: "+6"
 skillsaves:
-  - perception: "+1"
+  - perception: "+2"
 damage_resistances: "cold, necrotic; bludgeoning, piercing, slashing from nonmagical attacks"
 damage_immunities: "poison, psychic"
 condition_immunities: "charmed, frightened, paralyzed, poisoned, prone"
-senses: "blindsight 30 ft. (blind beyond this radius), darkvision 120 ft., passive Perception 11"
+senses: "blindsight 60 ft. (blind beyond this radius), darkvision 120 ft., passive Perception 12"
 languages: "understands Infernal but cannot speak or communicate in any way"
-cr: "7"
+cr: "9"
 traits:
   - name: "Bound to the Ward"
     desc: "The fragment is anchored to Pranav and cannot willingly move more than 1 mile from her. If forced beyond this range, it is banished back into dormancy within her and cannot manifest again for 24 hours."
@@ -35,17 +35,19 @@ traits:
     desc: "The fragment has advantage on saving throws against spells and other magical effects."
   - name: "Severed Mind"
     desc: "Immune to any spell or effect that reads, charms, or communicates with a mind (detect thoughts, suggestion, etc.)."
-  - name: "Innate Spellcasting"
-    desc: "The fragment can innately cast the following spells, requiring no components: 1/day each: darkness, fear."
+  - name: "The Appetite (1/Day)"
+    desc: "As a bonus action, the fragment designates one creature it can see as Prey for 1 minute. The fragment has advantage on attack rolls against that creature. Whenever it damages the Prey, it heals 1d8 HP. If the Prey drops to 0 HP, the fragment's next ability this turn restores an additional 2d8 HP."
 actions:
   - name: "Multiattack"
-    desc: "The fragment makes two Tendril Lash attacks."
-  - name: "Tendril Lash"
-    desc: "Melee Weapon Attack: +7 to hit, reach 15 ft., one target. Hit: 15 (3d6 + 5) slashing damage. If the target is Medium or smaller, it must succeed on a DC 15 Strength saving throw or be grappled (escape DC 15). The fragment can grapple up to two creatures at once."
-  - name: "Engulf"
-    desc: "The fragment engulfs one creature it is grappling. The target is blinded, restrained, and unable to breathe, taking 9 (2d8) necrotic damage at the start of each of its turns. A creature within 5 feet can take an action to pull the engulfed creature out with a DC 15 Strength check, ending the condition."
-  - name: "Shriek of the Severed (Recharge 5–6)"
-    desc: "The fragment emits a sound felt more than heard. Each creature within 20 feet that the fragment perceives as a threat must make a DC 13 Wisdom saving throw. On a failure: 16 (3d10) psychic damage and frightened for 1 minute. On a success: half damage, not frightened."
+    desc: "The fragment makes two attacks from its spell-like abilities."
+  - name: "Course 1 — Flesh Spear"
+    desc: "Ranged spell attack, +8 to hit, 60 ft. Hit: 18 (4d8) piercing damage. The target's speed is reduced by 10 ft until the end of its next turn as it tears black-flesh shards from the wound."
+  - name: "Course 2 — Binding Flesh"
+    desc: "Ranged spell attack, +8 to hit, 30 ft. Hit: 10 (3d6) necrotic damage. Tendrils of shadow-flesh erupt and wrap the target's legs. The target must succeed on a DC 15 Strength save or be restrained until the end of its next turn. Can repeat the save as an action."
+  - name: "Course 3 — Consuming Bite"
+    desc: "The fragment's neck stretches unnaturally, its featureless head sailing forward like a serpent. Melee spell attack, +8 to hit, reach 15 ft. Hit: 14 (4d6) piercing damage. The fragment regains HP equal to half the damage dealt. The target must make a DC 15 Wisdom save or be frightened of the fragment until the end of its next turn."
+  - name: "Course 3 (Alternative) — The Groundmouth"
+    desc: "The fragment slams both hands into the ground. Jagged teeth erupt from the earth beneath one creature within 30 ft. The target must make a DC 15 Dexterity save. On a failure: piercing damage equal to 3d6 + 1d6 for every 10 HP the target is missing (max 6d6). On a success: half damage."
 reactions:
   - name: "Protective Surge"
     desc: "When the Ward takes damage from a creature the fragment perceives as hostile, the fragment can move up to its full speed toward that creature without provoking opportunity attacks."
