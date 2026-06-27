@@ -123,7 +123,9 @@ A shadow creature manifests. It cannot communicate. Its identity, origin, and pu
 
 *(To be detailed later.)*
 
----### If Chris Hits 0 HP
+---
+
+### If Chris Hits 0 HP
 
 An outer god reaches out. Chris's mind goes dark, and a voice speaks — not in words, but in presence. An offer is made. The terms are not yet clear.
 
