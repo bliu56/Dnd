@@ -17,7 +17,7 @@
 | **Entrance** | "I'm itching for a warm-up. Anyone volunteer?" |
 
 ### Image
-![[Pasted image 20260425184818.png|355]]
+![[Image/Pasted image 20260425184818.png|355]]
 
 ### Background
 

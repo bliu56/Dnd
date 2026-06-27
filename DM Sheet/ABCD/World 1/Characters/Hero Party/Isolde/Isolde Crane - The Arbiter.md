@@ -15,7 +15,7 @@
 | **Short / cutting** (cold) | "Guilty." / "Heretic." / "Repent." / "Kneel." / "Silence." / "Fall." |
 
 ### Image
-![[Pasted image 20260425185227.png|282]]
+![[Image/Pasted image 20260425185227.png|282]]
 
 ### Background
 

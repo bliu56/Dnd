@@ -13,7 +13,7 @@
 | **Entrance** | "You're here." |
 
 ### Image
-![[Pasted image 20260425185001.png|290]]
+![[Image/Pasted image 20260425185001.png|290]]
 
 ### Background
 
