@@ -1,7 +1,10 @@
 {
 	"nodes":[
+		{"id":"3aa1375f93b34bac","x":-646,"y":-93,"width":1406,"height":953,"color":"6","type":"group","label":"Isolde"},
 		{"id":"17a634db51401d85","x":-626,"y":-73,"width":548,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Isolde/Image/Pasted image 20260425185227.png"},
-		{"id":"f2a7c503868f295c","x":-40,"y":-73,"width":780,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Isolde/Isolde - Statblock.md"}
+		{"id":"f2a7c503868f295c","x":-40,"y":-73,"width":780,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Isolde/Isolde - Statblock.md"},
+		{"id":"22bcbeb3caca9e31","x":1200,"y":-73,"width":505,"height":898,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Seraphine/Image/Pasted image 20260425185001.png"},
+		{"id":"ae4911e80c37ab6f","x":1760,"y":-73,"width":800,"height":898,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Seraphine/Seraphine - Statblock.md"}
 	],
 	"edges":[]
 }
