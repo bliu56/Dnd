@@ -36,7 +36,7 @@
 - Neutral, slightly positive
 - He knows what they went through together. That counts for something even if he doesn't say so
 
-### Relationship with [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]]'s Memory
+### Relationship with [[Michael|Michael]]'s Memory
 
 - Unresolved
 - He respected Michael more than he ever said out loud and never got the chance to say it

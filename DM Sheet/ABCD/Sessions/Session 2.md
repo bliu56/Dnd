@@ -15,10 +15,10 @@ The Mimic was waiting. It posed as an injured older sister — Bowen's fear, pul
 
 The Mimic wasn't purely interested in killing them. It made deals throughout the encounter — multiple offers, different framings, probing for what the party would accept. They didn't take any of them. Pranav spent the fight trying to find loopholes in the wording anyway, looking for an angle even while refusing. It didn't work but the instinct was right.
 
-John made clear during the chaos that Luna's life mattered more to him than his own safety. He didn't announce it — it just showed in how he moved.
+[[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] made clear during the chaos that Luna's life mattered more to him than his own safety. He didn't announce it — it just showed in how he moved.
 
 ---
-**[[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]]**
+**[[Michael|Michael]]**
 
 Michael passed the Hero's Box to one of the party members quietly, without the Mimic seeing the exchange. Then he ran in the opposite direction, drawing Vael'shar away from the party. He didn't come back.
 
