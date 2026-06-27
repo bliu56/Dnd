@@ -24,7 +24,7 @@
 
 **The Two Remaining Parties**
 
-_Group 1 — [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|Luna]], [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]], and Church Survivors_
+_Group 1 — [[Luna (Act 3)|Luna]], [[John (Act 3)|John]], and Church Survivors_
 
 - A small remnant of the Church still operating, held together largely by John and Luna
 - No institutional backing, no resources beyond what they carry

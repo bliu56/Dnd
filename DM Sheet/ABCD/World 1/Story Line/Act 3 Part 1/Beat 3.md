@@ -36,7 +36,7 @@ He does not know who survives in any official capacity. The Church as an institu
 
 What he does know are two things:
 
-**[[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] and [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|Luna]]'s group** — he received word before the attack. They are alive, operating somewhere to the east, a Church remnant holding together through sheer will. He has a rough location.
+**[[John (Act 3)|John]] and [[Luna (Act 3)|Luna]]'s group** — he received word before the attack. They are alive, operating somewhere to the east, a Church remnant holding together through sheer will. He has a rough location.
 
 **The Hero Party** — also alive. Moving in the opposite direction, to the west. He has heard they are pushing toward demon territory directly. He does not say this with admiration.
 

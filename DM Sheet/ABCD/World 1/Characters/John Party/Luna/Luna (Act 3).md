@@ -9,7 +9,7 @@
 - Served under [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]] as his student until his death at the end of Act 1
 - Continued her career in the Church following Michael's passing, throwing herself into training
 - No longer early in her career — two years of deliberate, grief-driven growth have made her formidable
-- Traveled and fought alongside [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]], developing into a true all-rounder: healing, support, damage, and defense in equal measure
+- Traveled and fought alongside [[John (Act 3)|John]], developing into a true all-rounder: healing, support, damage, and defense in equal measure
 - Still devoted to the Goddess and the Church's mission, though Michael's absence has quietly shifted how she carries that faith — it is more personal now, less institutional
 
 ### Personality

@@ -16,7 +16,7 @@ Key points:
 
 ---
 
-## Option B — [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] and [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|Luna]] (East)
+## Option B — [[John (Act 3)|John]] and [[Luna (Act 3)|Luna]] (East)
 
 Key points:
 

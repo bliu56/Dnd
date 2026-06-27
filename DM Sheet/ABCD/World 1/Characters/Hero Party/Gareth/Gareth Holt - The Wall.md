@@ -56,7 +56,7 @@ Gareth plants himself and dares things to move him. His shield is not purely def
 
 - Gareth has never been knocked down. The moment it happens — whoever does it — will be the most significant event of his life and he will have no framework for it
 - His fighting style has no answer for someone faster or more technically skilled than him — he has never needed one
-- [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] is a hard counter to everything Gareth is built around
+- [[John (Act 3)|John]] is a hard counter to everything Gareth is built around
 
 ### Story Notes (DM Only) — Optional Progression
 

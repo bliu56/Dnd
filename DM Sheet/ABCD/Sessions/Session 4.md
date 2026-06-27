@@ -98,7 +98,7 @@ Everyone looted body of the church - gods will not look favorably at this
 Conner -dignity 
 Conner has the worst out of everyone (constant 1's)
 Went to the hero's party
-Know about [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|luna]] is a bishop
+Know about [[Luna (Act 3)|luna]] is a bishop
 Hero party + 2 church attendants
 Convinced to go to Ashenveil 
 

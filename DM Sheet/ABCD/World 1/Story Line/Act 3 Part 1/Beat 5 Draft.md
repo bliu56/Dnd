@@ -50,11 +50,11 @@ The third day is the hardest.
 
 _Encounter 5 — The Liger's Warning_ The Liger appears. Not to fight — to be seen. It emerges from the treeline ahead of the players, looks at them for a long moment, and then is gone back into the trees. It does not attack. It does not need to. Its presence means Tristan knows exactly where they are and has decided to let them know he knows.
 
-If [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] is with the party his jaw tightens. He does not say anything.
+If [[John (Act 3)|John]] is with the party his jaw tightens. He does not say anything.
 
 _Encounter 6 — The Pass_ The path between the twin peaks is the only way through to the Ashen Vale. It is also narrow, exposed, and currently occupied by a demon garrison — not a patrol, a stationary force. Thirty soldiers, a fortified position, two entrances both watched.
 
-This is the setpiece of the journey. Players have to get through. How is entirely up to them — assault, stealth, deception, finding a third path through the peaks that isn't the road. If John and [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|Luna]] are present they have opinions. If the Hero Party is present Kael will immediately advocate for a frontal assault and will be wrong about how easy it will be.
+This is the setpiece of the journey. Players have to get through. How is entirely up to them — assault, stealth, deception, finding a third path through the peaks that isn't the road. If John and [[Luna (Act 3)|Luna]] are present they have opinions. If the Hero Party is present Kael will immediately advocate for a frontal assault and will be wrong about how easy it will be.
 
 Getting through the pass means the Ashen Vale is ahead. Whatever is there is waiting.
 
