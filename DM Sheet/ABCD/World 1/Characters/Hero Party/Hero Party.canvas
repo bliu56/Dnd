@@ -2,6 +2,7 @@
 	"nodes":[
 		{"id":"3aa1375f93b34bac","x":-646,"y":-93,"width":1406,"height":953,"color":"6","type":"group","label":"Isolde"},
 		{"id":"7617709ddcd8c2f9","x":840,"y":-93,"width":1400,"height":953,"color":"5","type":"group","label":"Seraphine"},
+		{"id":"383d60572e269b90","x":-1698,"y":273,"width":400,"height":400,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Gareth/Gareth - Statblock.md"},
 		{"id":"17a634db51401d85","x":-626,"y":-73,"width":548,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Isolde/Image/Pasted image 20260425185227.png"},
 		{"id":"f2a7c503868f295c","x":-40,"y":-73,"width":780,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Isolde/Isolde - Statblock.md"},
 		{"id":"ae4911e80c37ab6f","x":1420,"y":-73,"width":800,"height":913,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Hero Party/Seraphine/Seraphine - Statblock.md"},
