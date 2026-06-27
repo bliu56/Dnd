@@ -39,9 +39,9 @@ traits:
     desc: "As a bonus action, the fragment designates one creature it can see as Prey for 1 minute. The fragment has advantage on attack rolls against that creature. Whenever it damages the Prey, it heals 1d8 HP. If the Prey drops to 0 HP, the fragment's next ability this turn restores an additional 2d8 HP."
 actions:
   - name: "Multiattack"
-    desc: "The fragment makes two Tendril Lash attacks, or one Tendril Lash attack and one special ability (Flesh Spear, Binding Flesh, or Consuming Bite)."
-  - name: "Tendril Lash"
-    desc: "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage."
+    desc: "The fragment makes two Flesh Strike attacks, or one Flesh Strike and one special ability (Flesh Spear, Binding Flesh, or Consuming Bite)."
+  - name: "Flesh Strike"
+    desc: "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage. The wound weeps black, clotting slowly."
   - name: "Course 1 — Flesh Spear"
     desc: "Ranged spell attack, +8 to hit, 60 ft. Hit: 18 (4d8) piercing damage. The target's speed is reduced by 10 ft until the end of its next turn as it tears black-flesh shards from the wound."
   - name: "Course 2 — Binding Flesh"
