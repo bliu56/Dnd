@@ -1,12 +1,3 @@
-```
-_True Name: Vael'shar_ (VAY-el-shar)
-_Title: The Hollow_
-_Classification: Demon General — Infiltration & Assassination_
-
-In its true form Vael'shar stands roughly eight feet, its body a shifting compression of shadow that never quite resolves into solid edges. It is not dramatically monstrous. It is wrong in a quieter way — proportions that drift slightly, a face that suggests features without having them, the impression of a figure observed through dark water. It moves without sound. It does not telegraph. When it decides to end something, that thing ends.
-
-```
-
 ```statblock
 columns: 1
 columnWidth: 700px
@@ -71,3 +62,13 @@ reactions:
   - name: "Legendary Actions"
     desc: "Vael'shar can take 3 legendary actions per round, at the end of another creature's turn. Shift (1): move half speed without provoking OAs. Shadow Lash (1): one creature within 30 ft, DC 19 Dex save or 2d8+7 necrotic + prone. Wear Their Face (2): assume the appearance of one creature seen within 60 ft — attacks against Vael'shar from those who can't identify it have disadvantage. Full Presence (3): drop all pretense — every creature within 30 ft that can see it must make a DC 21 Wis save or be frightened for 1 minute."
 ```
+
+---
+
+**Lore**
+
+_True Name: Vael'shar_ (VAY-el-shar)
+_Title: The Hollow_
+_Classification: Demon General — Infiltration & Assassination_
+
+In its true form Vael'shar stands roughly eight feet, its body a shifting compression of shadow that never quite resolves into solid edges. It is not dramatically monstrous. It is wrong in a quieter way — proportions that drift slightly, a face that suggests features without having them, the impression of a figure observed through dark water. It moves without sound. It does not telegraph. When it decides to end something, that thing ends.
