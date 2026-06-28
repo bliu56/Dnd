@@ -84,23 +84,22 @@ He looks away.
 
 ### Outcomes
 
-| Path                    | What happens                                                                                                                                                                    |
-| ----------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Let him go**          | Caelen leaves to recover his squad's bodies. He may appear again later.                                                                                                         |
-| **Offer help**          | Caelen is visibly thrown. He doesn't trust it, but doesn't refuse. Could earn genuine goodwill.                                                                                 |
-| **Attack / detain him** | Caelen fights to the death.                                                                                                                                                     |
-| **Bring him along**     | He refuses. His duty is to his dead. But he gives the party a token — a blood-red shard from his cloak. *"Show that to any demon you meet. It means you're not to be touched."* |
+| Path                    | What happens                                                                                    |
+| ----------------------- | ----------------------------------------------------------------------------------------------- |
+| **Let him go**          | Caelen leaves to recover his squad's bodies. He may appear again later.                         |
+| **Offer help**          | Caelen is visibly thrown. He doesn't trust it, but doesn't refuse. Could earn genuine goodwill. |
+| **Attack / detain him** | Caelen fights to the death.                                                                     |
 
 ---
 
 ### Hero Party Reactions
 
-| Member | Reaction |
-|--------|----------|
-| **Kael** | Says nothing. Walks ahead without a word. Does not comment on what was said. |
-| **Isolde** | Listens. Goes pale when Caelen mentions the Church. Does not defend it. |
-| **Seraphine** | Takes notes. When Caelen mentions demon parts as ingredients, her pen pauses. She does not write that part down. |
-| **Gareth** | Watches the whole time. When Caelen leaves, he lets his hand drop from his weapon. *"That one's got more reason than most."* |
+| Member        | Reaction                                                                                                                     |
+| ------------- | ---------------------------------------------------------------------------------------------------------------------------- |
+| **Kael**      | Says nothing. Walks ahead without a word. Does not comment on what was said.                                                 |
+| **Isolde**    | Listens. Goes pale when Caelen mentions the Church. Does not defend it.                                                      |
+| **Seraphine** | Takes notes. When Caelen mentions demon parts as ingredients, her pen pauses. She does not write that part down.             |
+| **Gareth**    | Watches the whole time. When Caelen leaves, he lets his hand drop from his weapon. *"That one's got more reason than most."* |
 
 ---
 
