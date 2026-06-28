@@ -10,4 +10,8 @@ Darrin was taken care by Micheal but hasnt seen him in a while
 
 The following was proven:
 Darrin drank holy water and was proven to not be a demon
+Darrin has the ability to steal and enchance spells
+
+The explainations was good enough. The hero party to had to debate on whether to keep darrin alive or kill him. Seraphine speculates that Darrin might be a half demon half human
+
 
