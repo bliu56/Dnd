@@ -1,0 +1,7 @@
+{
+	"nodes":[
+		{"id":"2692b83376dbb1b3","type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Church NPC Fighters/CR 6 - Crane.md","x":-337,"y":-125,"width":797,"height":1025},
+		{"id":"b734fe45f64fc92e","x":600,"y":-125,"width":800,"height":1045,"type":"file","file":"dnd/DM Sheet/ABCD/World 1/Characters/Church NPC Fighters/CR 3 - Elite Church Solider.md"}
+	],
+	"edges":[]
+}
