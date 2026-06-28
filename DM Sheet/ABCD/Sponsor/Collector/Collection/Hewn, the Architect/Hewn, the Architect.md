@@ -38,7 +38,8 @@ The Collector can grant one or more of the following from Hewn's soul.
 
 | Power | Effect |
 |-------|--------|
-| **Endless Endurance** | You have advantage on Constitution saving throws. Once per long rest, when you fail a Constitution save, you can succeed instead. |
-| **Carved Purpose** | When you hit a creature with a weapon attack, you can add your proficiency bonus to the damage. Against objects and structures, you deal double damage. |
-| **Underground Sense** | You gain tremorsense out to 30 ft. while you are touching the ground. You know the layout of any naturally formed underground space you have spent at least 10 minutes in. |
-| **The Architect's Focus** | Once per day, you can complete a Crafting or Construction task that would normally take 1 hour in 10 minutes, as long as you have the materials and tools.
+| **Endless Endurance** | You are immune to the exhausted condition. You have advantage on all Constitution saving throws. Once per long rest, when you fail a Constitution saving throw, you can choose to succeed instead — and regain hit points equal to your Constitution score. |
+| **Carved Purpose** | Your weapon attacks ignore resistance to bludgeoning, piercing, and slashing damage. Against objects and structures, your attacks are critical hits on a roll of 18-20 and deal quadruple damage. Once per turn when you hit a creature with a weapon attack, you can deal additional force damage equal to your level. |
+| **Underground Sense** | You gain tremorsense out to 60 ft. while touching the ground. You can see through solid stone up to 30 ft. as if it were glass — though only in shades of grey. You cannot be surprised while touching the ground. |
+| **The Architect's Focus** | Once per day, you can reshape a nonmagical object or structure within 30 ft. that is Large or smaller — warping stone, bending metal, or opening passages. The change is permanent. Alternatively, you can complete any Crafting or Construction task that would take up to 8 hours in a single action. |
+

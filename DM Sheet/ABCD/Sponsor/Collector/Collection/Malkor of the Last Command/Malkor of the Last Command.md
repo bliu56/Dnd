@@ -36,7 +36,8 @@ The Collector can grant one or more of the following from Malkor's soul.
 
 | Power | Effect |
 |-------|--------|
-| **The Last Command** | Once per short rest, as a bonus action, issue a single command to an ally within 30 ft. They can immediately use their reaction to make one weapon attack or move up to their speed. |
-| **Refuse the Sacrifice** | When an ally within 30 ft. takes damage, you can use your reaction to take half that damage instead. The ally takes the other half. |
-| **Soldier's Smile** | When you are reduced to 0 HP, you can make one last attack or cast one cantrip before falling unconscious. Once per long rest. |
-| **Unyielding Formation** | Allies within 10 ft. of you gain a +1 bonus to AC. This increases to +2 if you have not moved on your last turn.
+| **The Last Command** | As a bonus action, issue an order to an ally within 60 ft. They can immediately use their reaction to make a full Attack action, cast a cantrip, or move up to their speed. You can use this a number of times equal to your proficiency bonus per long rest. |
+| **Refuse the Sacrifice** | When an ally within 60 ft. takes damage from a creature you can see, you can use your reaction to halve that damage. The attacker takes the same amount of damage you prevented (no save). |
+| **Soldier's Smile** | When you are reduced to 0 HP, you are not unconscious. You can continue to act normally for one additional round — taking a full turn — before falling. Once used, this cannot be used again until after a long rest. |
+| **Unyielding Formation** | Allies within 15 ft. of you gain a +2 bonus to AC. If you have not moved on your last turn, they also gain resistance to bludgeoning, piercing, and slashing damage. |
+

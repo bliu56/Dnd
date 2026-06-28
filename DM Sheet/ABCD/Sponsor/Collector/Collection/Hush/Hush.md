@@ -36,7 +36,8 @@ The Collector can grant one or more of the following from Hush's soul.
 
 | Power | Effect |
 |-------|--------|
-| **Silent Warning** | You can cast *silence* once per long rest without expending a spell slot. The spell originates from a point you can see within 60 ft., not from yourself. |
-| **Unheard Truth** | You have advantage on Perception checks. You automatically detect invisible creatures and illusions within 30 ft. that rely on sight to deceive. |
-| **The War That Came** | Once per day, you can ask the DM one yes/no question about a threat or danger within the next hour. The DM must answer truthfully. |
-| **No Voice, No Echo** | You are immune to effects that require you to be heard. Spells with verbal components cannot be counterspelled when you cast them, as your words carry no sound.
+| **Silent Warning** | As an action, you create a zone of absolute silence in a 30 ft. radius centered on a point you can see within 120 ft. The zone moves with that point if it is a creature or object. Within the zone, no sound can be created — spells with verbal components cannot be cast, thunder damage is nullified, and creatures that rely on hearing are deafened and surprised by any attack. Lasts for 10 minutes. Usable once per short rest. |
+| **Unheard Truth** | You have truesight out to 60 ft. You automatically detect invisible creatures, hidden creatures, illusions, shapechangers, and magically disguised creatures within that range. You know if a creature is lying to you. |
+| **The War That Came** | Once per day, you can ask the DM up to three yes/no questions about a threat, danger, or hidden truth within the next hour. The DM must answer truthfully. This power functions through any distance and across planar boundaries. |
+| **No Voice, No Echo** | You do not need to speak verbal components to cast spells — your intent alone is sufficient. Spells you cast cannot be counterspelled. You are immune to effects that require you to be heard or that read your thoughts. Anything you say or communicate telepathically leaves no magical trace and cannot be recorded, remembered, or repeated by magical means. |
+

@@ -36,7 +36,8 @@ The Collector can grant one or more of the following from Vex's soul.
 
 | Power | Effect |
 |-------|--------|
-| **Flesh-Weaving** | As a bonus action, you can reshape a part of your body — hardening your skin to gain +2 AC until the start of your next turn, or extending a limb to increase your reach by 5 ft. for one attack. Usable a number of times equal to your proficiency bonus per long rest. |
-| **Reinforced Frame** | You have resistance to bludgeoning damage. Once per long rest, when you take a critical hit, you can reduce it to a normal hit instead. |
-| **Self-Repair** | As a bonus action, you can regain hit points equal to your level. Once per short rest. |
-| **Monster's Hunger** | When you reduce a creature to 0 HP, you regain hit points equal to your proficiency bonus + your Constitution modifier.
+| **Flesh-Weaving** | As a bonus action, you can reshape your body for 1 minute. Choose one: gain +3 AC (your skin hardens into natural armor), your reach increases by 10 ft. for melee attacks (limbs extend), or your walking speed doubles and you gain a climb speed equal to your walking speed (legs re-form). You can change the chosen benefit as a bonus action on subsequent turns. Usable once per short rest. |
+| **Reinforced Frame** | You have resistance to bludgeoning, piercing, and slashing damage from nonmagical attacks. When you take a critical hit, you can use your reaction to reduce it to a normal hit. Critical hits against you from creatures of Large size or smaller deal normal damage instead. |
+| **Self-Repair** | As a bonus action, you can regain hit points equal to 4d12 + your Constitution modifier. Usable once per short rest. |
+| **Monster's Hunger** | When you reduce a creature to 0 HP with an attack or spell, you regain hit points equal to twice the creature's CR or level (minimum 5). This healing can exceed your hit point maximum as temporary HP, up to a maximum equal to twice your level. |
+
