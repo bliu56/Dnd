@@ -50,4 +50,9 @@ Crane wears a heavy iron rosary around his neck, each bead marked with the Churc
 
 _**Aegis of the Faithful.**_ While Crane can see three or more conscious allied Church soldiers within 30 ft., he can transfer any damage he would take to one of those soldiers of his choice instead. The soldier takes the full damage. Crane takes none. This can be used against any source of damage, including spells, attacks, and environmental effects. If fewer than three allied soldiers are within range, this trait does not function.
 
-_**The Shepherd's Mercy (1/Day).**_ As an action, Crane touches a creature that has died within the last minute. The creature is revived with 1 hit point. This does not restore missing body parts and cannot revive a creature that died of old age. Alternatively, Crane can use this action to touch a living creature and restore 4d8 + 6 hit points to it.
+_**Weakpoint.**_ The Rosary's protection has limits. If Crane takes 30 or more damage from a single hit or spell, the damage transfer cannot fully redirect the burst — the excess spills over and Crane takes the remaining damage directly. Additionally, if all nearby soldiers are killed simultaneously (within the same turn or round), the Rosary has no one to transfer to and Crane becomes vulnerable.
+
+_**The Shepherd's Mercy (1/Day).**_ As an action, Crane grips his rosary and speaks a prayer. The wounded are forced upright — eyes snapping open, bodies moving before they are fully aware. This is not gentle healing. It is the Church's will overriding the body's surrender.
+
+- **On a living creature:** Touch a creature. It regains 4d8 + 6 hit points. The creature's eyes flash white for a moment as holy magic forces their wounds closed.
+- **On a dead creature (within 1 minute):** Touch the creature. It revives with 1 hit point. The revival is violent — the creature gasps awake as if surfacing from drowning, the Church's magic dragging them back whether they are ready or not. This does not restore missing body parts and cannot revive a creature that died of old age.
