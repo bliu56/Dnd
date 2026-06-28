@@ -14,4 +14,4 @@ Darrin has the ability to steal and enchance spells
 
 The explainations was good enough. The hero party to had to debate on whether to keep darrin alive or kill him. Seraphine speculates that Darrin might be a half demon half human
 
-
+Ash and Misty was there in the forest watching over. Ash pulled Connor and then one at a time while Misty cast illusion magic to leave a body. They eventually pulled everyone and then the party ending up deciding to go with the demons. 
