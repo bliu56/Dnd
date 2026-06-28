@@ -27,3 +27,16 @@ The Collector gave her life-soil magic — the ability to make things grow where
 ## Tags
 
 `gardener` `creator` `nurturer` `loss`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Ivy's soul.
+
+| Power | Effect |
+|-------|--------|
+| **Life-Soil Magic** | You can cast *goodberry* at will without expending a spell slot. The berries also count as a full meal. Once per long rest, you can cast *plant growth* without expending a spell slot. |
+| **Endless Garden** | When you finish a long rest, you can cause edible plants to sprout from the ground in a 10 ft. radius around you, producing enough food for up to five people that day. |
+| **Patience of Ivy** | Once per short rest, when you fail a check or save that requires patience or endurance (DM's discretion), you can reroll it. You must use the new roll. |
+| **Trampled, Returning** | When you are reduced to 0 HP, you can choose to instead drop to 1 HP. At the start of your next turn, you regain hit points equal to your level. Once you use this, you cannot use it again until you finish a long rest. As Ivy's garden returned after the army, so do you.

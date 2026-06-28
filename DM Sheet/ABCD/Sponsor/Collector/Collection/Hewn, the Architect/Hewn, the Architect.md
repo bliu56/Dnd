@@ -29,3 +29,16 @@ The Collector gave him endless endurance — the physical capacity to keep going
 ## Tags
 
 `prisoner` `artisan` `endurance` `visionary`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Hewn's soul.
+
+| Power | Effect |
+|-------|--------|
+| **Endless Endurance** | You have advantage on Constitution saving throws. Once per long rest, when you fail a Constitution save, you can succeed instead. |
+| **Carved Purpose** | When you hit a creature with a weapon attack, you can add your proficiency bonus to the damage. Against objects and structures, you deal double damage. |
+| **Underground Sense** | You gain tremorsense out to 30 ft. while you are touching the ground. You know the layout of any naturally formed underground space you have spent at least 10 minutes in. |
+| **The Architect's Focus** | Once per day, you can complete a Crafting or Construction task that would normally take 1 hour in 10 minutes, as long as you have the materials and tools.

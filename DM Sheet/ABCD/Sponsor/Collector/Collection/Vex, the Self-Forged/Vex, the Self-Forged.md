@@ -27,3 +27,16 @@ The Collector gave him the first secret — the initial thread of flesh-weaving 
 ## Tags
 
 `sorcerer` `body-morph` `transmutation` `monster`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Vex's soul.
+
+| Power | Effect |
+|-------|--------|
+| **Flesh-Weaving** | As a bonus action, you can reshape a part of your body — hardening your skin to gain +2 AC until the start of your next turn, or extending a limb to increase your reach by 5 ft. for one attack. Usable a number of times equal to your proficiency bonus per long rest. |
+| **Reinforced Frame** | You have resistance to bludgeoning damage. Once per long rest, when you take a critical hit, you can reduce it to a normal hit instead. |
+| **Self-Repair** | As a bonus action, you can regain hit points equal to your level. Once per short rest. |
+| **Monster's Hunger** | When you reduce a creature to 0 HP, you regain hit points equal to your proficiency bonus + your Constitution modifier.

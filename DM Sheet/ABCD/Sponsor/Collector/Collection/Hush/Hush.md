@@ -27,3 +27,16 @@ Natural. Collected after death. A life of perception no one ever valued — the 
 ## Tags
 
 `mute` `child` `seer` `unheard`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Hush's soul.
+
+| Power | Effect |
+|-------|--------|
+| **Silent Warning** | You can cast *silence* once per long rest without expending a spell slot. The spell originates from a point you can see within 60 ft., not from yourself. |
+| **Unheard Truth** | You have advantage on Perception checks. You automatically detect invisible creatures and illusions within 30 ft. that rely on sight to deceive. |
+| **The War That Came** | Once per day, you can ask the DM one yes/no question about a threat or danger within the next hour. The DM must answer truthfully. |
+| **No Voice, No Echo** | You are immune to effects that require you to be heard. Spells with verbal components cannot be counterspelled when you cast them, as your words carry no sound.

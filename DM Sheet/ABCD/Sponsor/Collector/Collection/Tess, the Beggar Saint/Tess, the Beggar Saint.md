@@ -27,3 +27,16 @@ Natural. The Collector never touched her life. He simply watched it unfold — a
 ## Tags
 
 `beggar` `saint` `survivor` `unnoticed`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Tess's soul.
+
+| Power | Effect |
+|-------|--------|
+| **Unnoticed Passage** | You can cast *pass without trace* once per long rest without expending a spell slot. |
+| **Quiet Kindness** | As an action, you can touch a creature and restore hit points equal to 2d6 + your Wisdom modifier (if any). Once per short rest. |
+| **Street Survivor** | You have advantage on Dexterity (Stealth) checks. When you take the Hide action, you can attempt to hide even if you are only lightly obscured. |
+| **No Name, No Record** | You are immune to effects that would read your thoughts or surface your memories unless you allow it. You leave no magical trace of your passage that can be detected by divination spells of 3rd level or lower.

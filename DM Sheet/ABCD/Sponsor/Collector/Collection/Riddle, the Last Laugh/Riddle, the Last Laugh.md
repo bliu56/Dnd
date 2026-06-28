@@ -27,3 +27,16 @@ The Collector gave him wit and charm — the tools to uncover the plot and to te
 ## Tags
 
 `jester` `truthseeker` `martyr` `performer`
+
+---
+
+## Power — What Can Be Pulled
+
+The Collector can grant one or more of the following from Riddle's soul.
+
+| Power | Effect |
+|-------|--------|
+| **The Truth as a Joke** | When you make a Charisma (Deception) or Charisma (Performance) check, you can choose to tell the truth instead. You have advantage on the check if you do, and creatures that fail an Insight check against it believe you were joking. |
+| **Court Fool's Eye** | You have advantage on Wisdom (Insight) checks. Once per short rest, when a creature lies to you, you instinctively know one truthful fact they did not intend to reveal. |
+| **Last Laugh** | When you are reduced to 0 HP, you can make one final attack, cast one cantrip, or speak a single sentence before falling unconscious. Any creature that hears that sentence must succeed on a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be stunned until the end of your next turn. Once per long rest. |
+| **Punchline** | Once per turn, when you deal damage with an attack or spell, you can add an extra 1d6 psychic damage as you utter a cutting remark that only the target can hear.
