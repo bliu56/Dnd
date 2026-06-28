@@ -1,5 +1,5 @@
 **Name:** Ivy
-**Title:** The Endless Garden
+**Title:** of the Endless Garden
 **Status:** Collected
 
 **Their Life:**

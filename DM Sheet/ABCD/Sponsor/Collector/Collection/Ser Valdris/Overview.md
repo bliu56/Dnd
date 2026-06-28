@@ -1,5 +1,5 @@
 **Name:** Ser Valdris
-**Title:** The Broken Oath
+**Title:** of the Broken Oath
 **Status:** Collected
 
 **Their Life:**

@@ -1,5 +1,5 @@
 **Name:** Malkor
-**Title:** The Last Command
+**Title:** of the Last Command
 **Status:** Collected
 
 **Their Life:**

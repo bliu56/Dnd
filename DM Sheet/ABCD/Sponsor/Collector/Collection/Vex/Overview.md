@@ -1,5 +1,5 @@
 **Name:** Vex
-**Title:** The Self-Forged
+**Title:** the Self-Forged
 **Status:** Collected
 
 **Their Life:**

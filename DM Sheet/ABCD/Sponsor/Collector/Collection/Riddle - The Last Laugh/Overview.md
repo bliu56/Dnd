@@ -1,4 +1,4 @@
-**Name:** Jasper
+**Name:** Riddle
 **Title:** The Last Laugh
 **Status:** Collected
 
