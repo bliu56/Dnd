@@ -1,114 +1,102 @@
-_Location: The road beyond the Mid Point. The party is traveling with Ash toward the Demon King's domain._
+_Scene: The party, escorted by Ash, encounters a hurt child on the road — and a familiar face below._
 
 ---
 
-# Part 1 — Caelen's Ambush
+## Part 2 — The Caravan
 
-**Trigger:** The party is on the road with Ash, heading toward the Demon King. They've left the Hero Party behind.
+### The Hook
 
----
+The party moves through a wooded stretch when they hear it — crying. Small. Young. A child, maybe 8 or 9, crashing through the underbrush. Scraped up, out of breath, clothes worn thin.
 
-### The Ambush
+They don't see Ash first. They see the players.
 
-The road ahead is quiet. Before anyone can call it out, a lance of blood-red energy streaks from the treeline — aimed at the nearest member of the player party.
+**Child:** (between sobs) "Please — please, there's a man with a sword — he's hurting everyone — my mom — I can't find my mom —"
 
-**Caelen, the Bleeding Hand,** emerges from the undergrowth. His sigil cloak is torn. His eyes are wild. He is not calculating. He is *desperate.*
+The child doesn't know who the players are. Doesn't know Ash is a demon. They just ran, and the players were the first people they found.
 
-He doesn't speak. He attacks.
+**Ash:** (a few steps back, arms loose, watching the road ahead) "Guess we're not alone."
 
-**Why:** Caelen's squad at the Mid Point is dead. He returned to find the outpost destroyed and his friends' bodies cold. He saw Ash's group on the road from a distance — people heading away from the site. He assumed the worst.
-
-He is not trying to win. He is buying time for Ash — buying it with his life if he has to.
+He doesn't stop the party from helping. He doesn't rush them. But his eyes are on the road now, listening.
 
 ---
 
-### De-escalation
+### The Caravan
 
-Before anyone lands a killing blow, Ash reacts.
+The party crests a ridge and sees it below: a slowed caravan on the road — wagons, families, the elderly, the wounded. And coming up fast from the opposite side: a small Church force.
 
-**Ash:** (sharp, stepping forward) *"Caelen! Stand down!"*
+**Ser Aldous Crane** leads them. A handful of soldiers at his back. One armored Paladin at his side. He survived the three-way battle. He lost his entire squad. He is not here to negotiate.
 
-Caelen freezes. His weapon stays raised, but he doesn't attack.
+**Emmett** is with the caravan — organizing, trying to keep people calm. He sees Crane approach and knows he can't fight. None of his people are soldiers. They're sick, wounded, children, elderly. And among them: a few demons — not fighters, just families trying to reach Twin Peaks the same as everyone else.
 
-**Caelen:** *"Ash — you're alive. I thought —"*
+**Crane sees them too.**
 
-**Ash:** *"I know what it looks like. Put the weapon down. They're with me."*
-
-A DC 13 Insight check confirms it — Caelen's stance shifts from attack to confused defense. He's lowering his guard, but he's not there yet.
-
-**Caelen:** *"They killed them. The squad at the outpost — I found them. They're all dead."*
-
-**Ash:** (quiet) *"I know. I know."*
+He knows what's in that caravan. He knows the party is on the ridge. And he doesn't care. He's done caring.
 
 ---
 
-### The Breakdown
+### The Standoff
 
-Once Caelen realizes the people in front of him are not enemies but allies of Ash, his composure cracks.
-
-**Caelen:** *"I came back and they were just — on the ground. No fight left. Just bodies."*
-
-**If told the Mid Point was cleared by the party — that the demons there were enemies of the Demon King:**
-
-His face twists. Not in anger — in grief.
-
-**Caelen:** *"They weren't enemies. They were just trying to survive. Like all of us."*
-
-He straightens. His voice rises — not a threat, but a wound finally opening.
-
-**Caelen:** *"Do you know what we were before he found us? Slaves. Every single one of us. Chained, branded, sold. Demon flesh is valuable — makes fine ingredients for magic. We were bred like cattle, harvested alive, piece by piece, until there was nothing left worth keeping. And no one cared. Because we were 'demons.'"*
-
-He laughs — bitter, wet.
-
-**Caelen:** *"The Church didn't protect us. Humans didn't shelter us. We were worth more dead than alive — and everyone knew it. Our population is so low they list us as endangered. Like we're some kind of animal."*
-
-**Caelen:** *"The Demon King was the first one who didn't see us as currency. He gave us power so we could fight back. So we could live without looking over our shoulders. And now — now they're dead. Because of people like them."*
-
-He gestures at the player party. Not with accusation — with exhaustion.
+| Faction | Who | Goal |
+|---|---|---|
+| **Caravan** | Emmett, civilians, wounded, children, elderly, demon refugees | Reach Twin Peaks for safety and medical aid |
+| **Crane's force** | Ser Aldous Crane + a few soldiers + one Paladin | Kill the demons in the caravan. Crane also wants revenge on the party and Ash. |
+| **The party + Ash** | Players + Ash (escort) | Unclear — depends on what the party chooses |
 
 ---
 
-### If Asked About the Bodies
+### The Choice
 
-**Caelen:** *"Demon parts have always been good ingredients. The ones at the outpost — they didn't do anything to deserve what was done to them. We only ever killed people who deserved it. Unlike your kind."*
+The party decides how to handle the three-way standoff:
 
-He looks away.
-
-**Caelen:** *"I need to go back. I need to find what's left of them. Give them a proper burning. That's the least they deserve."*
-
----
-
-### Outcomes
-
-| Path | What happens |
-|------|-------------|
-| **Let him go** | Caelen leaves to recover his squad's bodies. He may appear again later. |
-| **Offer help** | Caelen is visibly thrown. He doesn't trust it, but doesn't refuse. Could earn genuine goodwill. |
-| **Attack / detain him** | Caelen fights to the death. Ash would intervene to stop it. |
+| Approach | What happens |
+|---|---|
+| **Defend the caravan** | Side with Ash against Crane. Protect the demon refugees. Fight the Church force. |
+| **Let Crane through** | Stand aside. The caravan is slaughtered. Avoid a direct fight. |
+| **Negotiate** | Crane is far past talking. DC 20 Persuasion to get him to pause — and even then, the Paladin may not listen. |
+| **Use Ash** | Ash is neutral — he'll fight if attacked, but he won't start a war for strangers. If the party convinces him, he might engage Crane. |
 
 ---
 
-### What the Party Learns
+### Notes (DM Only)
 
-- Demons were systematically enslaved, hunted, and harvested for body parts before the Demon King.
-- Their population is critically low — endangered species status.
-- The Demon King freed them and gave them the power to defend themselves.
-- Caelen and Ash's squad were not soldiers of conquest. They were former slaves given a second chance.
-- The Mid Point demons were not "evil" — they were people trying to survive.
-
----
-
-### DM Notes
-
-- This is the party's first real look at the demon perspective. Moral complexity opens here.
-- Let Caelen talk. Don't rush him. His grief and anger are earned.
-- The token (if given) signals to demons that the party is under Ash's protection.
-- The scene works best if it ends quietly. No big battle. Just a man walking back toward the bodies of his friends.
+- The child who found the party is one of the demon refugees. Their mother is still in the caravan.
+- Crane's hatred is personal now — he lost everything in the three-way battle. He will not yield easily.
+- The Paladin is a zealot — harder to reason with than Crane.
+- Emmett will recognize the party if they approach. He'll ask for help, but won't demand it.
+- Ash watches. He doesn't intervene unless the party gives him a reason to — or unless someone attacks him first.
 
 ---
 
-# Part 2 — [To be added]
+## Part 3 — Twin Peaks
+
+The landscape shifts as they approach — fewer trees, more patrols. Demons on the road, watching, letting them pass. No attacks. Just observation.
+
+Twin Peaks comes into view. Not a garrison. A **makeshift city** — tents, structures, market stalls, cooking fires. Humans and demons moving through the same streets. Kids playing. It looks nothing like what the Church described.
+
+The party is led through the outer patrols. Demons glance at them but don't stop them. Ash walks like he belongs here.
+
+**At the gate** — a figure is standing, talking to a group of nervous-looking humans. He's familiar. He turns as the party approaches.
+
+**It's Michael.** Alive. Unharmed. He stops mid-sentence when he sees them.
+
+He wasn't expecting them. He's surprised. That's all the information the party has before he speaks.
 
 ---
 
-# Part 3 — [To be added]
+### The City
+
+- Humans and demons coexist openly. Markets, homes, children playing.
+- No tension in the streets — this is normal here.
+- Everything the Church said about demons is visibly contradicted by what's in front of them.
+
+### The Demon Encampment
+
+- Not a military post. A living community.
+- Demons guard the perimeter but don't patrol the interior aggressively.
+- Refugees, families, traders — the same mix as any town.
+
+### What Happens Next
+
+- Michael's reaction (DM handles dialogue).
+- Ash's job is done — he may linger or disappear depending on party interaction.
+- No immediate audience with the Demon King. The party is given space to rest, eat, and process.
