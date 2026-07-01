@@ -6,7 +6,7 @@
 
 ### Background
 
-- Served under [[Michael|Michael]] as his student until his death at the end of Act 1
+- Served under [[Michael 1|Michael]] as his student until his death at the end of Act 1
 - Continued her career in the Church following Michael's passing, throwing herself into training
 - No longer early in her career — two years of deliberate, grief-driven growth have made her formidable
 - Traveled and fought alongside [[John (Act 3)|John]], developing into a true all-rounder: healing, support, damage, and defense in equal measure

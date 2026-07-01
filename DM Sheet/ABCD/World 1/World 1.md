@@ -6,7 +6,7 @@
 - Characters
     - [[Arthur]]
     - [[Tristan]]
-    - [[Michael]]
+    - [[Michael 1]]
     - [[Luna (Act 1)]]
     - [[John (Act 1)]]
     - [[Sir Adonis]]

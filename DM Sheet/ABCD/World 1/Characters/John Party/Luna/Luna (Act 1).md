@@ -4,8 +4,8 @@
 - **Status:** Alive
 - **Age:** 17 (Present Phase)
 **Background**
-- A young Priest of the Church currently under [[Michael]]'s tutelage
-- Traveling with [[Michael]] and [[John (Act 1)]] on the mission to find the next Hero Candidate
+- A young Priest of the Church currently under [[Michael 1]]'s tutelage
+- Traveling with [[Michael 1]] and [[John (Act 1)]] on the mission to find the next Hero Candidate
 - Still early in her career but capable and devoted
 **Personality**
 - Happy-go-lucky and upbeat — rarely rattled, finds the bright side of most situations

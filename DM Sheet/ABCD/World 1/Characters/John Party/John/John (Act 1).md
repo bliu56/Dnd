@@ -17,7 +17,7 @@
 - Driven by a quiet, burning need for revenge that he rarely speaks about
 - Not unfriendly, but not warm either — he tolerates people more than he welcomes them
 - Beneath the walls, there is someone worth knowing — but he hasn't let anyone in yet
-**Relationship with [[Michael]]**
+**Relationship with [[Michael 1]]**
 - Genuinely respects Michael even if he doesn't show it much
 - Michael's encouragement to try the box quietly irritates him — he doesn't see himself as anything special
 - Deep down, Michael's belief in him is something he doesn't know what to do with

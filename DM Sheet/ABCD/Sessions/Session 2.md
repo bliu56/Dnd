@@ -18,7 +18,7 @@ The Mimic wasn't purely interested in killing them. It made deals throughout the
 [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] made clear during the chaos that Luna's life mattered more to him than his own safety. He didn't announce it — it just showed in how he moved.
 
 ---
-**[[Michael|Michael]]**
+**[[Michael 1|Michael]]**
 
 Michael passed the Hero's Box to one of the party members quietly, without the Mimic seeing the exchange. Then he ran in the opposite direction, drawing Vael'shar away from the party. He didn't come back.
 

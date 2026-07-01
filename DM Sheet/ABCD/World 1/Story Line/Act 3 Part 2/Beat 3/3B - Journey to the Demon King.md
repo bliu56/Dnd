@@ -115,7 +115,7 @@ The party is led through the outer patrols. Demons glance at them but don't stop
 
 **At the gate** — a figure is standing, talking to a group of nervous-looking humans. He's familiar. He turns as the party approaches.
 
-**It's [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]].** Alive. Unharmed. He stops mid-sentence when he sees them.
+**It's [[Michael 1|Michael 1]].** Alive. Unharmed. He stops mid-sentence when he sees them.
 
 He wasn't expecting them. He's surprised. That's all the information the party has before he speaks.
 
