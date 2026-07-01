@@ -8,3 +8,4 @@ Ran into the kid, opted to help.
 Saw the church attacking people. Current plan is Ash to take away their strongest force and the party to handle the rest. 
 
 Connor to try to divert the Churches attention by provoking Crane
+
