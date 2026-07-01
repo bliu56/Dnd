@@ -1,0 +1,17 @@
+[
+  {
+    "id": "sample1",
+    "name": "Old Man Brenner",
+    "img": "data:image/jpeg;base64,PLACEHOLDER_IMAGE_DATA_1"
+  },
+  {
+    "id": "sample2",
+    "name": "Captain Vess",
+    "img": "data:image/jpeg;base64,PLACEHOLDER_IMAGE_DATA_2"
+  },
+  {
+    "id": "sample3",
+    "name": "Mirelle the Hexweaver",
+    "img": "data:image/jpeg;base64,PLACEHOLDER_IMAGE_DATA_3"
+  }
+]
