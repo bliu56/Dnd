@@ -8,9 +8,11 @@ Favor from those who love to abuse loopholes
 
 **When it manifests:** The first time Pranav drops to 0 HP in battle.
 
-**What it is:** Vague. Unknown. A shadow creature that has been following her since childhood. It exists, it protects her, and it has a connection to her parents that is not yet understood.
+**What it is:** A severed fragment of the devil god from her parents' original world. It was ripped off during the reverse summoning, its connection to the original body destroyed, its memory shattered. It defaults to the only command fragment left: keep Pranav safe. Its understanding of danger is broken.
 
-**Current state:** Manifests physically when provoked. Cannot communicate. Its origin, name, and purpose are unknown.
+See **[[Shadow/Shadow|Shadow Creature]]** for the full origin and statblock.
 
-**To be detailed:** Leave open for now. The creature's identity, backstory, and abilities will grow as the campaign develops.
+**Trigger event:** [[../../../World 1/Story Line/Act 3 Part 2/Beat 3/3-A) After Battle Confrontation#If Pranav Hits 0 HP|If Pranav Hits 0 HP]] — the shadow manifests and turns the fight.
+
+**Current state:** Manifests physically when provoked. Cannot communicate. Could regain power and memory over time — including its original purpose.
 
