@@ -8,6 +8,7 @@
 
 ## Constraints
 - Ask before writing/overwriting any file. Never assume yes.
+- "eos" = write this handoff and stop.
 
 ## Party Status
 - Traveling with Ash toward the Demon King (after staged kidnapping from Hero Party)
@@ -25,6 +26,7 @@
 - Pranav's shadow creature — needs defining
 - Fishing quest — empty file
 - The Unlit warlock subclass — placeholder only
+- Demon faction NPC soundboard JSON — empty folder exists
 
 ## File Changes
 - Fixed stray Chinese text in Bandit Camp and Hush files
@@ -38,7 +40,8 @@
 - Mid Point — loot table, demon-occupied outpost
 - 3B Journey to the Demon King (Part 1 — Caelen ambush)
 - 8 Collector life folders with Power sections (4 abilities each)
-- CR 6 - Crane + CR 3 - Elite Church Soldiers
+- CR 6 - Crane + CR 3 - Elite Church Soldiers (statblock syntax)
 - Demon stat block fixes (Gorrath, The Chained One, Veyrath, Varek)
 - Session 6 summary
+- Hero Party NPC soundboard JSON (World 1/Church/)
 - This handoff file
