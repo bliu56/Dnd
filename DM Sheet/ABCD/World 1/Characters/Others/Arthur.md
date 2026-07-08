@@ -11,7 +11,7 @@
 - The dying Demon King asked Arthur to raise his offspring (Baal) in peace, away from the cycle of revenge
 - Arthur agreed and took in the child
 **Life After**
-- Renamed Baal to **[[Tristan]]** to hide his identity; told others he was an orphan he adopted
+- Renamed Baal to **[[Tristan (Act 1)]]** to hide his identity; told others he was an orphan he adopted
 - Retired to the **[[Evergreen Forest]]** (between [[Stonewood]] and [[Lowfield]])
 - Spent his days teaching Tristan to control his powers and to be a good person
 

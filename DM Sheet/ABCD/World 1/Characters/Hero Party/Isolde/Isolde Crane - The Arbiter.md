@@ -48,7 +48,7 @@ Never in danger, always watching. She positions herself at the edge of every fig
 
 ### Opinion of the Demon King
 
-- Considers [[Tristan]] an affront to the Goddess personally
+- Considers [[Tristan (Act 1)]] an affront to the Goddess personally
 - The public's sympathy toward him is proof of moral corruption on a civilizational scale
 - Has no interest in understanding him — understanding implies he is worth understanding
 

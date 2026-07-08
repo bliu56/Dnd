@@ -36,7 +36,7 @@ _The Demon King, Baal_
 
 ### Demon Generals
 
-- **The Liger** — formerly a creature of the Evergreen Forest, now fully corrupted and bound to [[Tristan]]'s will
+- **The Liger** — formerly a creature of the Evergreen Forest, now fully corrupted and bound to [[Tristan (Act 1)]]'s will
 - **The Mistweaver** — same origin, same corruption. Both generals carry the weight of what the players failed to do.
 
 ### Will — Stage III (Realization)

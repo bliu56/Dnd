@@ -8,7 +8,7 @@
 - Born to a noble family that fled their house and renounced their title to live a quiet common life
 - His parents' noble family never accepted their departure and has been hunting them ever since
 - Grew up in a small village, living simply and far from his noble origins
-- The village was destroyed by the Demon King's forces — [[Tristan|Tristan,]] now fully awakened as Baal
+- The village was destroyed by the Demon King's forces — [[Tristan (Act 1)|Tristan,]] now fully awakened as Baal
 - Raphael survived and disappeared into the chaos, adopting the name John and joining the Church as a low-ranking member
 - Over two years he rose through the Church's ranks, trained extensively, and formalized into a Paladin role
 - His true goal remains revenge for his village
@@ -120,6 +120,6 @@ _Usable once per short rest. John does not know why it works. He only knows that
 
 - John still does not know he is a Hero Candidate — do not surface this unless the story calls for it
 - His noble bloodline hunting him remains an active thread and a potential complication
-- His revenge goal puts him on a collision course with [[Tristan]]/Baal
+- His revenge goal puts him on a collision course with [[Tristan (Act 1)]]/Baal
 - His relationship with Luna is the single biggest thing that has changed him — it is also his most obvious vulnerability
 - Michael's death is unfinished business. If the right moment arrives, it will land hard

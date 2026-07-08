@@ -23,7 +23,7 @@ Then the demons find him. It is quick. He doesn't run.
 
 **The Liger Arrives**
 
-Before the demons finish Corvin off, something else arrives. The demons that were still present go still — not attacking, not moving. Waiting. The Liger emerges from the treeline or the smoke or the dark, whatever fits the scene. It is not what it was in the [[dnd/DM Sheet/ABCD/World 1/Locations/Evergreen Forest/Story Notes (DM Only)|Evergreen Forest]]. Two years under [[Tristan]]'s influence have done visible things to it. It is larger, denser, the corruption running through it in a way that looks deliberate rather than incidental. It was sent here specifically. For Corvin.
+Before the demons finish Corvin off, something else arrives. The demons that were still present go still — not attacking, not moving. Waiting. The Liger emerges from the treeline or the smoke or the dark, whatever fits the scene. It is not what it was in the [[dnd/DM Sheet/ABCD/World 1/Locations/Evergreen Forest/Story Notes (DM Only)|Evergreen Forest]]. Two years under [[Tristan (Act 1)]]'s influence have done visible things to it. It is larger, denser, the corruption running through it in a way that looks deliberate rather than incidental. It was sent here specifically. For Corvin.
 
 Corvin knows what this means. He looks at it and then he looks at the players.
 

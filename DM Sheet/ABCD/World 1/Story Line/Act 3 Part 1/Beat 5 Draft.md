@@ -26,7 +26,7 @@ _Rest — No Safe Camp_ When the players stop to rest they will find no location
 
 **Part 2 — The Second Day: The Mistweaver's Territory**
 
-The terrain changes. The trees grow denser, older, darker. The players are moving into territory that belongs to the Mistweaver now — one of [[Tristan]]'s two new Demon Generals, the corrupted creature from the [[dnd/DM Sheet/ABCD/World 1/Locations/Evergreen Forest/Story Notes (DM Only)|Evergreen Forest]], larger and more deliberate than it was before.
+The terrain changes. The trees grow denser, older, darker. The players are moving into territory that belongs to the Mistweaver now — one of [[Tristan (Act 1)]]'s two new Demon Generals, the corrupted creature from the [[dnd/DM Sheet/ABCD/World 1/Locations/Evergreen Forest/Story Notes (DM Only)|Evergreen Forest]], larger and more deliberate than it was before.
 
 It does not attack immediately. It announces itself gradually — spores in the air, visibility dropping in patches, the disorientation arriving before the creature does. Players who fought or fled it before will recognize what is happening. Players who didn't will figure it out the hard way.
 

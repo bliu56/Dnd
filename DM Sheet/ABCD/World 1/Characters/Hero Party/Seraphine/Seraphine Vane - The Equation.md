@@ -45,7 +45,7 @@ Seraphine does not fight. She solves. Every encounter is a problem with an optim
 
 ### Opinion of the Demon King
 
-- The only member of the Hero party who has genuinely tried to understand [[Tristan]] as a strategic problem
+- The only member of the Hero party who has genuinely tried to understand [[Tristan (Act 1)]] as a strategic problem
 - Does not hate him — finds him interesting as an opponent, which is more than she gives most people
 - Would still erase him without hesitation. Interesting does not mean exempt.
 

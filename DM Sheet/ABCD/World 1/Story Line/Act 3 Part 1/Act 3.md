@@ -33,7 +33,7 @@ _Group 1 — [[Luna (Act 3)|Luna]], [[John (Act 3)|John]], and Church Survivors_
 _Group 2 — The Hero Party_
 
 - When John never claimed the Hero title, the Church issued it to someone else
-- The designated Hero is strong — stronger than a standard paladin — but nowhere near what would actually be needed to fight [[Tristan]]
+- The designated Hero is strong — stronger than a standard paladin — but nowhere near what would actually be needed to fight [[Tristan (Act 1)]]
 - The party around the Hero matches the Hero: capable, genuinely powerful by normal standards, and completely aware of it
 - Arrogant, ego-driven, and operating on a self-image that the world has not yet corrected
 - They are not ready. They do not know they are not ready.

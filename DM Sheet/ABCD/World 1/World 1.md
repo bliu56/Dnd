@@ -5,7 +5,7 @@
     - [[Act 2]]
 - Characters
     - [[Arthur]]
-    - [[Tristan]]
+    - [[Tristan (Act 1)]]
     - [[Michael 1]]
     - [[Luna (Act 1)]]
     - [[John (Act 1)]]
