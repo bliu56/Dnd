@@ -8,7 +8,7 @@
 - His parents' noble family never accepted their departure and has been hunting them ever since
 - Grew up in a small village, living simply and far from his noble origins
 - The village was destroyed by the Demon King's forces — [[Tristan (Act 1)]], now fully awakened as Baal
-- Raphael survived and disappeared into the chaos, adopting the name John and joining the Church as a low-ranking member
+- Raphael survived and disappeared into the chaos, adopting the name [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] and joining the Church as a low-ranking member
 - The Church asks few questions, offers training, and puts him on a path toward the Demon King — the perfect cover
 - His true goal is revenge for his village. He may also be hunting a specific demon responsible for the attack
 **Personality**
@@ -18,7 +18,7 @@
 - Not unfriendly, but not warm either — he tolerates people more than he welcomes them
 - Beneath the walls, there is someone worth knowing — but he hasn't let anyone in yet
 **Relationship with [[Michael 1]]**
-- Genuinely respects Michael even if he doesn't show it much
+- Genuinely respects [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]] even if he doesn't show it much
 - Michael's encouragement to try the box quietly irritates him — he doesn't see himself as anything special
 - Deep down, Michael's belief in him is something he doesn't know what to do with
 **Relationship with [[Luna (Act 1)]]**
@@ -57,5 +57,5 @@ _Medium Humanoid (Human), Neutral_
 **Story Notes (DM Only)**
 - John opening the Hero's Box is the key turning point of the Present phase — the weapon inside should feel meaningful and personal to the player
 - His noble bloodline hunting him is a potential side arc or future complication
-- His revenge goal puts him on a collision course with Tristan/Baal — a deeply layered confrontation given what the players will know from the Past phase
+- His revenge goal puts him on a collision course with [[Tristan]]/Baal — a deeply layered confrontation given what the players will know from the Past phase
 

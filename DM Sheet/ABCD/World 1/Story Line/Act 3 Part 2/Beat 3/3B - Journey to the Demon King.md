@@ -135,6 +135,6 @@ He wasn't expecting them. He's surprised. That's all the information the party h
 
 ### What Happens Next
 
-- Michael's reaction (DM handles dialogue).
+- [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]]'s reaction (DM handles dialogue).
 - Ash's job is done — he may linger or disappear depending on party interaction.
 - No immediate audience with the Demon King. The party is given space to rest, eat, and process.

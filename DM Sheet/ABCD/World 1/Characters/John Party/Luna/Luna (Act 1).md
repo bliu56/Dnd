@@ -1,5 +1,5 @@
 
-- **Role:** Priest, Healer, Michael's Student
+- **Role:** Priest, Healer, [[dnd/DM Sheet/ABCD/World 1/Characters/Michael|Michael]]'s Student
 - **Affiliation:** The Church
 - **Status:** Alive
 - **Age:** 17 (Present Phase)
@@ -10,7 +10,7 @@
 **Personality**
 - Happy-go-lucky and upbeat — rarely rattled, finds the bright side of most situations
 - Deeply respectful of Michael, looks up to him as both a superior and a mentor
-- Bickers with John regularly — teases him, challenges him, gets under his skin
+- Bickers with [[dnd/DM Sheet/ABCD/World 1/Characters/John/John (Act 3)|John]] regularly — teases him, challenges him, gets under his skin
 - Beneath the bickering, she genuinely looks up to John and wants to see him grow
 - Her cheerful exterior hides a quiet sincerity about her faith and her role
 **Relationship with Michael**
@@ -35,7 +35,7 @@ _Medium Humanoid (Human), Lawful Good_
 - **Senses:** Passive Perception 13
 - **Languages:** Common, Celestial
 **Traits**
-- _**Goddess's Faithful.**_ Luna has advantage on saving throws against spells and magical effects from non-divine sources.
+- _**Goddess's Faithful.**_ [[dnd/DM Sheet/ABCD/World 1/Characters/Luna/Luna (Act 3)|Luna]] has advantage on saving throws against spells and magical effects from non-divine sources.
 - _**Empowered Healing.**_ When Luna restores HP to a creature, they regain an additional 1d6 HP.
 - _**Spellcasting.**_ Luna is a 6th level divine spellcaster. Her spellcasting ability is Wisdom (spell save DC 13, +5 to hit). She always has the following spells prepared:
 

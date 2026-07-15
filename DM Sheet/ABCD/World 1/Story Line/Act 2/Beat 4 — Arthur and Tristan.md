@@ -24,5 +24,5 @@ Arthur trains in the cleared area outside the house every morning. If a player e
 ## Point Moments (DM Only)
 
 - The moment a player realizes Arthur genuinely does not know what's coming — and chooses what to do with that
-- A player who sits with Tristan without trying to get anything from him
+- A player who sits with [[Tristan]] without trying to get anything from him
 - A player who tells Arthur the truth, or part of it, and watches him process it

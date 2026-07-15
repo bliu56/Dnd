@@ -48,7 +48,7 @@ The twin peaks are visible from a distance — two identical rock formations ris
 
 The third day is the hardest.
 
-_Encounter 5 — The Liger's Warning_ The Liger appears. Not to fight — to be seen. It emerges from the treeline ahead of the players, looks at them for a long moment, and then is gone back into the trees. It does not attack. It does not need to. Its presence means Tristan knows exactly where they are and has decided to let them know he knows.
+_Encounter 5 — The Liger's Warning_ The Liger appears. Not to fight — to be seen. It emerges from the treeline ahead of the players, looks at them for a long moment, and then is gone back into the trees. It does not attack. It does not need to. Its presence means [[Tristan]] knows exactly where they are and has decided to let them know he knows.
 
 If [[John (Act 3)|John]] is with the party his jaw tightens. He does not say anything.
 

@@ -13,7 +13,7 @@
 **Life After**
 - Renamed Baal to **[[Tristan (Act 1)]]** to hide his identity; told others he was an orphan he adopted
 - Retired to the **[[Evergreen Forest]]** (between [[Stonewood]] and [[Lowfield]])
-- Spent his days teaching Tristan to control his powers and to be a good person
+- Spent his days teaching [[Tristan]] to control his powers and to be a good person
 
 ## Statblock
 
