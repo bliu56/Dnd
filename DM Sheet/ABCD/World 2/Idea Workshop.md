@@ -27,11 +27,11 @@ Probably some generic like war agaisnt either another kingdom or demon king. Ver
 
 ---
 
-## 1) Mystery — Regression
+## 1) Mystery
 
-A single city and its outskirts. Something has gone wrong — or will go wrong — and someone knows it. Either the players themselves or a key NPC is reliving a loop, carrying knowledge of what's coming. Unravel the conspiracy, identify the threat, and break the cycle before time runs out.
+A single city and its outskirts. Something is wrong — the pieces don't add up, and the more you look, the less sense it makes. Uncover the truth before it's too late.
 
-**Vibe:** Social politics, investigation, high-stakes Groundhog Day. Fighting is present but not the main focus. Think *Re:Zero* meets *Your Name* meets a murder mystery in a confined setting.
+**Vibe:** Investigation, social politics, high tension. Fighting is present but not the main focus. Think a confined setting where every answer leads to a harder question.
 
 ---
 
