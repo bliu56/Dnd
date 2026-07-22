@@ -29,9 +29,9 @@ Probably some generic like war agaisnt either another kingdom or demon king. Ver
 
 ## 1) Mystery
 
-A single city and its outskirts. Something is wrong — the pieces don't add up, and the more you look, the less sense it makes. Uncover the truth before it's too late.
+A single city and its outskirts. There's something here that needs to be solved — a disappearance, a death, a secret buried in plain sight. Figure out what's really going on before it's too late.
 
-**Vibe:** Investigation, social politics, high tension. Fighting is present but not the main focus. Think a confined setting where every answer leads to a harder question.
+**Vibe:** Investigation, social politics, confined setting. Fighting is present but not the main focus.
 
 ---
 
