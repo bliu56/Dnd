@@ -37,9 +37,9 @@ A single city and its outskirts. A looming threat hangs over everything. You hav
 
 ## 2) Hunt — The Competition
 
-A kingdom-wide beast hunt. Rival parties compete to track and slay mythical creatures — ancient dragons, unique monsters — for glory, prizes, and the king's favor. Secure sponsorships from merchants, earn noble backing, and outmaneuver your competition to claim the crown.
+A kingdom-wide beast hunt. Rival parties compete to track and slay mythical creatures — ancient dragons, unique monsters — for glory, prizes, and the king's favor. Each hunt takes you to a specific area where you stay until the target is downed. Secure sponsorships, earn noble backing, and outmaneuver your competition to claim the crown.
 
-**Vibe:** High-octane monster hunting, rivalries, resource management. Open world within a region. Think *Monster Hunter* meets a competitive tournament arc.
+**Vibe:** Monster hunting, rivalries, resource management. Each hunt is a contained expedition. Fighting alone will not win this — you need to prepare, gather intel, and use every advantage you can get. 
 
 ---
 
