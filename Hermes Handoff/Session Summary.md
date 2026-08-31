@@ -11,7 +11,7 @@
 - "eos" = write this handoff and stop.
 
 ## Statblock Format
-- Saves and skillsaves use flat YAML mapping with plain numbers (e.g. `str: 9` not `- str: "+9"`) — renderer auto-adds the + sign. Applied to Tristan's statblock.
+- Saves and skillsaves use flat YAML mapping with plain numbers (e.g. `str: 9` not `- str: "+9"`) — renderer auto-adds the + sign. Applied to [[Tristan]]'s statblock.
 
 ## What Was Worked On
 
@@ -44,3 +44,4 @@
 - Fallowmere, Hearthfen, Corrupted Treant's Lair, Healer's Hut, Twin Peaks, Demon Encampment, Rogue Demon Cell, Ashen Vale
 - Pranav's shadow creature
 - Fishing quest, The Unlit warlock subclass
+- testing
