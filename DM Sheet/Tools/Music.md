@@ -35,3 +35,6 @@ Whimsecal:
 Soft Sad Vibes:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ah4c5PA249AR1QOyVCsc4?utm_source=generator&si=31a30446e2ec4c4a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Midkey Sad:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7n1HD9pQQwMfx6zGly22Qw?utm_source=generator&si=fa56189c1f3a4da7" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
