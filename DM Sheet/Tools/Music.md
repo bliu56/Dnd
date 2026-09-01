@@ -10,6 +10,15 @@ https://www.youtube.com/watch?v=GX0sMoy4CRQ&list=RDGX0sMoy4CRQ&start_radio=1
 You say run:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0hHc2igYYlSUyZdByauJmB?utm_source=generator&si=ec0b8880c4a64eef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Good Battle Music:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3j078LctLGe86x3TbvPuOG?utm_source=generator&si=38afdf82de434297" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3gELBwePnsojRZEWNESKyv?utm_source=generator&si=9c51733121944d9f" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4EtduIodG7VPbIlXrxPR9N?utm_source=generator&si=e36feb2b91e948bd" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7MeyenJANgUDukNhfQez5B?utm_source=generator&si=6eaffd67b95b4d4f" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 Uh Oh Boss Oh Shit:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7u9B13QLNRX07qDKW5uPLx?utm_source=generator&si=90d3d2948a3f477e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
