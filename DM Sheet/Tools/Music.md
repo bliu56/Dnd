@@ -4,7 +4,8 @@ https://www.youtube.com/watch?v=rw39Uy-5mwY&list=RDXmBji07OtwA&index=2
 Sad/Tragic Music:
 https://www.youtube.com/watch?v=6RyJpVQpAec&list=RD6RyJpVQpAec&start_radio=1
 
-Slightly Hype Mysterious 
+Slightly Hype Mysterious Hype (Not for Battle but like somewhat tense situation or like building up hype):
+https://www.youtube.com/watch?v=GX0sMoy4CRQ&list=RDGX0sMoy4CRQ&start_radio=1
 
 Uh Oh Boss Oh Shit:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7u9B13QLNRX07qDKW5uPLx?utm_source=generator&si=90d3d2948a3f477e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
