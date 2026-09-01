@@ -116,3 +116,23 @@
 **The trap:**
 - He plays weak, timid, and desperate to earn their trust
 - The moment a good opportunity presents itself — alone, distracted, vulnerable — he strikes
+
+---
+
+## Third Encounter — The Shaolin Monk
+
+**The scene:**
+- The party comes across a treasure that seems strong/powerful
+- A Shaolin monk approaches and asks if he can take it away **for safekeeping**
+- His reasoning: the treasure will inspire greed in other people — keeping it will cause bloodshed. Taking it minimizes the violence.
+- If the party refuses, the monk will take it **by force** if needed
+
+**The choice:**
+- Hand it over peacefully?
+- Refuse and fight?
+- Some third option?
+
+**The monk's angle:**
+- Not malicious — genuinely believes he's preventing bloodshed
+- But his conviction is absolute. He won't be talked out of it easily.
+- The party has to judge: is he sincere, or just another treasure-hunter using piety as a cover?
