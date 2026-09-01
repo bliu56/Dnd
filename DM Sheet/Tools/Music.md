@@ -38,3 +38,6 @@ Soft Sad Vibes:
 Midkey Sad:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7n1HD9pQQwMfx6zGly22Qw?utm_source=generator&si=fa56189c1f3a4da7" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Increasing Happy:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6UEudr7wL1kWoEzWTWOjL9?utm_source=generator&si=ed89ef91568f4e74" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
