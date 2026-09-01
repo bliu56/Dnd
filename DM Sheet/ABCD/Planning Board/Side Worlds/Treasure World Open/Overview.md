@@ -96,3 +96,23 @@
 - The next gate was very bad luck: they ran into people **stronger than them** who seemed like good people
 - They were not good people. They attacked the sect group directly, with no warning — overwhelming strength, no pretense of a trap.
 - By the time the party finds them, the group has been slaughtered — only the outcome survivors remain *(see above)*
+
+---
+
+## Second Encounter — The Timid Snake
+
+**The scene:**
+- A weak-looking guy, very timid and afraid
+- Alone. Doesn't own much — just a sword and a rusted bracelet
+- He tries to cling to the party, will do anything — even become a slave — to stay with them
+
+**The truth:**
+- Secretly a "snake" — he's waiting for an opportunity to take out the party and steal everything they have
+- He's actually a **Traveler**, like them
+- His abilities are built for betrayal:
+  - **Pocket hoarding** — can stash things in his pockets
+  - **Ambush** — striking when they least expect it
+
+**The trap:**
+- He plays weak, timid, and desperate to earn their trust
+- The moment a good opportunity presents itself — alone, distracted, vulnerable — he strikes
