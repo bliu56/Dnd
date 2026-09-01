@@ -90,3 +90,9 @@
 **The girl's drive:**
 - Looking for more power and money — her sect is poor
 - They haven't eaten meat in a long time
+
+**How the annihilation happens (girl's route):**
+- They tried to go into an **orange gate** — and got lucky at first
+- The next gate was very bad luck: they ran into people **stronger than them** who seemed like good people
+- They were not good people. They attacked the sect group directly, with no warning — overwhelming strength, no pretense of a trap.
+- By the time the party finds them, the group has been slaughtered — only the outcome survivors remain *(see above)*
