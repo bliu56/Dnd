@@ -46,3 +46,6 @@ Upbeat increasing hopeful:
 
 Let's go Hype Build:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5g7WLWOwspQqTnqVZv0XQ8?utm_source=generator&si=0d3e2de7b3b74d63" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Please Please Get Better Sad Soft:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4LUJzSLpBtgH3dpOH7J7Nf?utm_source=generator&si=3514fc6635fa4164" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
