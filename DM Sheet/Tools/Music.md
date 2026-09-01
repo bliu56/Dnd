@@ -42,3 +42,7 @@ Increasing Happy:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6UEudr7wL1kWoEzWTWOjL9?utm_source=generator&si=ed89ef91568f4e74" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 Upbeat increasing hopeful:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5qY0XhaMC4r6tsZcVywGWp?utm_source=generator&si=9201467e099e4151" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Let's go Hype Build:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/5g7WLWOwspQqTnqVZv0XQ8?utm_source=generator&si=0d3e2de7b3b74d63" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
