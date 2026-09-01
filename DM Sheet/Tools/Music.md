@@ -1,3 +1,6 @@
+Ambient Music(Chinese):
+https://www.youtube.com/watch?v=rw39Uy-5mwY&list=RDXmBji07OtwA&index=2
+
 Sad/Tragic Music:
 https://www.youtube.com/watch?v=6RyJpVQpAec&list=RD6RyJpVQpAec&start_radio=1
 
