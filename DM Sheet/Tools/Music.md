@@ -41,3 +41,4 @@ Midkey Sad:
 Increasing Happy:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/6UEudr7wL1kWoEzWTWOjL9?utm_source=generator&si=ed89ef91568f4e74" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Upbeat increasing hopeful:
