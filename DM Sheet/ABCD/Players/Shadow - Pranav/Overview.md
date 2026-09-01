@@ -2,6 +2,18 @@ Favor from the hopeless romatic
 
 Favor from those who love to abuse loopholes
 
+Died: 1
+
+Penalty Paid: 0
+
+Dead:
+Bard
+
+Currently:
+Bard
+
+Died out of Combat - Ate the Umbra Fish
+
 ---
 
 ### Shadow Creature (Manifested)

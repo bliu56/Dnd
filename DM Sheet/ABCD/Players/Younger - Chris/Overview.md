@@ -1,5 +1,7 @@
 Died: 1
 
+Penalty Paid: 0
+
 Dead:
 Wizard
 
