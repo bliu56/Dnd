@@ -10,8 +10,6 @@ https://www.youtube.com/watch?v=GX0sMoy4CRQ&list=RDGX0sMoy4CRQ&start_radio=1
 You say run:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0hHc2igYYlSUyZdByauJmB?utm_source=generator&si=ec0b8880c4a64eef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-
-
 Uh Oh Boss Oh Shit:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/7u9B13QLNRX07qDKW5uPLx?utm_source=generator&si=90d3d2948a3f477e" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -54,3 +52,6 @@ Let's go Hype Build:
 
 Please Please Get Better Sad Soft:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4LUJzSLpBtgH3dpOH7J7Nf?utm_source=generator&si=3514fc6635fa4164" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+Fighting you can do it:
+https://www.youtube.com/watch?v=fAkqjIBf_f8&list=RDfAkqjIBf_f8&start_radio=1
