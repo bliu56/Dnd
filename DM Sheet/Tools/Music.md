@@ -32,3 +32,6 @@ Upbeat Sad Happy:
 Whimsecal:
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0RcKa0WPrURVtBNz5SNd3W?utm_source=generator&si=3285135fe5a44374" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+Soft Sad Vibes:
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3Ah4c5PA249AR1QOyVCsc4?utm_source=generator&si=31a30446e2ec4c4a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
