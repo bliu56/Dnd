@@ -4,9 +4,6 @@
 Ambient Music (Chinese):
 https://www.youtube.com/watch?v=rw39Uy-5mwY&list=RDXmBji07OtwA&index=2
 
-Slow to Upbeat Hopeful — EPHEMERA:
-https://open.spotify.com/track/325UTCjlyqPIOfVLquSxJD?si=5cc7ec138872416f
-
 Whimsecal — The Voice in My Heart:
 https://open.spotify.com/track/0RcKa0WPrURVtBNz5SNd3W?si=3285135fe5a44374
 
@@ -38,6 +35,9 @@ https://open.spotify.com/track/6UEudr7wL1kWoEzWTWOjL9?si=ed89ef91568f4e74
 
 Upbeat increasing hopeful — MOBIUS:
 https://open.spotify.com/track/5qY0XhaMC4r6tsZcVywGWp?si=9201467e099e4151
+
+Slow to Upbeat Hopeful — EPHEMERA:
+https://open.spotify.com/track/325UTCjlyqPIOfVLquSxJD?si=5cc7ec138872416f
 
 ## ⚔️ Battle / Combat
 You Say Run:
