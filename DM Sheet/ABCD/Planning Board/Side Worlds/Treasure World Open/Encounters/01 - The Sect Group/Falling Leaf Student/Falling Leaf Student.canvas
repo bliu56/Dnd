@@ -1,6 +1,7 @@
 {
 	"nodes":[
-		{"id":"6c75f15bb35a3a08","x":-20,"y":-260,"width":800,"height":1020,"type":"file","file":"dnd/DM Sheet/ABCD/Planning Board/Side Worlds/Treasure World Open/Encounters/01 - The Sect Group/Falling Leaf Student/Falling Leaf Student - Statblock.md"}
+		{"id":"6c75f15bb35a3a08","type":"file","file":"dnd/DM Sheet/ABCD/Planning Board/Side Worlds/Treasure World Open/Encounters/01 - The Sect Group/Falling Leaf Student/Falling Leaf Student - Statblock.md","x":-20,"y":-260,"width":800,"height":1020},
+		{"id":"d746b37a8e93ab8d","x":920,"y":-260,"width":680,"height":680,"type":"file","file":"dnd/Images/Treasure Realm/Student NPCS.jpg"}
 	],
 	"edges":[]
 }
