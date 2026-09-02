@@ -3,3 +3,4 @@ Dressed in a nice suit now
 
 Likes and wants sweets
 
+![[Z.jpg]]
