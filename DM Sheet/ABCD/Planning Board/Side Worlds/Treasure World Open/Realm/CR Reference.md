@@ -17,7 +17,7 @@ How the martial ladder maps to D&D Challenge Rating. Use this to place NPCs rela
 
 ## Reference Points
 
-- **Xiao Yun** (mid-high Disciple) — **CR 5**. Upper end of mid Disciple, edge of high.
+- **Xiao Yun** (mid Disciple) — **CR 4**. Competent, not exceptional.
   - Decisively beats normal bandits and lower-tier sect members
   - One player of the party's level can handle her — but she's not a joke
   - Clearly below the party (they fight CR 7+ demons)
