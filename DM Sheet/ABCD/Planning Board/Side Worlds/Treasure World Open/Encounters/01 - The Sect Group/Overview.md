@@ -7,12 +7,12 @@
 
 ## Who They Are
 
-| | |
-|---|---|
+|                                  |                                                                                                                                                  |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Xiao Yun** (girl, young adult) | Leader. Mid-high Martial Disciple. Polite, careful, calculating. Treats the party as seniors — they must be strong. Can't afford to offend them. |
-| **Xiao Feng** (boy, ~15) | Her younger brother. Lower Martial Disciple. Eager, less guarded than his sister. |
-| **Sect members** | ~10, all around their age or younger. Low Martial Disciple. |
-| **Master Chen Weiming** | Martial Master at least (was stronger before the attack). Elderly, injured. Sent the siblings in his place. |
+| **Xiao Feng** (boy, ~15)         | Her younger brother. Lower Martial Disciple. Eager, less guarded than his sister.                                                                |
+| **Sect members**                 | ~10, all around their age or younger. Low Martial Disciple.                                                                                      |
+| **Master Chen Weiming**          | Martial Master at least (was stronger before the attack). Elderly, injured. Sent the siblings in his place.                                      |
 
 **The sect:** Was once higher, fell after an attack long ago. Poor — they haven't eaten meat in a long time. They're here to gain power and money to lift the sect back up.
 
