@@ -49,8 +49,14 @@ https://open.spotify.com/track/3j078LctLGe86x3TbvPuOG?si=bN_m0A8hQw2XClDL9vHvjQ
 Time for War — Boku no Sensou - Instrumental:
 https://open.spotify.com/track/4JxXjbyaG354X2dbYUclCa?si=a7d70b63c20d4824
 
-Fighting you can do it:
+Fighting you can do it - Star Driver - Monochrome:
 https://www.youtube.com/watch?v=fAkqjIBf_f8&list=RDfAkqjIBf_f8&start_radio=1
+
+PLAYFUL MASSACRE:
+https://open.spotify.com/track/3gELBwePnsojRZEWNESKyv?si=9c51733121944d9f
+
+BATTLE UNDER A BROKEN SKY:
+https://open.spotify.com/track/4EtduIodG7VPbIlXrxPR9N?si=e36feb2b91e948bd
 
 ## 👹 Boss / Serious Threats
 Uh Oh Boss Oh Shit — Luce del Desiderio:
@@ -69,8 +75,3 @@ https://www.youtube.com/watch?v=GX0sMoy4CRQ&list=RDGX0sMoy4CRQ&start_radio=1
 Let's go Hype Build — PROVANT:
 https://open.spotify.com/track/5g7WLWOwspQqTnqVZv0XQ8?si=0d3e2de7b3b74d63
 
-PLAYFUL MASSACRE:
-https://open.spotify.com/track/3gELBwePnsojRZEWNESKyv?si=9c51733121944d9f
-
-BATTLE UNDER A BROKEN SKY:
-https://open.spotify.com/track/4EtduIodG7VPbIlXrxPR9N?si=e36feb2b91e948bd
