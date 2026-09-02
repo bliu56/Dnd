@@ -7,17 +7,19 @@
 
 ---
 
-**Role:** Leader of the Falling Leaf Sect delegation
+**Role:** Leader of the Falling Leaf Sect delegation (holding the position for her brother)
 **Level:** Mid Martial Disciple (CR 4)
 **Sect:** Falling Leaf Sect — third tier, trying to rise
-**Master:** [[../../../../../World 1/Characters/None|Chen Weiming]] (placeholder — Martial Master at least)
-**Companions:** Brother Xiao Feng + ~10 sect members
+**Master:** [[../../../../../World 1/Characters/None|Chen Weiming]] (her grandparent — Martial Master at least)
+**Companions:** Brother Xiao Feng (the future clan head) + 5 sect students
 
 ---
 
 ## Who She Is
 
-- Young adult. Carries herself with the weight of leading a sect that's fallen far and wants to rise
+- Young adult. Carries herself with the weight of holding a sect together that's fallen far and wants to rise
+- She is **not** the future clan head — her younger brother Xiao Feng is the heir. She leads the delegation for now, until he's ready to take over
+- Her **master is her grandparent**, Chen Weiming. Her **parents died in the attack** years ago — the same attack that felled the sect. She was raised by her grandfather, and raised to hold her brother's place until he can stand in it
 - Polite, careful, calculating. Treats the party as seniors — no known sect uniform, but they look strong. Their clothes suggest high standing. She can't afford to offend them
 - Poor sect — they haven't eaten meat in a long time. She's here for power and money to lift Falling Leaf back up
 - Genuinely kind in her own disciplined way — she corrects form because she believes good form is a kindness, not an insult

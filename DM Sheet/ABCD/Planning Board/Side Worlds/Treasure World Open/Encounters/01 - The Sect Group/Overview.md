@@ -9,12 +9,12 @@
 
 |                                  |                                                                                                                                                  |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Xiao Yun** (girl, young adult) | Leader. Mid-high Martial Disciple. Polite, careful, calculating. Treats the party as seniors — they must be strong. Can't afford to offend them. |
-| **Xiao Feng** (boy, ~15)         | Her younger brother. Lower Martial Disciple. Eager, less guarded than his sister.                                                                |
-| **Sect members**                 | ~10, all around their age or younger. Low Martial Disciple.                                                                                      |
-| **Master Chen Weiming**          | Martial Master at least (was stronger before the attack). Elderly, injured. Sent the siblings in his place.                                      |
+| **Xiao Yun** (girl, young adult) | Group leader (holding it for her brother). Mid Martial Disciple. Polite, careful, calculating. Treats the party as seniors — they must be strong. Can't afford to offend them. |
+| **Xiao Feng** (boy, ~15)         | Her younger brother. **Future clan head.** Lower Martial Disciple. Eager, less guarded than his sister. |
+| **Sect students**                | 5 others, levels from Xiao Feng's (low Disciple) to slightly below Xiao Yun's (mid Disciple). |
+| **Master Chen Weiming**          | Xiao Yun's **grandparent**. Martial Master at least (was stronger before the attack). Elderly, injured. Sent the siblings in his place. |
 
-**The sect:** Was once higher, fell after an attack long ago. Poor — they haven't eaten meat in a long time. They're here to gain power and money to lift the sect back up.
+**The sect:** Was once higher, fell after an attack long ago — the same attack that killed Xiao Yun and Xiao Feng's parents. Poor — they haven't eaten meat in a long time. They're here to gain power and money to lift the sect back up.
 
 ---
 
