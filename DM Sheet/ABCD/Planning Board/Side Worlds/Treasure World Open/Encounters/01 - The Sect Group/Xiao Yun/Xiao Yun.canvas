@@ -2,7 +2,7 @@
 	"nodes":[
 		{"id":"439f28b838d99492","type":"text","text":"","x":918,"y":101,"width":250,"height":60},
 		{"id":"6c75f15bb35a3a08","type":"file","file":"dnd/DM Sheet/ABCD/Planning Board/Side Worlds/Treasure World Open/Encounters/01 - The Sect Group/Xiao Yun/Xiao Yun - Statblock.md","x":-60,"y":-340,"width":860,"height":1020},
-		{"id":"69c7a6d82cf73cef","x":918,"y":-340,"width":434,"height":730,"type":"file","file":"dnd/Images/Treasure Realm/XiaoYun.jpg"}
+		{"id":"69c7a6d82cf73cef","type":"file","file":"dnd/Images/Treasure Realm/XiaoYun.jpg","x":918,"y":-340,"width":434,"height":730}
 	],
 	"edges":[]
 }
