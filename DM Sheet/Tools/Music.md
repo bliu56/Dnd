@@ -8,10 +8,10 @@ Slightly Hype Mysterious Hype (Not for Battle but like somewhat tense situation 
 https://www.youtube.com/watch?v=GX0sMoy4CRQ&list=RDGX0sMoy4CRQ&start_radio=1
 
 You say run:
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/0hHc2igYYlSUyZdByauJmB?utm_source=generator&si=ec0b8880c4a64eef" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+https://open.spotify.com/track/0hHc2igYYlSUyZdByauJmB?si=1113abfad00242d0
 
 Good Battle Music:
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3j078LctLGe86x3TbvPuOG?utm_source=generator&si=38afdf82de434297" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+https://open.spotify.com/track/3j078LctLGe86x3TbvPuOG?si=bN_m0A8hQw2XClDL9vHvjQ
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3gELBwePnsojRZEWNESKyv?utm_source=generator&si=9c51733121944d9f" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
