@@ -37,6 +37,20 @@
 | **When offered tangible treasure** | *(reluctant, eyes hungry)* *"Seniors are too generous... we do not deserve such gifts."* *(she takes them anyway — and they will draw eyes)* |
 | **When offered training/guidance** | *(surprised, then deeply grateful)* *"This one... this one does not know how to thank the seniors. We will not forget this."* |
 
+## The Falling Leaf Sword Art (落叶剑法)
+
+The sect's signature technique. It was once a full nine-form art; after the sect's fall, the last four forms were lost or sealed. That incompleteness is *why* Falling Leaf fell — and it's Xiao Yun's ceiling as a mid Disciple. She knows the first five forms, mastering none perfectly.
+
+| Form | Name | Effect |
+|---|---|---|
+| **First** | Falling Leaf | A single, drifting cut — extra reach, light damage, repositioning |
+| **Second** | Whirling Storm | Defensive spin — riposte/counter window |
+| **Third** | Branch Catch | Parry/redirect — the "no bloodshed" form |
+| **Fourth** | Autumn Wind | Pressure — pushes the target, breaks stance |
+| **Fifth** | Bare Tree | Precision thrust — ignores armor/cover, targets vitals |
+
+**Locked forms (lost to the sect):** Sixth through Ninth — she has names for them, recited like scripture, but cannot perform them. A potential growth hook: if the party helps her (intangible gifts), she might rediscover a lost form and *advance*.
+
 ---
 
 ## DM Notes

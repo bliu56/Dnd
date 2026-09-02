@@ -34,17 +34,21 @@ traits:
     desc: "Xiao Yun is competent, not exceptional. She has no spells, no legendary actions, and no abilities she hasn't been specifically taught. She knows this about herself. Most days, she's made peace with it."
 actions:
   - name: "Multiattack"
-    desc: "Xiao Yun makes two Flowing Strike attacks, or one Flowing Strike and one Precision Throw."
-  - name: "Flowing Strike"
-    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) bludgeoning damage. If this attack hits, she can push the target 5 ft. in any direction (no save)."
-  - name: "Precision Throw"
-    desc: "Ranged Weapon Attack: +6 to hit, range 20/60 ft., one target. Hit: 7 (1d8 + 3) piercing damage. The target must succeed on a DC 14 Constitution saving throw or lose its reaction until the start of its next turn."
+    desc: "Xiao Yun makes two attacks: Falling Leaf or Bare Tree (First/Fifth Form), or one Whirling Storm (Second Form) and one Branch Catch (Third Form)."
+  - name: "Falling Leaf — First Form"
+    desc: "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 8 (1d10 + 3) slashing damage. She can then move up to 5 ft. without provoking opportunity attacks."
+  - name: "Autumn Wind — Fourth Form"
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage and the target must succeed on a DC 14 Strength saving throw or be pushed 10 ft. and knocked prone."
+  - name: "Bare Tree — Fifth Form"
+    desc: "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. The attack ignores half and three-quarters cover, and has advantage against targets wearing armor with a Strength requirement. Hit: 10 (2d6 + 3) piercing damage."
 bonus_actions:
+  - name: "Whirling Storm — Second Form"
+    desc: "Xiao Yun enters a defensive spin. Until the start of her next turn, she has a +2 bonus to AC against melee attacks. If a creature misses her with a melee attack, she can immediately make one Bare Tree attack against it (no reaction required)."
   - name: "Step Aside"
     desc: "Xiao Yun takes the Disengage action as a bonus action."
 reactions:
+  - name: "Branch Catch — Third Form"
+    desc: "When a creature within 5 ft. misses Xiao Yun with a melee attack, she can use her reaction to catch the blow — the attacker must make a DC 14 Dexterity saving throw or the attack hits a creature of Xiao Yun's choice within 5 ft. of the attacker instead."
   - name: "Intercept"
     desc: "When a creature within 5 ft. of Xiao Yun is targeted by an attack, she can use her reaction to impose disadvantage on the roll, stepping partially into the line of attack."
-  - name: "Redirect (Recharge 5-6)"
-    desc: "When a creature within 5 ft. misses Xiao Yun with a melee attack, she can use her reaction to redirect the blow — the attacker must make a DC 14 Dexterity saving throw or the attack hits a creature of Xiao Yun's choice within 5 ft. of the attacker instead."
 ```
