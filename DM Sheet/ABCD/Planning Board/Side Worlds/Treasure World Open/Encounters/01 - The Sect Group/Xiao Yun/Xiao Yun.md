@@ -1,4 +1,4 @@
-**Xiao Yun — The Sect Leader**
+**Xiao Yun**
 
 *Falling Leaf Sect (落叶门) — Third Tier*
 *Mid Martial Disciple*
