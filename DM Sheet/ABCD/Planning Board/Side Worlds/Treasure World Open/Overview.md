@@ -44,95 +44,32 @@
 
 ---
 
-## First Encounter — The Sect Group
+## Sect Tiers
 
-**The scene:**
-- The party meets the girl and her brother, who lead ~10 sect members (around their age or younger)
-- The girl immediately treats the party as **seniors** — no known sect uniform, so they must be sect-less, but they look *strong*. Their luxurious clothes suggest high standing
-- She can't afford to offend them
-- She announces and identifies herself and her sect, then asks what their goal is — carefully, not wanting to say the wrong thing or provoke them
+- **First Tier** — the three dominant sects. Collectively known as **"The Three Peaks"** (三峰). Not allied — just the three strongest, universally acknowledged.
+- **Second Tier** — strong, established, but below the Three Peaks
+- **Third Tier** — struggling, trying to rise
+- **Sectless / Wandering** — no sect backing (Travelers, lone wolves)
 
-**The sect (context):**
-- Third-tier, trying to rise
-- Once higher, fell after an attack long ago
-- The girl is the young adult leader; her brother is with her
+## Martial Levels
 
-**The scene (in the field):**
-- In the field nearby: a treasure chest guarded by a few monsters *(monsters TBD)*
-- The party decides what to do — fight, avoid, ignore
+Personal strength ladder (with in-between grades — low / mid / high):
 
-**Branch — Favorable impression:**
-- The boy (younger brother) asks if the party would please travel with them
-- The girl rebukes him — they can't trouble or burden such seniors; they're too weak to be worth their time
-- Players decide the outcome
+**Martial Disciple** → **Martial Master** → **Martial Grandmaster** → **Transcendent**
 
-**Branch — Neutral / slightly favorable:**
-- The girl asks if she may continue to refer to them as "Senior"
-- Asks their names
-- Wishes them good luck
-- Hopes she can repay them in the future
+- Only the very top of the top reaches Transcendent
+- Travelers do not use this system — they have no martial level
 
 ---
 
-## Plot Point — The Sect's Fate
+## Encounters
 
-**After separation:**
-- If the party splits from them, they'll run into the sect again later — after the group has been **slaughtered**
-- Outcome options: only the girl survives / only the boy survives / both survive / both + some members survive / none survive
-- **The party can influence which outcome happens**
+1. [[Encounters/01 - The Sect Group/Overview|The Sect Group]]
+2. [[Encounters/02 - The Timid Snake/Overview|The Timid Snake]]
+3. [[Encounters/03 - The Shaolin Monk/Overview|The Shaolin Monk]]
+4. [[Encounters/04 - The Drunk Old Man/Overview|The Drunk Old Man]]
+5. [[Encounters/05 - The Young Adult Girl/Overview|The Young Adult Girl]]
 
-**The survival mechanic:**
-- At every new location, the party has a **chance to run into them again**
-- If the party helps them and helps them grow → higher survival chance
-- **Tangible gifts** (valuable treasure, gold, items) → they become **targets**. Before they were just ants; now they're ants carrying treasure. More misfortune follows.
-- **Intangible gifts** (training, knowledge, protection, guidance) → helps them survive
+## Realm Details
 
-**The girl's drive:**
-- Looking for more power and money — her sect is poor
-- They haven't eaten meat in a long time
-
-**How the annihilation happens (girl's route):**
-- They tried to go into an **orange gate** — and got lucky at first
-- The next gate was very bad luck: they ran into people **stronger than them** who seemed like good people
-- They were not good people. They attacked the sect group directly, with no warning — overwhelming strength, no pretense of a trap.
-- By the time the party finds them, the group has been slaughtered — only the outcome survivors remain *(see above)*
-
----
-
-## Second Encounter — The Timid Snake
-
-**The scene:**
-- A weak-looking guy, very timid and afraid
-- Alone. Doesn't own much — just a sword and a rusted bracelet
-- He tries to cling to the party, will do anything — even become a slave — to stay with them
-
-**The truth:**
-- Secretly a "snake" — he's waiting for an opportunity to take out the party and steal everything they have
-- He's actually a **Traveler**, like them
-- His abilities are built for betrayal:
-  - **Pocket hoarding** — can stash things in his pockets
-  - **Ambush** — striking when they least expect it
-
-**The trap:**
-- He plays weak, timid, and desperate to earn their trust
-- The moment a good opportunity presents itself — alone, distracted, vulnerable — he strikes
-
----
-
-## Third Encounter — The Shaolin Monk
-
-**The scene:**
-- The party comes across a treasure that seems strong/powerful
-- A Shaolin monk approaches and asks if he can take it away **for safekeeping**
-- His reasoning: the treasure will inspire greed in other people — keeping it will cause bloodshed. Taking it minimizes the violence.
-- If the party refuses, the monk will take it **by force** if needed
-
-**The choice:**
-- Hand it over peacefully?
-- Refuse and fight?
-- Some third option?
-
-**The monk's angle:**
-- Not malicious — genuinely believes he's preventing bloodshed
-- But his conviction is absolute. He won't be talked out of it easily.
-- The party has to judge: is he sincere, or just another treasure-hunter using piety as a cover?
+- [[Realm/Overview|Realm Structure & Lore]]
